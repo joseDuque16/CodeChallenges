@@ -38,7 +38,6 @@ any optimizations you made and how they impact the run-time of the algorithm. */
             possible permutation of a list        
    
 */
-// Started at 6pm on saturday
 
 public class itemCoupleFindingAlgorithm {
 	

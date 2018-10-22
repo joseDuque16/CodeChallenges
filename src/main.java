@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.io.*;
 
 /* The attached text file contains the favorite musical artists of 1000 users from 
 Some Popular Music Review Website. Each line is a list of up to 50 artists, 
@@ -38,13 +39,31 @@ any optimizations you made and how they impact the run-time of the algorithm. */
    
 */
 // Started at 6pm on saturday pause at 6:29, continuing 6:32 to 7:15, continuing at 740 - 8:15
-
+// Continued at 2:32 pm finished at 2:50
+// TODO: add unicode support
 public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// TODO: Perform file processing
-		String inputAsString = "Radiohead,Pulp,Morrissey,Delays,Stereophonics,Blur,Suede,Sleeper,The La's," + 
+		File fileIn = new File("./Artist_lists_small.txt");
+		String inputAsString = "";
+		BufferedReader br;
+		
+		try {// Store the file as a string
+			br = new BufferedReader(new FileReader(fileIn));
+			String st; 
+			while ((st = br.readLine()) != null) {
+				inputAsString += st;}
+		} catch (IOException e) {
+			e.printStackTrace();
+		} 
+		
+		  
+		
+
+		
+		String inputAsString2 = "Radiohead,Pulp,Morrissey,Delays,Stereophonics,Blur,Suede,Sleeper,The La's," + 
 				"Super Furry Animals,Iggy Pop\n" + 
 				"Band of Horses,Smashing Pumpkins,The Velvet Underground,Radiohead," + 
 				"The Decemberists,Morrissey,Television\\n ";

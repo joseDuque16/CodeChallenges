@@ -87,7 +87,15 @@ public class itemCoupleFindingAlgorithm {
 			userBandPicks.set(i, updatedList);
 		}
 		
-		  
+		
+		// To convert to unicode: from current format (EXPERIMENTAL)
+		char[] string_to_convert = uniqueBands.get(2).toCharArray();
+		
+		for (char c : string_to_convert) {
+			System.out.printf("\\u%04x\n", (int) c);}
+		
+		//for (String band: uniqueBands) { System.out.print(band);}
+		
 		coupleFinding();
 	}
 	
@@ -102,7 +110,7 @@ public class itemCoupleFindingAlgorithm {
 		String[] currentCouple;
 		
 		// Loop through the current users band list
-		for (int x=0; x< userBandPicks.size(); x++) {
+		for (int x=0; x< userBandPicks.size()-1; x++) {
 			String[] currentUsersList = userBandPicks.get(x);
 			
 			// select a couple that is neither already in the coupeList or the failed CoupleList
@@ -130,11 +138,23 @@ public class itemCoupleFindingAlgorithm {
 	// Iterates through the list of user choices, to try to find if a couple exists
 	// Additionally use an offset so we dont search from the start every time
 	public int findNumCoupleOccurrences(String[] currentCouple, int offset) {
-		int output = 0;
+		int count = 0;
 		
+		// Iterate through the remaining user lists, but stop at 49 lists before the end
+		// because at that point all of the couples with over 50 occurrences have been found
+		for (int x=offset; x< userBandPicks.size(); x++) {
+			String[] currentUserList = userBandPicks.get(offset);
+			int stringCount =0;
+			// Check if bands exist in all given user lists
+			for (String band : currentUserList) {
+				if (band == currentCouple[0] || band == currentCouple[1]) {
+					stringCount += 1;
+				}
+			}
+			if (stringCount == 2) { count+=1;} // Increase count if both strings found
+		}
 		
-		
-		return output;
+		return count;
 	}
 	
 

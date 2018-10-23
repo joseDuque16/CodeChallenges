@@ -1,3 +1,6 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Hashtable;
 
@@ -36,18 +39,16 @@ any optimizations you made and how they impact the run-time of the algorithm. */
             to an arraylist of found lists. Now we pick another two items from the first list such that the pair
             we select does not exist in an arraylist of failed couples. Until we are done with every
             possible permutation of a list        
-   
 */
 
 public class itemCoupleFindingAlgorithm {
 	
 	ArrayList <String[]> userBandPicks = new ArrayList<String[]>();
-	ArrayList <String[]> coupleList = new ArrayList<String[]>();
-	ArrayList <String[]> failedCoupleList = new ArrayList<String[]>();
+	ArrayList <String> coupleList = new ArrayList<String>();
+	ArrayList <String> failedCoupleList = new ArrayList<String>();
 	
 	// Populates the userBandPicks array
-	public itemCoupleFindingAlgorithm(String inputFileAsString) {
-		
+	public itemCoupleFindingAlgorithm(String inputFileAsString, String OutputFileName){
 		String[] linesInFile;
 		String[] bandsInLine = new String[50]; // a string array of bands picked by each user
 		Hashtable<String,Integer> occurrenceCount = new Hashtable<String,Integer>();
@@ -64,39 +65,38 @@ public class itemCoupleFindingAlgorithm {
 			
 			// Count band occurrences to narrow down the search to bands that have at least 50 occurrences
 			for (String band: bandsInLine) {
+				
 				// Increment the occurrence index or create a new band occurrence
-				if (occurrenceCount.contains(band)) {
-					occurrenceCount.put(band, occurrenceCount.get(band) +1 );}
-				else { occurrenceCount.put(band, 1);
-						uniqueBands.add(band);}
+				if (occurrenceCount.containsKey(band)) {
+					occurrenceCount.put(band, occurrenceCount.get(band) +1 );
+				}else { occurrenceCount.put(band, 1);
+						uniqueBands.add(band);
+				}
 			}
 		}
 			
 		// loop through each list removing bands that are unpopular picks and do not meet >= 50 pick requirement
 		for (int i=0; i <userBandPicks.size(); i++) {
 			String[] currentUserList = userBandPicks.get(i);
-			String[] updatedList = new String[50]; // 50 is the max size of a user list
+			ArrayList<String> updatedList = new ArrayList<String>(); 
+			String [] updatedArray;
 
 			// Update each user band list with only bands that fit the >= 50 occurrence count
 			for (String band: currentUserList) {
-				if (occurrenceCount.get(band) >= 50) {
-					updatedList[updatedList.length-1] = band; // store to the end of the updated list
+					if (occurrenceCount.get(band) >= 50) {
+						updatedList.add(band); // store to the end of the updated list
+					}
 				}
+				updatedArray = updatedList.toArray(new String[updatedList.size()]);
+				userBandPicks.set(i, updatedArray);
 			}
 			
-			userBandPicks.set(i, updatedList);
+		try {
+			coupleFinding(OutputFileName);
+		}catch (IOException ex) {
+			System.out.print("Error occurred writing output list to file");
 		}
 		
-		
-		// To convert to unicode: from current format (EXPERIMENTAL)
-		char[] string_to_convert = uniqueBands.get(2).toCharArray();
-		
-		for (char c : string_to_convert) {
-			System.out.printf("\\u%04x\n", (int) c);}
-		
-		//for (String band: uniqueBands) { System.out.print(band);}
-		
-		coupleFinding();
 	}
 	
 	// STEP 2:
@@ -105,34 +105,48 @@ public class itemCoupleFindingAlgorithm {
 	// to an arraylist of found lists. Now we pick another two items from the first list such that the pair
 	// we select does not exist in an arraylist of failed couples. Until we are done with every
 	// possible permutation of a list  
-	public void coupleFinding() {
+	public void coupleFinding(String outputFileName) throws IOException {
+		String output = "";
+		BufferedWriter writer = new BufferedWriter(new FileWriter(outputFileName, true));
+		
 		// find a couple in list a and compare through all the lists
 		String[] currentCouple;
 		
-		// Loop through the current users band list
-		for (int x=0; x< userBandPicks.size()-1; x++) {
+		// OPTIMIZATION: 
+		// Iterate through the remaining user lists, but stop at 49 lists before the end
+		// because at that point all of the couples with over 50 occurrences have been found
+		for (int x=0; x< userBandPicks.size()-49; x++) { 
 			String[] currentUsersList = userBandPicks.get(x);
 			
-			// select a couple that is neither already in the coupeList or the failed CoupleList
 			for (String item1 : currentUsersList) {
 				for (String item2 : currentUsersList) {
 					if (item1 != item2) {
 						String[] option1 = {item1,item2};
-						String[] option2 = {item2,item1};
+						String option1txt = item1 + item2; // Stored as txt to facilitate checking the failed couples/ existing couples
+						String option2txt = item2 + item1; // in order to avoid any duplicate prints
+						
 						// check if [item1, item2] or [item2, item1] exists in either couple or failed couple list
-						if (coupleList.contains(option1) || failedCoupleList.contains(option1) || 
-								coupleList.contains(option2) || failedCoupleList.contains(option2)) {
-								currentCouple = null;
+						if (coupleList.contains(option1txt) || failedCoupleList.contains(option1txt) || 
+								coupleList.contains(option2txt) || failedCoupleList.contains(option2txt)) {
+								continue;
 						}else {// Now that a couple has been selected, find the number of occurrences in the other user lists
-							currentCouple = option1;
-							if (findNumCoupleOccurrences(currentCouple,x)> 50) {
-								coupleList.add(currentCouple);
-							}else {failedCoupleList.add(currentCouple);}
+							// Check if the number of occurrences exceeds the 50 threshold
+							if (findNumCoupleOccurrences(option1,x)> 50) {
+								coupleList.add(option1txt);
+								output = item1 + " , " + item2 + "\n";
+								writer.write(output);// Write the result to a file
+							}else {
+								failedCoupleList.add(option1txt);
+								failedCoupleList.add(option2txt);
+							}
 						}
 					}
 				}
 			}
 		}
+		
+		writer.close(); 
+		
 	}
 	
 	// Iterates through the list of user choices, to try to find if a couple exists
@@ -140,11 +154,11 @@ public class itemCoupleFindingAlgorithm {
 	public int findNumCoupleOccurrences(String[] currentCouple, int offset) {
 		int count = 0;
 		
-		// Iterate through the remaining user lists, but stop at 49 lists before the end
-		// because at that point all of the couples with over 50 occurrences have been found
+		
 		for (int x=offset; x< userBandPicks.size(); x++) {
 			String[] currentUserList = userBandPicks.get(offset);
 			int stringCount =0;
+			
 			// Check if bands exist in all given user lists
 			for (String band : currentUserList) {
 				if (band == currentCouple[0] || band == currentCouple[1]) {

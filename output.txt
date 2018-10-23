@@ -1,0 +1,7209 @@
+Lady Gaga , Rise Against
+Lady Gaga , Radiohead
+Lady Gaga , Red Hot Chili Peppers
+Rise Against , Radiohead
+Rise Against , Red Hot Chili Peppers
+Radiohead , Red Hot Chili Peppers
+The Beatles , Taylor Swift
+The Beatles , All Time Low
+The Beatles , Ke$ha
+The Beatles , Cobra Starship
+The Beatles , Avril Lavigne
+The Beatles , The Kooks
+The Beatles , Lady Gaga
+The Beatles , 3OH!3
+The Beatles , Vampire Weekend
+The Beatles , blink-182
+The Beatles , Oasis
+Taylor Swift , All Time Low
+Taylor Swift , Ke$ha
+Taylor Swift , Cobra Starship
+Taylor Swift , Avril Lavigne
+Taylor Swift , The Kooks
+Taylor Swift , Lady Gaga
+Taylor Swift , 3OH!3
+Taylor Swift , Vampire Weekend
+Taylor Swift , blink-182
+Taylor Swift , Oasis
+All Time Low , Ke$ha
+All Time Low , Cobra Starship
+All Time Low , Avril Lavigne
+All Time Low , The Kooks
+All Time Low , Lady Gaga
+All Time Low , 3OH!3
+All Time Low , Vampire Weekend
+All Time Low , blink-182
+All Time Low , Oasis
+Ke$ha , Cobra Starship
+Ke$ha , Avril Lavigne
+Ke$ha , The Kooks
+Ke$ha , Lady Gaga
+Ke$ha , 3OH!3
+Ke$ha , Vampire Weekend
+Ke$ha , blink-182
+Ke$ha , Oasis
+Cobra Starship , Avril Lavigne
+Cobra Starship , The Kooks
+Cobra Starship , Lady Gaga
+Cobra Starship , 3OH!3
+Cobra Starship , Vampire Weekend
+Cobra Starship , blink-182
+Cobra Starship , Oasis
+Avril Lavigne , The Kooks
+Avril Lavigne , Lady Gaga
+Avril Lavigne , 3OH!3
+Avril Lavigne , Vampire Weekend
+Avril Lavigne , blink-182
+Avril Lavigne , Oasis
+The Kooks , Lady Gaga
+The Kooks , 3OH!3
+The Kooks , Vampire Weekend
+The Kooks , blink-182
+The Kooks , Oasis
+Lady Gaga , 3OH!3
+Lady Gaga , Vampire Weekend
+Lady Gaga , blink-182
+Lady Gaga , Oasis
+3OH!3 , Vampire Weekend
+3OH!3 , blink-182
+3OH!3 , Oasis
+Vampire Weekend , blink-182
+Vampire Weekend , Oasis
+blink-182 , Oasis
+Joy Division , Belle and Sebastian
+Joy Division , Portishead
+Joy Division , Ramones
+Joy Division , The Cure
+Joy Division , The Smiths
+Joy Division , Crystal Castles
+Joy Division , Vampire Weekend
+Belle and Sebastian , Portishead
+Belle and Sebastian , Ramones
+Belle and Sebastian , The Cure
+Belle and Sebastian , The Smiths
+Belle and Sebastian , Crystal Castles
+Belle and Sebastian , Vampire Weekend
+Portishead , Ramones
+Portishead , The Cure
+Portishead , The Smiths
+Portishead , Crystal Castles
+Portishead , Vampire Weekend
+Ramones , The Cure
+Ramones , The Smiths
+Ramones , Crystal Castles
+Ramones , Vampire Weekend
+The Cure , The Smiths
+The Cure , Crystal Castles
+The Cure , Vampire Weekend
+The Smiths , Crystal Castles
+The Smiths , Vampire Weekend
+Crystal Castles , Vampire Weekend
+30 Seconds to Mars , Nickelback
+30 Seconds to Mars , Incubus
+30 Seconds to Mars , Breaking Benjamin
+30 Seconds to Mars , Megadeth
+30 Seconds to Mars , Slayer
+Nickelback , Incubus
+Nickelback , Breaking Benjamin
+Nickelback , Megadeth
+Nickelback , Slayer
+Incubus , Breaking Benjamin
+Incubus , Megadeth
+Incubus , Slayer
+Breaking Benjamin , Megadeth
+Breaking Benjamin , Slayer
+Megadeth , Slayer
+Muse , Lady Gaga
+Muse , The All-American Rejects
+Muse , Placebo
+Muse , Nickelback
+Muse , The Kooks
+Muse , The Smashing Pumpkins
+Muse , Fall Out Boy
+Muse , Linkin Park
+Muse , Incubus
+Muse , Vampire Weekend
+Muse , Madonna
+Muse , Foo Fighters
+Muse , Amy Winehouse
+Muse , Katy Perry
+Muse , Rihanna
+Muse , U2
+Muse , Oasis
+Lady Gaga , The All-American Rejects
+Lady Gaga , Placebo
+Lady Gaga , Nickelback
+Lady Gaga , The Smashing Pumpkins
+Lady Gaga , Fall Out Boy
+Lady Gaga , Linkin Park
+Lady Gaga , Incubus
+Lady Gaga , Madonna
+Lady Gaga , Foo Fighters
+Lady Gaga , Amy Winehouse
+Lady Gaga , Katy Perry
+Lady Gaga , Rihanna
+Lady Gaga , U2
+The All-American Rejects , Placebo
+The All-American Rejects , Nickelback
+The All-American Rejects , The Kooks
+The All-American Rejects , The Smashing Pumpkins
+The All-American Rejects , Fall Out Boy
+The All-American Rejects , Linkin Park
+The All-American Rejects , Incubus
+The All-American Rejects , Vampire Weekend
+The All-American Rejects , Madonna
+The All-American Rejects , Foo Fighters
+The All-American Rejects , Amy Winehouse
+The All-American Rejects , Katy Perry
+The All-American Rejects , Rihanna
+The All-American Rejects , U2
+The All-American Rejects , Oasis
+Placebo , Nickelback
+Placebo , The Kooks
+Placebo , The Smashing Pumpkins
+Placebo , Fall Out Boy
+Placebo , Linkin Park
+Placebo , Incubus
+Placebo , Vampire Weekend
+Placebo , Madonna
+Placebo , Foo Fighters
+Placebo , Amy Winehouse
+Placebo , Katy Perry
+Placebo , Rihanna
+Placebo , U2
+Placebo , Oasis
+Nickelback , The Kooks
+Nickelback , The Smashing Pumpkins
+Nickelback , Fall Out Boy
+Nickelback , Linkin Park
+Nickelback , Vampire Weekend
+Nickelback , Madonna
+Nickelback , Foo Fighters
+Nickelback , Amy Winehouse
+Nickelback , Katy Perry
+Nickelback , Rihanna
+Nickelback , U2
+Nickelback , Oasis
+The Kooks , The Smashing Pumpkins
+The Kooks , Fall Out Boy
+The Kooks , Linkin Park
+The Kooks , Incubus
+The Kooks , Madonna
+The Kooks , Foo Fighters
+The Kooks , Amy Winehouse
+The Kooks , Katy Perry
+The Kooks , Rihanna
+The Kooks , U2
+The Smashing Pumpkins , Fall Out Boy
+The Smashing Pumpkins , Linkin Park
+The Smashing Pumpkins , Incubus
+The Smashing Pumpkins , Vampire Weekend
+The Smashing Pumpkins , Madonna
+The Smashing Pumpkins , Foo Fighters
+The Smashing Pumpkins , Amy Winehouse
+The Smashing Pumpkins , Katy Perry
+The Smashing Pumpkins , Rihanna
+The Smashing Pumpkins , U2
+The Smashing Pumpkins , Oasis
+Fall Out Boy , Linkin Park
+Fall Out Boy , Incubus
+Fall Out Boy , Vampire Weekend
+Fall Out Boy , Madonna
+Fall Out Boy , Foo Fighters
+Fall Out Boy , Amy Winehouse
+Fall Out Boy , Katy Perry
+Fall Out Boy , Rihanna
+Fall Out Boy , U2
+Fall Out Boy , Oasis
+Linkin Park , Incubus
+Linkin Park , Vampire Weekend
+Linkin Park , Madonna
+Linkin Park , Foo Fighters
+Linkin Park , Amy Winehouse
+Linkin Park , Katy Perry
+Linkin Park , Rihanna
+Linkin Park , U2
+Linkin Park , Oasis
+Incubus , Vampire Weekend
+Incubus , Madonna
+Incubus , Foo Fighters
+Incubus , Amy Winehouse
+Incubus , Katy Perry
+Incubus , Rihanna
+Incubus , U2
+Incubus , Oasis
+Vampire Weekend , Madonna
+Vampire Weekend , Foo Fighters
+Vampire Weekend , Amy Winehouse
+Vampire Weekend , Katy Perry
+Vampire Weekend , Rihanna
+Vampire Weekend , U2
+Madonna , Foo Fighters
+Madonna , Amy Winehouse
+Madonna , Katy Perry
+Madonna , Rihanna
+Madonna , U2
+Madonna , Oasis
+Foo Fighters , Amy Winehouse
+Foo Fighters , Katy Perry
+Foo Fighters , Rihanna
+Foo Fighters , U2
+Foo Fighters , Oasis
+Amy Winehouse , Katy Perry
+Amy Winehouse , Rihanna
+Amy Winehouse , U2
+Amy Winehouse , Oasis
+Katy Perry , Rihanna
+Katy Perry , U2
+Katy Perry , Oasis
+Rihanna , U2
+Rihanna , Oasis
+U2 , Oasis
+Florence + the Machine , The Cure
+Florence + the Machine , The Beatles
+Florence + the Machine , Muse
+The Cure , The Beatles
+The Cure , Muse
+The Beatles , Muse
+Opeth , Iron Maiden
+Opeth , Children of Bodom
+Opeth , Black Sabbath
+Iron Maiden , Children of Bodom
+Iron Maiden , Black Sabbath
+Children of Bodom , Black Sabbath
+Led Zeppelin , Jimi Hendrix
+Led Zeppelin , The White Stripes
+Led Zeppelin , The Beatles
+Led Zeppelin , Queens of the Stone Age
+Led Zeppelin , The Rolling Stones
+Led Zeppelin , Franz Ferdinand
+Led Zeppelin , Tool
+Led Zeppelin , Nirvana
+Led Zeppelin , Pink Floyd
+Led Zeppelin , Interpol
+Led Zeppelin , Massive Attack
+Led Zeppelin , Yeah Yeah Yeahs
+Led Zeppelin , The Cure
+Led Zeppelin , Joy Division
+Jimi Hendrix , The White Stripes
+Jimi Hendrix , The Beatles
+Jimi Hendrix , Queens of the Stone Age
+Jimi Hendrix , The Rolling Stones
+Jimi Hendrix , Franz Ferdinand
+Jimi Hendrix , Tool
+Jimi Hendrix , Nirvana
+Jimi Hendrix , Pink Floyd
+Jimi Hendrix , Interpol
+Jimi Hendrix , Massive Attack
+Jimi Hendrix , Yeah Yeah Yeahs
+Jimi Hendrix , The Cure
+Jimi Hendrix , Joy Division
+The White Stripes , The Beatles
+The White Stripes , Queens of the Stone Age
+The White Stripes , The Rolling Stones
+The White Stripes , Franz Ferdinand
+The White Stripes , Tool
+The White Stripes , Nirvana
+The White Stripes , Pink Floyd
+The White Stripes , Interpol
+The White Stripes , Massive Attack
+The White Stripes , Yeah Yeah Yeahs
+The White Stripes , The Cure
+The White Stripes , Joy Division
+The Beatles , Queens of the Stone Age
+The Beatles , The Rolling Stones
+The Beatles , Franz Ferdinand
+The Beatles , Tool
+The Beatles , Nirvana
+The Beatles , Pink Floyd
+The Beatles , Interpol
+The Beatles , Massive Attack
+The Beatles , Yeah Yeah Yeahs
+The Beatles , Joy Division
+Queens of the Stone Age , The Rolling Stones
+Queens of the Stone Age , Franz Ferdinand
+Queens of the Stone Age , Tool
+Queens of the Stone Age , Nirvana
+Queens of the Stone Age , Pink Floyd
+Queens of the Stone Age , Interpol
+Queens of the Stone Age , Massive Attack
+Queens of the Stone Age , Yeah Yeah Yeahs
+Queens of the Stone Age , The Cure
+Queens of the Stone Age , Joy Division
+The Rolling Stones , Franz Ferdinand
+The Rolling Stones , Tool
+The Rolling Stones , Nirvana
+The Rolling Stones , Pink Floyd
+The Rolling Stones , Interpol
+The Rolling Stones , Massive Attack
+The Rolling Stones , Yeah Yeah Yeahs
+The Rolling Stones , The Cure
+The Rolling Stones , Joy Division
+Franz Ferdinand , Tool
+Franz Ferdinand , Nirvana
+Franz Ferdinand , Pink Floyd
+Franz Ferdinand , Interpol
+Franz Ferdinand , Massive Attack
+Franz Ferdinand , Yeah Yeah Yeahs
+Franz Ferdinand , The Cure
+Franz Ferdinand , Joy Division
+Tool , Nirvana
+Tool , Pink Floyd
+Tool , Interpol
+Tool , Massive Attack
+Tool , Yeah Yeah Yeahs
+Tool , The Cure
+Tool , Joy Division
+Nirvana , Pink Floyd
+Nirvana , Interpol
+Nirvana , Massive Attack
+Nirvana , Yeah Yeah Yeahs
+Nirvana , The Cure
+Nirvana , Joy Division
+Pink Floyd , Interpol
+Pink Floyd , Massive Attack
+Pink Floyd , Yeah Yeah Yeahs
+Pink Floyd , The Cure
+Pink Floyd , Joy Division
+Interpol , Massive Attack
+Interpol , Yeah Yeah Yeahs
+Interpol , The Cure
+Interpol , Joy Division
+Massive Attack , Yeah Yeah Yeahs
+Massive Attack , The Cure
+Massive Attack , Joy Division
+Yeah Yeah Yeahs , The Cure
+Yeah Yeah Yeahs , Joy Division
+The Doors , The Beatles
+The Doors , Nirvana
+The Doors , Ramones
+The Doors , Kings of Leon
+The Doors , The Smashing Pumpkins
+The Doors , Pearl Jam
+The Doors , Alice in Chains
+The Doors , blink-182
+The Doors , Radiohead
+The Doors , Keane
+The Doors , Arctic Monkeys
+The Doors , Foo Fighters
+The Doors , Metallica
+The Doors , Interpol
+The Doors , Green Day
+The Doors , Depeche Mode
+The Doors , The Smiths
+The Doors , Red Hot Chili Peppers
+The Doors , U2
+The Doors , Muse
+The Doors , The Clash
+The Doors , The Strokes
+The Doors , AC/DC
+The Doors , Coldplay
+The Doors , Pink Floyd
+The Doors , Oasis
+The Doors , Led Zeppelin
+The Doors , Incubus
+The Doors , Bullet for My Valentine
+The Doors , Blur
+The Doors , Placebo
+The Doors , The Killers
+The Doors , The White Stripes
+The Doors , Black Sabbath
+The Beatles , Ramones
+The Beatles , Kings of Leon
+The Beatles , The Smashing Pumpkins
+The Beatles , Pearl Jam
+The Beatles , Alice in Chains
+The Beatles , Radiohead
+The Beatles , Keane
+The Beatles , Arctic Monkeys
+The Beatles , Foo Fighters
+The Beatles , Metallica
+The Beatles , Green Day
+The Beatles , Depeche Mode
+The Beatles , The Smiths
+The Beatles , Red Hot Chili Peppers
+The Beatles , U2
+The Beatles , The Clash
+The Beatles , The Strokes
+The Beatles , AC/DC
+The Beatles , Coldplay
+The Beatles , Incubus
+The Beatles , Bullet for My Valentine
+The Beatles , Blur
+The Beatles , Placebo
+The Beatles , The Killers
+The Beatles , Black Sabbath
+Nirvana , Ramones
+Nirvana , Kings of Leon
+Nirvana , The Smashing Pumpkins
+Nirvana , Pearl Jam
+Nirvana , Alice in Chains
+Nirvana , blink-182
+Nirvana , Radiohead
+Nirvana , Keane
+Nirvana , Arctic Monkeys
+Nirvana , Foo Fighters
+Nirvana , Metallica
+Nirvana , Green Day
+Nirvana , Depeche Mode
+Nirvana , The Smiths
+Nirvana , Red Hot Chili Peppers
+Nirvana , U2
+Nirvana , Muse
+Nirvana , The Clash
+Nirvana , The Strokes
+Nirvana , AC/DC
+Nirvana , Coldplay
+Nirvana , Oasis
+Nirvana , Incubus
+Nirvana , Bullet for My Valentine
+Nirvana , Blur
+Nirvana , Placebo
+Nirvana , The Killers
+Nirvana , Black Sabbath
+Ramones , Kings of Leon
+Ramones , The Smashing Pumpkins
+Ramones , Pearl Jam
+Ramones , Alice in Chains
+Ramones , blink-182
+Ramones , Radiohead
+Ramones , Keane
+Ramones , Arctic Monkeys
+Ramones , Foo Fighters
+Ramones , Metallica
+Ramones , Interpol
+Ramones , Green Day
+Ramones , Depeche Mode
+Ramones , Red Hot Chili Peppers
+Ramones , U2
+Ramones , Muse
+Ramones , The Clash
+Ramones , The Strokes
+Ramones , AC/DC
+Ramones , Coldplay
+Ramones , Pink Floyd
+Ramones , Oasis
+Ramones , Led Zeppelin
+Ramones , Incubus
+Ramones , Bullet for My Valentine
+Ramones , Blur
+Ramones , Placebo
+Ramones , The Killers
+Ramones , The White Stripes
+Ramones , Black Sabbath
+Kings of Leon , The Smashing Pumpkins
+Kings of Leon , Pearl Jam
+Kings of Leon , Alice in Chains
+Kings of Leon , blink-182
+Kings of Leon , Radiohead
+Kings of Leon , Keane
+Kings of Leon , Arctic Monkeys
+Kings of Leon , Foo Fighters
+Kings of Leon , Metallica
+Kings of Leon , Interpol
+Kings of Leon , Green Day
+Kings of Leon , Depeche Mode
+Kings of Leon , The Smiths
+Kings of Leon , Red Hot Chili Peppers
+Kings of Leon , U2
+Kings of Leon , Muse
+Kings of Leon , The Clash
+Kings of Leon , The Strokes
+Kings of Leon , AC/DC
+Kings of Leon , Coldplay
+Kings of Leon , Pink Floyd
+Kings of Leon , Oasis
+Kings of Leon , Led Zeppelin
+Kings of Leon , Incubus
+Kings of Leon , Bullet for My Valentine
+Kings of Leon , Blur
+Kings of Leon , Placebo
+Kings of Leon , The Killers
+Kings of Leon , The White Stripes
+Kings of Leon , Black Sabbath
+The Smashing Pumpkins , Pearl Jam
+The Smashing Pumpkins , Alice in Chains
+The Smashing Pumpkins , blink-182
+The Smashing Pumpkins , Radiohead
+The Smashing Pumpkins , Keane
+The Smashing Pumpkins , Arctic Monkeys
+The Smashing Pumpkins , Metallica
+The Smashing Pumpkins , Interpol
+The Smashing Pumpkins , Green Day
+The Smashing Pumpkins , Depeche Mode
+The Smashing Pumpkins , The Smiths
+The Smashing Pumpkins , Red Hot Chili Peppers
+The Smashing Pumpkins , The Clash
+The Smashing Pumpkins , The Strokes
+The Smashing Pumpkins , AC/DC
+The Smashing Pumpkins , Coldplay
+The Smashing Pumpkins , Pink Floyd
+The Smashing Pumpkins , Led Zeppelin
+The Smashing Pumpkins , Bullet for My Valentine
+The Smashing Pumpkins , Blur
+The Smashing Pumpkins , The Killers
+The Smashing Pumpkins , The White Stripes
+The Smashing Pumpkins , Black Sabbath
+Pearl Jam , Alice in Chains
+Pearl Jam , blink-182
+Pearl Jam , Radiohead
+Pearl Jam , Keane
+Pearl Jam , Arctic Monkeys
+Pearl Jam , Foo Fighters
+Pearl Jam , Metallica
+Pearl Jam , Interpol
+Pearl Jam , Green Day
+Pearl Jam , Depeche Mode
+Pearl Jam , The Smiths
+Pearl Jam , Red Hot Chili Peppers
+Pearl Jam , U2
+Pearl Jam , Muse
+Pearl Jam , The Clash
+Pearl Jam , The Strokes
+Pearl Jam , AC/DC
+Pearl Jam , Coldplay
+Pearl Jam , Pink Floyd
+Pearl Jam , Oasis
+Pearl Jam , Led Zeppelin
+Pearl Jam , Incubus
+Pearl Jam , Bullet for My Valentine
+Pearl Jam , Blur
+Pearl Jam , Placebo
+Pearl Jam , The Killers
+Pearl Jam , The White Stripes
+Pearl Jam , Black Sabbath
+Alice in Chains , blink-182
+Alice in Chains , Radiohead
+Alice in Chains , Keane
+Alice in Chains , Arctic Monkeys
+Alice in Chains , Foo Fighters
+Alice in Chains , Metallica
+Alice in Chains , Interpol
+Alice in Chains , Green Day
+Alice in Chains , Depeche Mode
+Alice in Chains , The Smiths
+Alice in Chains , Red Hot Chili Peppers
+Alice in Chains , U2
+Alice in Chains , Muse
+Alice in Chains , The Clash
+Alice in Chains , The Strokes
+Alice in Chains , AC/DC
+Alice in Chains , Coldplay
+Alice in Chains , Pink Floyd
+Alice in Chains , Oasis
+Alice in Chains , Led Zeppelin
+Alice in Chains , Incubus
+Alice in Chains , Bullet for My Valentine
+Alice in Chains , Blur
+Alice in Chains , Placebo
+Alice in Chains , The Killers
+Alice in Chains , The White Stripes
+Alice in Chains , Black Sabbath
+blink-182 , Radiohead
+blink-182 , Keane
+blink-182 , Arctic Monkeys
+blink-182 , Foo Fighters
+blink-182 , Metallica
+blink-182 , Interpol
+blink-182 , Green Day
+blink-182 , Depeche Mode
+blink-182 , The Smiths
+blink-182 , Red Hot Chili Peppers
+blink-182 , U2
+blink-182 , Muse
+blink-182 , The Clash
+blink-182 , The Strokes
+blink-182 , AC/DC
+blink-182 , Coldplay
+blink-182 , Pink Floyd
+blink-182 , Led Zeppelin
+blink-182 , Incubus
+blink-182 , Bullet for My Valentine
+blink-182 , Blur
+blink-182 , Placebo
+blink-182 , The Killers
+blink-182 , The White Stripes
+blink-182 , Black Sabbath
+Radiohead , Keane
+Radiohead , Arctic Monkeys
+Radiohead , Foo Fighters
+Radiohead , Metallica
+Radiohead , Interpol
+Radiohead , Green Day
+Radiohead , Depeche Mode
+Radiohead , The Smiths
+Radiohead , U2
+Radiohead , Muse
+Radiohead , The Clash
+Radiohead , The Strokes
+Radiohead , AC/DC
+Radiohead , Coldplay
+Radiohead , Pink Floyd
+Radiohead , Oasis
+Radiohead , Led Zeppelin
+Radiohead , Incubus
+Radiohead , Bullet for My Valentine
+Radiohead , Blur
+Radiohead , Placebo
+Radiohead , The Killers
+Radiohead , The White Stripes
+Radiohead , Black Sabbath
+Keane , Arctic Monkeys
+Keane , Foo Fighters
+Keane , Metallica
+Keane , Interpol
+Keane , Green Day
+Keane , Depeche Mode
+Keane , The Smiths
+Keane , Red Hot Chili Peppers
+Keane , U2
+Keane , Muse
+Keane , The Clash
+Keane , The Strokes
+Keane , AC/DC
+Keane , Coldplay
+Keane , Pink Floyd
+Keane , Oasis
+Keane , Led Zeppelin
+Keane , Incubus
+Keane , Bullet for My Valentine
+Keane , Blur
+Keane , Placebo
+Keane , The Killers
+Keane , The White Stripes
+Keane , Black Sabbath
+Arctic Monkeys , Foo Fighters
+Arctic Monkeys , Metallica
+Arctic Monkeys , Interpol
+Arctic Monkeys , Green Day
+Arctic Monkeys , Depeche Mode
+Arctic Monkeys , The Smiths
+Arctic Monkeys , Red Hot Chili Peppers
+Arctic Monkeys , U2
+Arctic Monkeys , Muse
+Arctic Monkeys , The Clash
+Arctic Monkeys , The Strokes
+Arctic Monkeys , AC/DC
+Arctic Monkeys , Coldplay
+Arctic Monkeys , Pink Floyd
+Arctic Monkeys , Oasis
+Arctic Monkeys , Led Zeppelin
+Arctic Monkeys , Incubus
+Arctic Monkeys , Bullet for My Valentine
+Arctic Monkeys , Blur
+Arctic Monkeys , Placebo
+Arctic Monkeys , The Killers
+Arctic Monkeys , The White Stripes
+Arctic Monkeys , Black Sabbath
+Foo Fighters , Metallica
+Foo Fighters , Interpol
+Foo Fighters , Green Day
+Foo Fighters , Depeche Mode
+Foo Fighters , The Smiths
+Foo Fighters , Red Hot Chili Peppers
+Foo Fighters , The Clash
+Foo Fighters , The Strokes
+Foo Fighters , AC/DC
+Foo Fighters , Coldplay
+Foo Fighters , Pink Floyd
+Foo Fighters , Led Zeppelin
+Foo Fighters , Bullet for My Valentine
+Foo Fighters , Blur
+Foo Fighters , The Killers
+Foo Fighters , The White Stripes
+Foo Fighters , Black Sabbath
+Metallica , Interpol
+Metallica , Green Day
+Metallica , Depeche Mode
+Metallica , The Smiths
+Metallica , Red Hot Chili Peppers
+Metallica , U2
+Metallica , Muse
+Metallica , The Clash
+Metallica , The Strokes
+Metallica , AC/DC
+Metallica , Coldplay
+Metallica , Pink Floyd
+Metallica , Oasis
+Metallica , Led Zeppelin
+Metallica , Incubus
+Metallica , Bullet for My Valentine
+Metallica , Blur
+Metallica , Placebo
+Metallica , The Killers
+Metallica , The White Stripes
+Metallica , Black Sabbath
+Interpol , Green Day
+Interpol , Depeche Mode
+Interpol , The Smiths
+Interpol , Red Hot Chili Peppers
+Interpol , U2
+Interpol , Muse
+Interpol , The Clash
+Interpol , The Strokes
+Interpol , AC/DC
+Interpol , Coldplay
+Interpol , Oasis
+Interpol , Incubus
+Interpol , Bullet for My Valentine
+Interpol , Blur
+Interpol , Placebo
+Interpol , The Killers
+Interpol , Black Sabbath
+Green Day , Depeche Mode
+Green Day , The Smiths
+Green Day , Red Hot Chili Peppers
+Green Day , U2
+Green Day , Muse
+Green Day , The Clash
+Green Day , The Strokes
+Green Day , AC/DC
+Green Day , Coldplay
+Green Day , Pink Floyd
+Green Day , Oasis
+Green Day , Led Zeppelin
+Green Day , Incubus
+Green Day , Bullet for My Valentine
+Green Day , Blur
+Green Day , Placebo
+Green Day , The Killers
+Green Day , The White Stripes
+Green Day , Black Sabbath
+Depeche Mode , The Smiths
+Depeche Mode , Red Hot Chili Peppers
+Depeche Mode , U2
+Depeche Mode , Muse
+Depeche Mode , The Clash
+Depeche Mode , The Strokes
+Depeche Mode , AC/DC
+Depeche Mode , Coldplay
+Depeche Mode , Pink Floyd
+Depeche Mode , Oasis
+Depeche Mode , Led Zeppelin
+Depeche Mode , Incubus
+Depeche Mode , Bullet for My Valentine
+Depeche Mode , Blur
+Depeche Mode , Placebo
+Depeche Mode , The Killers
+Depeche Mode , The White Stripes
+Depeche Mode , Black Sabbath
+The Smiths , Red Hot Chili Peppers
+The Smiths , U2
+The Smiths , Muse
+The Smiths , The Clash
+The Smiths , The Strokes
+The Smiths , AC/DC
+The Smiths , Coldplay
+The Smiths , Pink Floyd
+The Smiths , Oasis
+The Smiths , Led Zeppelin
+The Smiths , Incubus
+The Smiths , Bullet for My Valentine
+The Smiths , Blur
+The Smiths , Placebo
+The Smiths , The Killers
+The Smiths , The White Stripes
+The Smiths , Black Sabbath
+Red Hot Chili Peppers , U2
+Red Hot Chili Peppers , Muse
+Red Hot Chili Peppers , The Clash
+Red Hot Chili Peppers , The Strokes
+Red Hot Chili Peppers , AC/DC
+Red Hot Chili Peppers , Coldplay
+Red Hot Chili Peppers , Pink Floyd
+Red Hot Chili Peppers , Oasis
+Red Hot Chili Peppers , Led Zeppelin
+Red Hot Chili Peppers , Incubus
+Red Hot Chili Peppers , Bullet for My Valentine
+Red Hot Chili Peppers , Blur
+Red Hot Chili Peppers , Placebo
+Red Hot Chili Peppers , The Killers
+Red Hot Chili Peppers , The White Stripes
+Red Hot Chili Peppers , Black Sabbath
+U2 , The Clash
+U2 , The Strokes
+U2 , AC/DC
+U2 , Coldplay
+U2 , Pink Floyd
+U2 , Led Zeppelin
+U2 , Bullet for My Valentine
+U2 , Blur
+U2 , The Killers
+U2 , The White Stripes
+U2 , Black Sabbath
+Muse , The Clash
+Muse , The Strokes
+Muse , AC/DC
+Muse , Coldplay
+Muse , Pink Floyd
+Muse , Led Zeppelin
+Muse , Bullet for My Valentine
+Muse , Blur
+Muse , The Killers
+Muse , The White Stripes
+Muse , Black Sabbath
+The Clash , The Strokes
+The Clash , AC/DC
+The Clash , Coldplay
+The Clash , Pink Floyd
+The Clash , Oasis
+The Clash , Led Zeppelin
+The Clash , Incubus
+The Clash , Bullet for My Valentine
+The Clash , Blur
+The Clash , Placebo
+The Clash , The Killers
+The Clash , The White Stripes
+The Clash , Black Sabbath
+The Strokes , AC/DC
+The Strokes , Coldplay
+The Strokes , Pink Floyd
+The Strokes , Oasis
+The Strokes , Led Zeppelin
+The Strokes , Incubus
+The Strokes , Bullet for My Valentine
+The Strokes , Blur
+The Strokes , Placebo
+The Strokes , The Killers
+The Strokes , The White Stripes
+The Strokes , Black Sabbath
+AC/DC , Coldplay
+AC/DC , Pink Floyd
+AC/DC , Oasis
+AC/DC , Led Zeppelin
+AC/DC , Incubus
+AC/DC , Bullet for My Valentine
+AC/DC , Blur
+AC/DC , Placebo
+AC/DC , The Killers
+AC/DC , The White Stripes
+AC/DC , Black Sabbath
+Coldplay , Pink Floyd
+Coldplay , Oasis
+Coldplay , Led Zeppelin
+Coldplay , Incubus
+Coldplay , Bullet for My Valentine
+Coldplay , Blur
+Coldplay , Placebo
+Coldplay , The Killers
+Coldplay , The White Stripes
+Coldplay , Black Sabbath
+Pink Floyd , Oasis
+Pink Floyd , Incubus
+Pink Floyd , Bullet for My Valentine
+Pink Floyd , Blur
+Pink Floyd , Placebo
+Pink Floyd , The Killers
+Pink Floyd , Black Sabbath
+Oasis , Led Zeppelin
+Oasis , Bullet for My Valentine
+Oasis , Blur
+Oasis , The Killers
+Oasis , The White Stripes
+Oasis , Black Sabbath
+Led Zeppelin , Incubus
+Led Zeppelin , Bullet for My Valentine
+Led Zeppelin , Blur
+Led Zeppelin , Placebo
+Led Zeppelin , The Killers
+Led Zeppelin , Black Sabbath
+Incubus , Bullet for My Valentine
+Incubus , Blur
+Incubus , The Killers
+Incubus , The White Stripes
+Incubus , Black Sabbath
+Bullet for My Valentine , Blur
+Bullet for My Valentine , Placebo
+Bullet for My Valentine , The Killers
+Bullet for My Valentine , The White Stripes
+Bullet for My Valentine , Black Sabbath
+Blur , Placebo
+Blur , The Killers
+Blur , The White Stripes
+Blur , Black Sabbath
+Placebo , The Killers
+Placebo , The White Stripes
+Placebo , Black Sabbath
+The Killers , The White Stripes
+The Killers , Black Sabbath
+The White Stripes , Black Sabbath
+Paramore , Nirvana
+Paramore , Fall Out Boy
+Paramore , My Chemical Romance
+Paramore , All Time Low
+Paramore , Coldplay
+Paramore , Kings of Leon
+Paramore , 3OH!3
+Paramore , Florence + the Machine
+Paramore , Muse
+Paramore , Nickelback
+Paramore , Papa Roach
+Paramore , Ke$ha
+Paramore , Marilyn Manson
+Paramore , Three Days Grace
+Paramore , Eminem
+Paramore , Rise Against
+Paramore , Kasabian
+Paramore , Panic! At the Disco
+Paramore , AC/DC
+Paramore , MGMT
+Paramore , Placebo
+Nirvana , Fall Out Boy
+Nirvana , My Chemical Romance
+Nirvana , All Time Low
+Nirvana , 3OH!3
+Nirvana , Florence + the Machine
+Nirvana , Nickelback
+Nirvana , Papa Roach
+Nirvana , Ke$ha
+Nirvana , Marilyn Manson
+Nirvana , Three Days Grace
+Nirvana , Eminem
+Nirvana , Rise Against
+Nirvana , Kasabian
+Nirvana , Panic! At the Disco
+Nirvana , MGMT
+Fall Out Boy , My Chemical Romance
+Fall Out Boy , All Time Low
+Fall Out Boy , Coldplay
+Fall Out Boy , Kings of Leon
+Fall Out Boy , 3OH!3
+Fall Out Boy , Florence + the Machine
+Fall Out Boy , Papa Roach
+Fall Out Boy , Ke$ha
+Fall Out Boy , Marilyn Manson
+Fall Out Boy , Three Days Grace
+Fall Out Boy , Eminem
+Fall Out Boy , Rise Against
+Fall Out Boy , Kasabian
+Fall Out Boy , Panic! At the Disco
+Fall Out Boy , AC/DC
+Fall Out Boy , MGMT
+My Chemical Romance , All Time Low
+My Chemical Romance , Coldplay
+My Chemical Romance , Kings of Leon
+My Chemical Romance , 3OH!3
+My Chemical Romance , Florence + the Machine
+My Chemical Romance , Muse
+My Chemical Romance , Nickelback
+My Chemical Romance , Papa Roach
+My Chemical Romance , Ke$ha
+My Chemical Romance , Marilyn Manson
+My Chemical Romance , Three Days Grace
+My Chemical Romance , Eminem
+My Chemical Romance , Rise Against
+My Chemical Romance , Kasabian
+My Chemical Romance , Panic! At the Disco
+My Chemical Romance , AC/DC
+My Chemical Romance , MGMT
+My Chemical Romance , Placebo
+All Time Low , Coldplay
+All Time Low , Kings of Leon
+All Time Low , Florence + the Machine
+All Time Low , Muse
+All Time Low , Nickelback
+All Time Low , Papa Roach
+All Time Low , Marilyn Manson
+All Time Low , Three Days Grace
+All Time Low , Eminem
+All Time Low , Rise Against
+All Time Low , Kasabian
+All Time Low , Panic! At the Disco
+All Time Low , AC/DC
+All Time Low , MGMT
+All Time Low , Placebo
+Coldplay , 3OH!3
+Coldplay , Florence + the Machine
+Coldplay , Nickelback
+Coldplay , Papa Roach
+Coldplay , Ke$ha
+Coldplay , Marilyn Manson
+Coldplay , Three Days Grace
+Coldplay , Eminem
+Coldplay , Rise Against
+Coldplay , Kasabian
+Coldplay , Panic! At the Disco
+Coldplay , MGMT
+Kings of Leon , 3OH!3
+Kings of Leon , Florence + the Machine
+Kings of Leon , Nickelback
+Kings of Leon , Papa Roach
+Kings of Leon , Ke$ha
+Kings of Leon , Marilyn Manson
+Kings of Leon , Three Days Grace
+Kings of Leon , Eminem
+Kings of Leon , Rise Against
+Kings of Leon , Kasabian
+Kings of Leon , Panic! At the Disco
+Kings of Leon , MGMT
+3OH!3 , Florence + the Machine
+3OH!3 , Muse
+3OH!3 , Nickelback
+3OH!3 , Papa Roach
+3OH!3 , Marilyn Manson
+3OH!3 , Three Days Grace
+3OH!3 , Eminem
+3OH!3 , Rise Against
+3OH!3 , Kasabian
+3OH!3 , Panic! At the Disco
+3OH!3 , AC/DC
+3OH!3 , MGMT
+3OH!3 , Placebo
+Florence + the Machine , Nickelback
+Florence + the Machine , Papa Roach
+Florence + the Machine , Ke$ha
+Florence + the Machine , Marilyn Manson
+Florence + the Machine , Three Days Grace
+Florence + the Machine , Eminem
+Florence + the Machine , Rise Against
+Florence + the Machine , Kasabian
+Florence + the Machine , Panic! At the Disco
+Florence + the Machine , AC/DC
+Florence + the Machine , MGMT
+Florence + the Machine , Placebo
+Muse , Papa Roach
+Muse , Ke$ha
+Muse , Marilyn Manson
+Muse , Three Days Grace
+Muse , Eminem
+Muse , Rise Against
+Muse , Kasabian
+Muse , Panic! At the Disco
+Muse , MGMT
+Nickelback , Papa Roach
+Nickelback , Ke$ha
+Nickelback , Marilyn Manson
+Nickelback , Three Days Grace
+Nickelback , Eminem
+Nickelback , Rise Against
+Nickelback , Kasabian
+Nickelback , Panic! At the Disco
+Nickelback , AC/DC
+Nickelback , MGMT
+Papa Roach , Ke$ha
+Papa Roach , Marilyn Manson
+Papa Roach , Three Days Grace
+Papa Roach , Eminem
+Papa Roach , Rise Against
+Papa Roach , Kasabian
+Papa Roach , Panic! At the Disco
+Papa Roach , AC/DC
+Papa Roach , MGMT
+Papa Roach , Placebo
+Ke$ha , Marilyn Manson
+Ke$ha , Three Days Grace
+Ke$ha , Eminem
+Ke$ha , Rise Against
+Ke$ha , Kasabian
+Ke$ha , Panic! At the Disco
+Ke$ha , AC/DC
+Ke$ha , MGMT
+Ke$ha , Placebo
+Marilyn Manson , Three Days Grace
+Marilyn Manson , Eminem
+Marilyn Manson , Rise Against
+Marilyn Manson , Kasabian
+Marilyn Manson , Panic! At the Disco
+Marilyn Manson , AC/DC
+Marilyn Manson , MGMT
+Marilyn Manson , Placebo
+Three Days Grace , Eminem
+Three Days Grace , Rise Against
+Three Days Grace , Kasabian
+Three Days Grace , Panic! At the Disco
+Three Days Grace , AC/DC
+Three Days Grace , MGMT
+Three Days Grace , Placebo
+Eminem , Rise Against
+Eminem , Kasabian
+Eminem , Panic! At the Disco
+Eminem , AC/DC
+Eminem , MGMT
+Eminem , Placebo
+Rise Against , Kasabian
+Rise Against , Panic! At the Disco
+Rise Against , AC/DC
+Rise Against , MGMT
+Rise Against , Placebo
+Kasabian , Panic! At the Disco
+Kasabian , AC/DC
+Kasabian , MGMT
+Kasabian , Placebo
+Panic! At the Disco , AC/DC
+Panic! At the Disco , MGMT
+Panic! At the Disco , Placebo
+AC/DC , MGMT
+MGMT , Placebo
+David Bowie , Rammstein
+David Bowie , Pixies
+David Bowie , The Smiths
+David Bowie , Daft Punk
+David Bowie , The Rolling Stones
+David Bowie , Tool
+David Bowie , Radiohead
+David Bowie , Led Zeppelin
+David Bowie , The Clash
+David Bowie , Metallica
+David Bowie , AC/DC
+David Bowie , Guns N' Roses
+David Bowie , The Who
+Rammstein , Pixies
+Rammstein , The Smiths
+Rammstein , Daft Punk
+Rammstein , The Rolling Stones
+Rammstein , Tool
+Rammstein , Radiohead
+Rammstein , Led Zeppelin
+Rammstein , The Clash
+Rammstein , Metallica
+Rammstein , AC/DC
+Rammstein , Guns N' Roses
+Rammstein , The Who
+Pixies , The Smiths
+Pixies , Daft Punk
+Pixies , The Rolling Stones
+Pixies , Tool
+Pixies , Radiohead
+Pixies , Led Zeppelin
+Pixies , The Clash
+Pixies , Metallica
+Pixies , AC/DC
+Pixies , Guns N' Roses
+Pixies , The Who
+The Smiths , Daft Punk
+The Smiths , The Rolling Stones
+The Smiths , Tool
+The Smiths , Guns N' Roses
+The Smiths , The Who
+Daft Punk , The Rolling Stones
+Daft Punk , Tool
+Daft Punk , Radiohead
+Daft Punk , Led Zeppelin
+Daft Punk , The Clash
+Daft Punk , Metallica
+Daft Punk , AC/DC
+Daft Punk , Guns N' Roses
+Daft Punk , The Who
+The Rolling Stones , Radiohead
+The Rolling Stones , The Clash
+The Rolling Stones , Metallica
+The Rolling Stones , AC/DC
+The Rolling Stones , Guns N' Roses
+The Rolling Stones , The Who
+Tool , Radiohead
+Tool , The Clash
+Tool , Metallica
+Tool , AC/DC
+Tool , Guns N' Roses
+Tool , The Who
+Radiohead , Guns N' Roses
+Radiohead , The Who
+Led Zeppelin , Guns N' Roses
+Led Zeppelin , The Who
+The Clash , Guns N' Roses
+The Clash , The Who
+Metallica , Guns N' Roses
+Metallica , The Who
+AC/DC , Guns N' Roses
+AC/DC , The Who
+Guns N' Roses , The Who
+The Smiths , Tegan and Sara
+The Smiths , Yeah Yeah Yeahs
+The Smiths , Death Cab for Cutie
+The Smiths , The xx
+The Smiths , Bloc Party
+The Smiths , Sigur Rós
+The Smiths , Lady Gaga
+The Smiths , Christina Aguilera
+The Smiths , Katy Perry
+The Smiths , Aerosmith
+The Smiths , Regina Spektor
+The Smiths , Avril Lavigne
+The Smiths , The Kooks
+The Smiths , Rihanna
+Tegan and Sara , Crystal Castles
+Tegan and Sara , Vampire Weekend
+Tegan and Sara , Placebo
+Tegan and Sara , The Clash
+Tegan and Sara , Kings of Leon
+Tegan and Sara , Yeah Yeah Yeahs
+Tegan and Sara , Arctic Monkeys
+Tegan and Sara , Death Cab for Cutie
+Tegan and Sara , The xx
+Tegan and Sara , Coldplay
+Tegan and Sara , Bloc Party
+Tegan and Sara , Sigur Rós
+Tegan and Sara , Lady Gaga
+Tegan and Sara , Christina Aguilera
+Tegan and Sara , Katy Perry
+Tegan and Sara , Aerosmith
+Tegan and Sara , Regina Spektor
+Tegan and Sara , Avril Lavigne
+Tegan and Sara , Muse
+Tegan and Sara , The Killers
+Tegan and Sara , The Kooks
+Tegan and Sara , Rihanna
+Tegan and Sara , Red Hot Chili Peppers
+Crystal Castles , Placebo
+Crystal Castles , The Clash
+Crystal Castles , Kings of Leon
+Crystal Castles , Yeah Yeah Yeahs
+Crystal Castles , Arctic Monkeys
+Crystal Castles , Death Cab for Cutie
+Crystal Castles , The xx
+Crystal Castles , Coldplay
+Crystal Castles , Bloc Party
+Crystal Castles , Sigur Rós
+Crystal Castles , Lady Gaga
+Crystal Castles , Christina Aguilera
+Crystal Castles , Katy Perry
+Crystal Castles , Aerosmith
+Crystal Castles , Regina Spektor
+Crystal Castles , Avril Lavigne
+Crystal Castles , Muse
+Crystal Castles , The Killers
+Crystal Castles , The Kooks
+Crystal Castles , Rihanna
+Crystal Castles , Red Hot Chili Peppers
+Vampire Weekend , The Clash
+Vampire Weekend , Kings of Leon
+Vampire Weekend , Yeah Yeah Yeahs
+Vampire Weekend , Arctic Monkeys
+Vampire Weekend , Death Cab for Cutie
+Vampire Weekend , The xx
+Vampire Weekend , Coldplay
+Vampire Weekend , Bloc Party
+Vampire Weekend , Sigur Rós
+Vampire Weekend , Christina Aguilera
+Vampire Weekend , Aerosmith
+Vampire Weekend , Regina Spektor
+Vampire Weekend , The Killers
+Vampire Weekend , Red Hot Chili Peppers
+Placebo , Yeah Yeah Yeahs
+Placebo , Death Cab for Cutie
+Placebo , The xx
+Placebo , Bloc Party
+Placebo , Sigur Rós
+Placebo , Christina Aguilera
+Placebo , Aerosmith
+Placebo , Regina Spektor
+Placebo , Avril Lavigne
+The Clash , Yeah Yeah Yeahs
+The Clash , Death Cab for Cutie
+The Clash , The xx
+The Clash , Bloc Party
+The Clash , Sigur Rós
+The Clash , Lady Gaga
+The Clash , Christina Aguilera
+The Clash , Katy Perry
+The Clash , Aerosmith
+The Clash , Regina Spektor
+The Clash , Avril Lavigne
+The Clash , The Kooks
+The Clash , Rihanna
+Kings of Leon , Yeah Yeah Yeahs
+Kings of Leon , Death Cab for Cutie
+Kings of Leon , The xx
+Kings of Leon , Bloc Party
+Kings of Leon , Sigur Rós
+Kings of Leon , Lady Gaga
+Kings of Leon , Christina Aguilera
+Kings of Leon , Katy Perry
+Kings of Leon , Aerosmith
+Kings of Leon , Regina Spektor
+Kings of Leon , Avril Lavigne
+Kings of Leon , The Kooks
+Kings of Leon , Rihanna
+Yeah Yeah Yeahs , Arctic Monkeys
+Yeah Yeah Yeahs , Death Cab for Cutie
+Yeah Yeah Yeahs , The xx
+Yeah Yeah Yeahs , Coldplay
+Yeah Yeah Yeahs , Bloc Party
+Yeah Yeah Yeahs , Sigur Rós
+Yeah Yeah Yeahs , Lady Gaga
+Yeah Yeah Yeahs , Christina Aguilera
+Yeah Yeah Yeahs , Katy Perry
+Yeah Yeah Yeahs , Aerosmith
+Yeah Yeah Yeahs , Regina Spektor
+Yeah Yeah Yeahs , Avril Lavigne
+Yeah Yeah Yeahs , Muse
+Yeah Yeah Yeahs , The Killers
+Yeah Yeah Yeahs , The Kooks
+Yeah Yeah Yeahs , Rihanna
+Yeah Yeah Yeahs , Red Hot Chili Peppers
+Arctic Monkeys , Death Cab for Cutie
+Arctic Monkeys , The xx
+Arctic Monkeys , Bloc Party
+Arctic Monkeys , Sigur Rós
+Arctic Monkeys , Lady Gaga
+Arctic Monkeys , Christina Aguilera
+Arctic Monkeys , Katy Perry
+Arctic Monkeys , Aerosmith
+Arctic Monkeys , Regina Spektor
+Arctic Monkeys , Avril Lavigne
+Arctic Monkeys , The Kooks
+Arctic Monkeys , Rihanna
+Death Cab for Cutie , The xx
+Death Cab for Cutie , Coldplay
+Death Cab for Cutie , Bloc Party
+Death Cab for Cutie , Sigur Rós
+Death Cab for Cutie , Lady Gaga
+Death Cab for Cutie , Christina Aguilera
+Death Cab for Cutie , Katy Perry
+Death Cab for Cutie , Aerosmith
+Death Cab for Cutie , Regina Spektor
+Death Cab for Cutie , Avril Lavigne
+Death Cab for Cutie , Muse
+Death Cab for Cutie , The Killers
+Death Cab for Cutie , The Kooks
+Death Cab for Cutie , Rihanna
+Death Cab for Cutie , Red Hot Chili Peppers
+The xx , Coldplay
+The xx , Bloc Party
+The xx , Sigur Rós
+The xx , Lady Gaga
+The xx , Christina Aguilera
+The xx , Katy Perry
+The xx , Aerosmith
+The xx , Regina Spektor
+The xx , Avril Lavigne
+The xx , Muse
+The xx , The Killers
+The xx , The Kooks
+The xx , Rihanna
+The xx , Red Hot Chili Peppers
+Coldplay , Bloc Party
+Coldplay , Sigur Rós
+Coldplay , Lady Gaga
+Coldplay , Christina Aguilera
+Coldplay , Katy Perry
+Coldplay , Aerosmith
+Coldplay , Regina Spektor
+Coldplay , Avril Lavigne
+Coldplay , The Kooks
+Coldplay , Rihanna
+Bloc Party , Sigur Rós
+Bloc Party , Lady Gaga
+Bloc Party , Christina Aguilera
+Bloc Party , Katy Perry
+Bloc Party , Aerosmith
+Bloc Party , Regina Spektor
+Bloc Party , Avril Lavigne
+Bloc Party , Muse
+Bloc Party , The Killers
+Bloc Party , The Kooks
+Bloc Party , Rihanna
+Bloc Party , Red Hot Chili Peppers
+Sigur Rós , Lady Gaga
+Sigur Rós , Christina Aguilera
+Sigur Rós , Katy Perry
+Sigur Rós , Aerosmith
+Sigur Rós , Regina Spektor
+Sigur Rós , Avril Lavigne
+Sigur Rós , Muse
+Sigur Rós , The Killers
+Sigur Rós , The Kooks
+Sigur Rós , Rihanna
+Sigur Rós , Red Hot Chili Peppers
+Lady Gaga , Christina Aguilera
+Lady Gaga , Aerosmith
+Lady Gaga , Regina Spektor
+Lady Gaga , The Killers
+Christina Aguilera , Katy Perry
+Christina Aguilera , Aerosmith
+Christina Aguilera , Regina Spektor
+Christina Aguilera , Avril Lavigne
+Christina Aguilera , Muse
+Christina Aguilera , The Killers
+Christina Aguilera , The Kooks
+Christina Aguilera , Rihanna
+Christina Aguilera , Red Hot Chili Peppers
+Katy Perry , Aerosmith
+Katy Perry , Regina Spektor
+Katy Perry , Avril Lavigne
+Katy Perry , The Killers
+Katy Perry , Red Hot Chili Peppers
+Aerosmith , Regina Spektor
+Aerosmith , Avril Lavigne
+Aerosmith , Muse
+Aerosmith , The Killers
+Aerosmith , The Kooks
+Aerosmith , Rihanna
+Aerosmith , Red Hot Chili Peppers
+Regina Spektor , Avril Lavigne
+Regina Spektor , Muse
+Regina Spektor , The Killers
+Regina Spektor , The Kooks
+Regina Spektor , Rihanna
+Regina Spektor , Red Hot Chili Peppers
+Avril Lavigne , Muse
+Avril Lavigne , The Killers
+Avril Lavigne , Rihanna
+Avril Lavigne , Red Hot Chili Peppers
+The Killers , The Kooks
+The Killers , Rihanna
+The Kooks , Red Hot Chili Peppers
+Rihanna , Red Hot Chili Peppers
+blink-182 , MGMT
+blink-182 , Death Cab for Cutie
+blink-182 , Bloc Party
+blink-182 , Gorillaz
+blink-182 , Paramore
+blink-182 , The xx
+blink-182 , System of a Down
+blink-182 , Fall Out Boy
+blink-182 , Jimi Hendrix
+Red Hot Chili Peppers , MGMT
+Red Hot Chili Peppers , Gorillaz
+Red Hot Chili Peppers , Paramore
+Red Hot Chili Peppers , System of a Down
+Red Hot Chili Peppers , Fall Out Boy
+Red Hot Chili Peppers , Jimi Hendrix
+MGMT , Death Cab for Cutie
+MGMT , Pink Floyd
+MGMT , Bloc Party
+MGMT , Gorillaz
+MGMT , Vampire Weekend
+MGMT , The Beatles
+MGMT , The xx
+MGMT , System of a Down
+MGMT , The Killers
+MGMT , Jimi Hendrix
+MGMT , Radiohead
+Death Cab for Cutie , Pink Floyd
+Death Cab for Cutie , Gorillaz
+Death Cab for Cutie , The Beatles
+Death Cab for Cutie , Paramore
+Death Cab for Cutie , System of a Down
+Death Cab for Cutie , Fall Out Boy
+Death Cab for Cutie , Jimi Hendrix
+Death Cab for Cutie , Radiohead
+Pink Floyd , Bloc Party
+Pink Floyd , Gorillaz
+Pink Floyd , Vampire Weekend
+Pink Floyd , Paramore
+Pink Floyd , The xx
+Pink Floyd , System of a Down
+Pink Floyd , Fall Out Boy
+Bloc Party , Gorillaz
+Bloc Party , The Beatles
+Bloc Party , Paramore
+Bloc Party , System of a Down
+Bloc Party , Fall Out Boy
+Bloc Party , Jimi Hendrix
+Bloc Party , Radiohead
+Muse , Gorillaz
+Muse , System of a Down
+Muse , Jimi Hendrix
+Gorillaz , Vampire Weekend
+Gorillaz , The Beatles
+Gorillaz , Paramore
+Gorillaz , The xx
+Gorillaz , System of a Down
+Gorillaz , The Killers
+Gorillaz , Fall Out Boy
+Gorillaz , Jimi Hendrix
+Gorillaz , Radiohead
+Vampire Weekend , Paramore
+Vampire Weekend , System of a Down
+Vampire Weekend , Jimi Hendrix
+Vampire Weekend , Radiohead
+The Beatles , Paramore
+The Beatles , The xx
+The Beatles , System of a Down
+The Beatles , Fall Out Boy
+Paramore , The xx
+Paramore , System of a Down
+Paramore , The Killers
+Paramore , Jimi Hendrix
+Paramore , Radiohead
+The xx , System of a Down
+The xx , Fall Out Boy
+The xx , Jimi Hendrix
+The xx , Radiohead
+System of a Down , The Killers
+System of a Down , Fall Out Boy
+System of a Down , Jimi Hendrix
+System of a Down , Radiohead
+The Killers , Fall Out Boy
+The Killers , Jimi Hendrix
+Fall Out Boy , Jimi Hendrix
+Fall Out Boy , Radiohead
+Jimi Hendrix , Radiohead
+The Cure , Korn
+The Cure , Deftones
+The Cure , Megadeth
+The Cure , Slipknot
+The Cure , Metallica
+The Cure , Marilyn Manson
+The Cure , Iron Maiden
+The Cure , Slayer
+The Cure , blink-182
+The Cure , The Prodigy
+The Cure , Incubus
+The Cure , Eminem
+The Cure , Foo Fighters
+The Cure , The Offspring
+Korn , Deftones
+Korn , Megadeth
+Korn , Slipknot
+Korn , Metallica
+Korn , Marilyn Manson
+Korn , Iron Maiden
+Korn , Slayer
+Korn , blink-182
+Korn , The Prodigy
+Korn , Incubus
+Korn , Eminem
+Korn , Foo Fighters
+Korn , The Offspring
+Korn , Muse
+Deftones , Megadeth
+Deftones , Slipknot
+Deftones , Metallica
+Deftones , Marilyn Manson
+Deftones , Iron Maiden
+Deftones , Slayer
+Deftones , blink-182
+Deftones , The Prodigy
+Deftones , Incubus
+Deftones , Eminem
+Deftones , Foo Fighters
+Deftones , The Offspring
+Deftones , Muse
+Megadeth , Slipknot
+Megadeth , Metallica
+Megadeth , Marilyn Manson
+Megadeth , Iron Maiden
+Megadeth , blink-182
+Megadeth , The Prodigy
+Megadeth , Eminem
+Megadeth , Foo Fighters
+Megadeth , The Offspring
+Megadeth , Muse
+Slipknot , Metallica
+Slipknot , Marilyn Manson
+Slipknot , Iron Maiden
+Slipknot , Slayer
+Slipknot , blink-182
+Slipknot , The Prodigy
+Slipknot , Incubus
+Slipknot , Eminem
+Slipknot , Foo Fighters
+Slipknot , The Offspring
+Slipknot , Muse
+Metallica , Marilyn Manson
+Metallica , Iron Maiden
+Metallica , Slayer
+Metallica , The Prodigy
+Metallica , Eminem
+Metallica , The Offspring
+Marilyn Manson , Iron Maiden
+Marilyn Manson , Slayer
+Marilyn Manson , blink-182
+Marilyn Manson , The Prodigy
+Marilyn Manson , Incubus
+Marilyn Manson , Foo Fighters
+Marilyn Manson , The Offspring
+Iron Maiden , Slayer
+Iron Maiden , blink-182
+Iron Maiden , The Prodigy
+Iron Maiden , Incubus
+Iron Maiden , Eminem
+Iron Maiden , Foo Fighters
+Iron Maiden , The Offspring
+Iron Maiden , Muse
+Slayer , blink-182
+Slayer , The Prodigy
+Slayer , Eminem
+Slayer , Foo Fighters
+Slayer , The Offspring
+Slayer , Muse
+blink-182 , The Prodigy
+blink-182 , Eminem
+blink-182 , The Offspring
+The Prodigy , Incubus
+The Prodigy , Eminem
+The Prodigy , Foo Fighters
+The Prodigy , The Offspring
+The Prodigy , Muse
+Incubus , Eminem
+Incubus , The Offspring
+Eminem , Foo Fighters
+Eminem , The Offspring
+Foo Fighters , The Offspring
+The Offspring , Muse
+Led Zeppelin , Deftones
+Led Zeppelin , Megadeth
+Led Zeppelin , Opeth
+Led Zeppelin , A Perfect Circle
+Led Zeppelin , MGMT
+Metallica , Opeth
+Metallica , A Perfect Circle
+Metallica , MGMT
+Deftones , The Beatles
+Deftones , Nirvana
+Deftones , Pink Floyd
+Deftones , Red Hot Chili Peppers
+Deftones , Opeth
+Deftones , Pearl Jam
+Deftones , The White Stripes
+Deftones , Tool
+Deftones , Guns N' Roses
+Deftones , U2
+Deftones , A Perfect Circle
+Deftones , MGMT
+The Beatles , Megadeth
+The Beatles , Opeth
+The Beatles , Guns N' Roses
+The Beatles , A Perfect Circle
+Nirvana , Megadeth
+Nirvana , Opeth
+Nirvana , Guns N' Roses
+Nirvana , A Perfect Circle
+Pink Floyd , Megadeth
+Pink Floyd , Opeth
+Pink Floyd , Guns N' Roses
+Pink Floyd , A Perfect Circle
+Megadeth , Red Hot Chili Peppers
+Megadeth , Opeth
+Megadeth , Pearl Jam
+Megadeth , The White Stripes
+Megadeth , Tool
+Megadeth , Guns N' Roses
+Megadeth , U2
+Megadeth , A Perfect Circle
+Megadeth , MGMT
+Red Hot Chili Peppers , Opeth
+Red Hot Chili Peppers , Tool
+Red Hot Chili Peppers , Guns N' Roses
+Red Hot Chili Peppers , A Perfect Circle
+Muse , Opeth
+Muse , Tool
+Muse , Guns N' Roses
+Muse , A Perfect Circle
+Opeth , Pearl Jam
+Opeth , The White Stripes
+Opeth , Tool
+Opeth , Guns N' Roses
+Opeth , U2
+Opeth , A Perfect Circle
+Opeth , MGMT
+Pearl Jam , Tool
+Pearl Jam , Guns N' Roses
+Pearl Jam , A Perfect Circle
+Pearl Jam , MGMT
+The White Stripes , Guns N' Roses
+The White Stripes , A Perfect Circle
+The White Stripes , MGMT
+Tool , U2
+Tool , A Perfect Circle
+Tool , MGMT
+Guns N' Roses , U2
+Guns N' Roses , A Perfect Circle
+Guns N' Roses , MGMT
+U2 , A Perfect Circle
+U2 , MGMT
+A Perfect Circle , MGMT
+The Beatles , Beck
+The Beatles , Sigur Rós
+The Beatles , Aerosmith
+The Beatles , Bob Dylan
+Radiohead , Beck
+Radiohead , Sigur Rós
+Radiohead , Aerosmith
+Radiohead , Bob Dylan
+Pink Floyd , Beck
+Pink Floyd , Sigur Rós
+Pink Floyd , Aerosmith
+Pink Floyd , Bob Dylan
+Nirvana , Beck
+Nirvana , Sigur Rós
+Nirvana , Aerosmith
+Nirvana , Bob Dylan
+AC/DC , Beck
+AC/DC , Sigur Rós
+AC/DC , Aerosmith
+AC/DC , Bob Dylan
+Pearl Jam , Beck
+Pearl Jam , Sigur Rós
+Pearl Jam , Aerosmith
+Pearl Jam , Bob Dylan
+Beck , Green Day
+Beck , Led Zeppelin
+Beck , Sigur Rós
+Beck , Aerosmith
+Beck , Coldplay
+Beck , Bob Dylan
+Green Day , Sigur Rós
+Green Day , Aerosmith
+Green Day , Bob Dylan
+Led Zeppelin , Sigur Rós
+Led Zeppelin , Aerosmith
+Led Zeppelin , Bob Dylan
+Sigur Rós , Bob Dylan
+Aerosmith , Bob Dylan
+Coldplay , Bob Dylan
+Paramore , Disturbed
+Paramore , Incubus
+Paramore , Arctic Monkeys
+Paramore , The Used
+Paramore , The Offspring
+Paramore , Tool
+Paramore , Evanescence
+Paramore , The Smashing Pumpkins
+Paramore , Led Zeppelin
+Paramore , The Prodigy
+Paramore , Korn
+Paramore , Rammstein
+Paramore , Metallica
+Disturbed , Incubus
+Disturbed , Rise Against
+Disturbed , Arctic Monkeys
+Disturbed , The Used
+Disturbed , System of a Down
+Disturbed , The Offspring
+Disturbed , Tool
+Disturbed , Fall Out Boy
+Disturbed , Evanescence
+Disturbed , The Smashing Pumpkins
+Disturbed , Led Zeppelin
+Disturbed , The Prodigy
+Disturbed , Korn
+Disturbed , Panic! At the Disco
+Disturbed , Rammstein
+Disturbed , Metallica
+Incubus , Rise Against
+Incubus , The Used
+Incubus , System of a Down
+Incubus , Tool
+Incubus , Evanescence
+Incubus , Panic! At the Disco
+Incubus , Rammstein
+Rise Against , Arctic Monkeys
+Rise Against , The Used
+Rise Against , System of a Down
+Rise Against , The Offspring
+Rise Against , Tool
+Rise Against , Evanescence
+Rise Against , The Smashing Pumpkins
+Rise Against , Led Zeppelin
+Rise Against , The Prodigy
+Rise Against , Korn
+Rise Against , Rammstein
+Rise Against , Metallica
+Arctic Monkeys , The Used
+Arctic Monkeys , System of a Down
+Arctic Monkeys , The Offspring
+Arctic Monkeys , Tool
+Arctic Monkeys , Fall Out Boy
+Arctic Monkeys , Evanescence
+Arctic Monkeys , The Prodigy
+Arctic Monkeys , Korn
+Arctic Monkeys , Panic! At the Disco
+Arctic Monkeys , Rammstein
+The Used , System of a Down
+The Used , The Offspring
+The Used , Tool
+The Used , Fall Out Boy
+The Used , Evanescence
+The Used , The Smashing Pumpkins
+The Used , Led Zeppelin
+The Used , The Prodigy
+The Used , Korn
+The Used , Panic! At the Disco
+The Used , Rammstein
+The Used , Metallica
+System of a Down , The Offspring
+System of a Down , Tool
+System of a Down , Evanescence
+System of a Down , The Smashing Pumpkins
+System of a Down , Led Zeppelin
+System of a Down , The Prodigy
+System of a Down , Korn
+System of a Down , Panic! At the Disco
+System of a Down , Rammstein
+System of a Down , Metallica
+The Offspring , Tool
+The Offspring , Fall Out Boy
+The Offspring , Evanescence
+The Offspring , The Smashing Pumpkins
+The Offspring , Led Zeppelin
+The Offspring , Panic! At the Disco
+The Offspring , Rammstein
+Tool , Fall Out Boy
+Tool , Evanescence
+Tool , The Smashing Pumpkins
+Tool , The Prodigy
+Tool , Korn
+Tool , Panic! At the Disco
+Fall Out Boy , Evanescence
+Fall Out Boy , Led Zeppelin
+Fall Out Boy , The Prodigy
+Fall Out Boy , Korn
+Fall Out Boy , Rammstein
+Fall Out Boy , Metallica
+Evanescence , The Smashing Pumpkins
+Evanescence , Led Zeppelin
+Evanescence , The Prodigy
+Evanescence , Korn
+Evanescence , Panic! At the Disco
+Evanescence , Rammstein
+Evanescence , Metallica
+The Smashing Pumpkins , The Prodigy
+The Smashing Pumpkins , Korn
+The Smashing Pumpkins , Panic! At the Disco
+The Smashing Pumpkins , Rammstein
+Led Zeppelin , The Prodigy
+Led Zeppelin , Korn
+Led Zeppelin , Panic! At the Disco
+The Prodigy , Panic! At the Disco
+The Prodigy , Rammstein
+Korn , Panic! At the Disco
+Korn , Rammstein
+Panic! At the Disco , Rammstein
+Panic! At the Disco , Metallica
+Portishead , Pink Floyd
+Portishead , Radiohead
+Portishead , Blur
+The Beatles , Kasabian
+The Beatles , The Who
+The Beatles , Phoenix
+The Beatles , Daft Punk
+Arctic Monkeys , Kasabian
+Arctic Monkeys , Franz Ferdinand
+Arctic Monkeys , Gorillaz
+Arctic Monkeys , The Who
+Arctic Monkeys , Phoenix
+Arctic Monkeys , Daft Punk
+Arctic Monkeys , Jimi Hendrix
+Arctic Monkeys , Beck
+Arctic Monkeys , Bob Dylan
+The Strokes , Kasabian
+The Strokes , Franz Ferdinand
+The Strokes , Gorillaz
+The Strokes , The Who
+The Strokes , Vampire Weekend
+The Strokes , Phoenix
+The Strokes , Daft Punk
+The Strokes , Jimi Hendrix
+The Strokes , Beck
+The Strokes , Bob Dylan
+The Strokes , Death Cab for Cutie
+Oasis , Kasabian
+Oasis , Franz Ferdinand
+Oasis , Gorillaz
+Oasis , The Who
+Oasis , Phoenix
+Oasis , Daft Punk
+Oasis , Jimi Hendrix
+Oasis , Beck
+Oasis , Bob Dylan
+Oasis , Death Cab for Cutie
+Radiohead , Kasabian
+Radiohead , Franz Ferdinand
+Radiohead , Phoenix
+Kasabian , Led Zeppelin
+Kasabian , The Killers
+Kasabian , The White Stripes
+Kasabian , Franz Ferdinand
+Kasabian , Pink Floyd
+Kasabian , Gorillaz
+Kasabian , The Who
+Kasabian , Vampire Weekend
+Kasabian , Phoenix
+Kasabian , Daft Punk
+Kasabian , Keane
+Kasabian , Jimi Hendrix
+Kasabian , Interpol
+Kasabian , Blur
+Kasabian , Beck
+Kasabian , Bob Dylan
+Kasabian , Pearl Jam
+Kasabian , Death Cab for Cutie
+Led Zeppelin , Gorillaz
+Led Zeppelin , Vampire Weekend
+Led Zeppelin , Phoenix
+Led Zeppelin , Death Cab for Cutie
+Coldplay , Franz Ferdinand
+Coldplay , Gorillaz
+Coldplay , The Who
+Coldplay , Phoenix
+Coldplay , Daft Punk
+Coldplay , Jimi Hendrix
+The Killers , Franz Ferdinand
+The Killers , The Who
+The Killers , Phoenix
+The Killers , Daft Punk
+The Killers , Beck
+The Killers , Bob Dylan
+The White Stripes , Gorillaz
+The White Stripes , The Who
+The White Stripes , Vampire Weekend
+The White Stripes , Phoenix
+The White Stripes , Daft Punk
+The White Stripes , Beck
+The White Stripes , Bob Dylan
+The White Stripes , Death Cab for Cutie
+Franz Ferdinand , Gorillaz
+Franz Ferdinand , Muse
+Franz Ferdinand , The Who
+Franz Ferdinand , Vampire Weekend
+Franz Ferdinand , Phoenix
+Franz Ferdinand , Daft Punk
+Franz Ferdinand , Keane
+Franz Ferdinand , Blur
+Franz Ferdinand , Beck
+Franz Ferdinand , Bob Dylan
+Franz Ferdinand , Pearl Jam
+Franz Ferdinand , Death Cab for Cutie
+Pink Floyd , The Who
+Pink Floyd , Phoenix
+Pink Floyd , Daft Punk
+Gorillaz , The Who
+Gorillaz , Phoenix
+Gorillaz , Daft Punk
+Gorillaz , Keane
+Gorillaz , Nirvana
+Gorillaz , Interpol
+Gorillaz , Blur
+Gorillaz , Beck
+Gorillaz , Bob Dylan
+Gorillaz , Pearl Jam
+Muse , The Who
+Muse , Phoenix
+Muse , Daft Punk
+Muse , Beck
+Muse , Bob Dylan
+The Who , Vampire Weekend
+The Who , Phoenix
+The Who , Keane
+The Who , Nirvana
+The Who , Jimi Hendrix
+The Who , Interpol
+The Who , Blur
+The Who , Beck
+The Who , Bob Dylan
+The Who , Pearl Jam
+The Who , Death Cab for Cutie
+Vampire Weekend , Phoenix
+Vampire Weekend , Daft Punk
+Vampire Weekend , Keane
+Vampire Weekend , Nirvana
+Vampire Weekend , Interpol
+Vampire Weekend , Blur
+Vampire Weekend , Beck
+Vampire Weekend , Bob Dylan
+Vampire Weekend , Pearl Jam
+Phoenix , Daft Punk
+Phoenix , Keane
+Phoenix , Nirvana
+Phoenix , Jimi Hendrix
+Phoenix , Interpol
+Phoenix , Blur
+Phoenix , Beck
+Phoenix , Bob Dylan
+Phoenix , Pearl Jam
+Phoenix , Death Cab for Cutie
+Daft Punk , Keane
+Daft Punk , Nirvana
+Daft Punk , Jimi Hendrix
+Daft Punk , Interpol
+Daft Punk , Blur
+Daft Punk , Beck
+Daft Punk , Bob Dylan
+Daft Punk , Pearl Jam
+Daft Punk , Death Cab for Cutie
+Keane , Jimi Hendrix
+Keane , Beck
+Keane , Bob Dylan
+Keane , Death Cab for Cutie
+Nirvana , Death Cab for Cutie
+Jimi Hendrix , Blur
+Jimi Hendrix , Beck
+Jimi Hendrix , Bob Dylan
+Jimi Hendrix , Pearl Jam
+Interpol , Beck
+Interpol , Bob Dylan
+Interpol , Death Cab for Cutie
+Blur , Beck
+Blur , Bob Dylan
+Blur , Death Cab for Cutie
+Beck , Death Cab for Cutie
+Bob Dylan , Death Cab for Cutie
+Pearl Jam , Death Cab for Cutie
+Christina Aguilera , Madonna
+Christina Aguilera , Britney Spears
+Christina Aguilera , Nightwish
+Christina Aguilera , Björk
+Christina Aguilera , Paramore
+Christina Aguilera , Evanescence
+Madonna , Britney Spears
+Madonna , Nightwish
+Madonna , Björk
+Madonna , Avril Lavigne
+Madonna , Paramore
+Madonna , Evanescence
+Britney Spears , Nightwish
+Britney Spears , Björk
+Britney Spears , Lady Gaga
+Britney Spears , Rihanna
+Britney Spears , Avril Lavigne
+Britney Spears , Paramore
+Britney Spears , Evanescence
+Nightwish , Björk
+Nightwish , Lady Gaga
+Nightwish , Rihanna
+Nightwish , Avril Lavigne
+Nightwish , Paramore
+Nightwish , Evanescence
+Björk , Lady Gaga
+Björk , Rihanna
+Björk , Avril Lavigne
+Björk , Paramore
+Björk , Evanescence
+Lady Gaga , Paramore
+Lady Gaga , Evanescence
+Rihanna , Paramore
+Rihanna , Evanescence
+Avril Lavigne , Paramore
+Avril Lavigne , Evanescence
+Tool , Nine Inch Nails
+Tool , Björk
+Tool , Michael Jackson
+Tool , Foo Fighters
+Tool , Queen
+Tool , Alice in Chains
+Tool , Black Sabbath
+Nine Inch Nails , A Perfect Circle
+Nine Inch Nails , Queens of the Stone Age
+Nine Inch Nails , David Bowie
+Nine Inch Nails , Muse
+Nine Inch Nails , The Beatles
+Nine Inch Nails , Led Zeppelin
+Nine Inch Nails , The Smashing Pumpkins
+Nine Inch Nails , Björk
+Nine Inch Nails , Metallica
+Nine Inch Nails , Michael Jackson
+Nine Inch Nails , Foo Fighters
+Nine Inch Nails , Radiohead
+Nine Inch Nails , Queen
+Nine Inch Nails , Alice in Chains
+Nine Inch Nails , Pink Floyd
+Nine Inch Nails , U2
+Nine Inch Nails , Black Sabbath
+Nine Inch Nails , Pearl Jam
+Nine Inch Nails , Opeth
+Nine Inch Nails , Incubus
+A Perfect Circle , Queens of the Stone Age
+A Perfect Circle , David Bowie
+A Perfect Circle , The Smashing Pumpkins
+A Perfect Circle , Björk
+A Perfect Circle , Michael Jackson
+A Perfect Circle , Foo Fighters
+A Perfect Circle , Radiohead
+A Perfect Circle , Queen
+A Perfect Circle , Alice in Chains
+A Perfect Circle , Black Sabbath
+A Perfect Circle , Incubus
+Queens of the Stone Age , David Bowie
+Queens of the Stone Age , Muse
+Queens of the Stone Age , The Smashing Pumpkins
+Queens of the Stone Age , Björk
+Queens of the Stone Age , Metallica
+Queens of the Stone Age , Michael Jackson
+Queens of the Stone Age , Foo Fighters
+Queens of the Stone Age , Radiohead
+Queens of the Stone Age , Queen
+Queens of the Stone Age , Alice in Chains
+Queens of the Stone Age , U2
+Queens of the Stone Age , Black Sabbath
+Queens of the Stone Age , Pearl Jam
+Queens of the Stone Age , Opeth
+Queens of the Stone Age , Incubus
+David Bowie , Muse
+David Bowie , The Beatles
+David Bowie , The Smashing Pumpkins
+David Bowie , Björk
+David Bowie , Michael Jackson
+David Bowie , Foo Fighters
+David Bowie , Queen
+David Bowie , Alice in Chains
+David Bowie , Pink Floyd
+David Bowie , U2
+David Bowie , Black Sabbath
+David Bowie , Pearl Jam
+David Bowie , Opeth
+David Bowie , Incubus
+Muse , Björk
+Muse , Michael Jackson
+Muse , Queen
+The Beatles , Björk
+The Beatles , Michael Jackson
+The Beatles , Queen
+Led Zeppelin , Björk
+Led Zeppelin , Michael Jackson
+Led Zeppelin , Queen
+The Smashing Pumpkins , Björk
+The Smashing Pumpkins , Michael Jackson
+The Smashing Pumpkins , Queen
+The Smashing Pumpkins , Opeth
+Björk , Metallica
+Björk , Michael Jackson
+Björk , Foo Fighters
+Björk , Radiohead
+Björk , Queen
+Björk , Alice in Chains
+Björk , Pink Floyd
+Björk , U2
+Björk , Black Sabbath
+Björk , Pearl Jam
+Björk , Opeth
+Björk , Incubus
+Metallica , Michael Jackson
+Metallica , Queen
+Michael Jackson , Foo Fighters
+Michael Jackson , Radiohead
+Michael Jackson , Queen
+Michael Jackson , Alice in Chains
+Michael Jackson , Pink Floyd
+Michael Jackson , U2
+Michael Jackson , Black Sabbath
+Michael Jackson , Pearl Jam
+Michael Jackson , Opeth
+Michael Jackson , Incubus
+Foo Fighters , Queen
+Foo Fighters , Opeth
+Radiohead , Queen
+Radiohead , Opeth
+Queen , Alice in Chains
+Queen , Pink Floyd
+Queen , U2
+Queen , Black Sabbath
+Queen , Pearl Jam
+Queen , Opeth
+Queen , Incubus
+Alice in Chains , Opeth
+Opeth , Incubus
+Muse , Lily Allen
+Daft Punk , Lady Gaga
+Daft Punk , Lily Allen
+Daft Punk , Eminem
+Daft Punk , Iron Maiden
+Lady Gaga , Lily Allen
+Lady Gaga , Eminem
+Lady Gaga , Iron Maiden
+Lily Allen , Eminem
+Lily Allen , Iron Maiden
+Nightwish , Coldplay
+Nightwish , Placebo
+Nightwish , Metallica
+Incubus , My Chemical Romance
+Incubus , Kanye West
+Nine Inch Nails , Deftones
+Nine Inch Nails , The Used
+Nine Inch Nails , Eminem
+Nine Inch Nails , The White Stripes
+Nine Inch Nails , My Chemical Romance
+Nine Inch Nails , Kanye West
+Deftones , Björk
+Deftones , The Used
+Deftones , My Chemical Romance
+Deftones , Kanye West
+Björk , The Used
+Björk , Eminem
+Björk , The White Stripes
+Björk , My Chemical Romance
+Björk , Kanye West
+The Used , Eminem
+The Used , The White Stripes
+The Used , My Chemical Romance
+The Used , Kanye West
+Eminem , The White Stripes
+Eminem , Kanye West
+The White Stripes , My Chemical Romance
+The White Stripes , Kanye West
+My Chemical Romance , Kanye West
+The Who , Black Sabbath
+Black Sabbath , Jimi Hendrix
+30 Seconds to Mars , Three Days Grace
+30 Seconds to Mars , Linkin Park
+30 Seconds to Mars , Bullet for My Valentine
+30 Seconds to Mars , Snow Patrol
+30 Seconds to Mars , Deftones
+30 Seconds to Mars , Evanescence
+30 Seconds to Mars , Arctic Monkeys
+30 Seconds to Mars , Paramore
+30 Seconds to Mars , Muse
+30 Seconds to Mars , Death Cab for Cutie
+30 Seconds to Mars , Radiohead
+30 Seconds to Mars , Nirvana
+30 Seconds to Mars , Metallica
+30 Seconds to Mars , MGMT
+30 Seconds to Mars , Portishead
+Three Days Grace , Linkin Park
+Three Days Grace , Bullet for My Valentine
+Three Days Grace , Snow Patrol
+Three Days Grace , Deftones
+Three Days Grace , Breaking Benjamin
+Three Days Grace , Evanescence
+Three Days Grace , Arctic Monkeys
+Three Days Grace , Death Cab for Cutie
+Three Days Grace , Radiohead
+Three Days Grace , Incubus
+Three Days Grace , Metallica
+Three Days Grace , Portishead
+Linkin Park , Bullet for My Valentine
+Linkin Park , Snow Patrol
+Linkin Park , Deftones
+Linkin Park , Breaking Benjamin
+Linkin Park , Evanescence
+Linkin Park , Arctic Monkeys
+Linkin Park , Paramore
+Linkin Park , Death Cab for Cutie
+Linkin Park , Radiohead
+Linkin Park , Nirvana
+Linkin Park , Metallica
+Linkin Park , MGMT
+Linkin Park , Portishead
+Bullet for My Valentine , Snow Patrol
+Bullet for My Valentine , Deftones
+Bullet for My Valentine , Breaking Benjamin
+Bullet for My Valentine , Evanescence
+Bullet for My Valentine , Paramore
+Bullet for My Valentine , Death Cab for Cutie
+Bullet for My Valentine , MGMT
+Bullet for My Valentine , Portishead
+Bullet for My Valentine , Nickelback
+Snow Patrol , Deftones
+Snow Patrol , Breaking Benjamin
+Snow Patrol , Evanescence
+Snow Patrol , Arctic Monkeys
+Snow Patrol , Paramore
+Snow Patrol , Muse
+Snow Patrol , Death Cab for Cutie
+Snow Patrol , Radiohead
+Snow Patrol , Incubus
+Snow Patrol , Nirvana
+Snow Patrol , Metallica
+Snow Patrol , MGMT
+Snow Patrol , Portishead
+Snow Patrol , Nickelback
+Deftones , Breaking Benjamin
+Deftones , Evanescence
+Deftones , Arctic Monkeys
+Deftones , Paramore
+Deftones , Death Cab for Cutie
+Deftones , Radiohead
+Deftones , Portishead
+Deftones , Nickelback
+Breaking Benjamin , Evanescence
+Breaking Benjamin , Arctic Monkeys
+Breaking Benjamin , Paramore
+Breaking Benjamin , Muse
+Breaking Benjamin , Death Cab for Cutie
+Breaking Benjamin , Radiohead
+Breaking Benjamin , Nirvana
+Breaking Benjamin , Metallica
+Breaking Benjamin , MGMT
+Breaking Benjamin , Portishead
+Evanescence , Muse
+Evanescence , Death Cab for Cutie
+Evanescence , Radiohead
+Evanescence , Nirvana
+Evanescence , MGMT
+Evanescence , Portishead
+Evanescence , Nickelback
+Arctic Monkeys , MGMT
+Arctic Monkeys , Portishead
+Arctic Monkeys , Nickelback
+Paramore , Portishead
+Muse , Portishead
+Death Cab for Cutie , Incubus
+Death Cab for Cutie , Metallica
+Death Cab for Cutie , Portishead
+Death Cab for Cutie , Nickelback
+Radiohead , Nickelback
+Incubus , MGMT
+Incubus , Portishead
+Nirvana , Portishead
+Metallica , Portishead
+Metallica , Nickelback
+MGMT , Portishead
+Portishead , Nickelback
+Beck , Modest Mouse
+Beck , Weezer
+Beck , Pixies
+Modest Mouse , Radiohead
+Modest Mouse , Blur
+Modest Mouse , The Strokes
+Modest Mouse , Franz Ferdinand
+Modest Mouse , Weezer
+Modest Mouse , Gorillaz
+Modest Mouse , Pixies
+Modest Mouse , Death Cab for Cutie
+Radiohead , Weezer
+Blur , Weezer
+Blur , Pixies
+The Strokes , Weezer
+The Strokes , Pixies
+Franz Ferdinand , Weezer
+Franz Ferdinand , Pixies
+Weezer , Gorillaz
+Weezer , Pixies
+Weezer , Death Cab for Cutie
+Gorillaz , Pixies
+Pixies , Death Cab for Cutie
+Opeth , The Cure
+Nine Inch Nails , The Cure
+Radiohead , The Cure
+Black Sabbath , The Cure
+The Cure , The Smashing Pumpkins
+The Cure , My Chemical Romance
+The Cure , The Used
+The Cure , Fall Out Boy
+The Cure , System of a Down
+The Cure , Michael Jackson
+The Cure , The Clash
+The Cure , Oasis
+The Cure , MGMT
+The Cure , 30 Seconds to Mars
+The Cure , Kings of Leon
+The Cure , Panic! At the Disco
+The Cure , The Killers
+The Cure , Arctic Monkeys
+The Cure , AC/DC
+The Cure , Placebo
+The Cure , David Bowie
+The Smashing Pumpkins , My Chemical Romance
+The Smashing Pumpkins , Yeah Yeah Yeahs
+The Smashing Pumpkins , MGMT
+The Smashing Pumpkins , 30 Seconds to Mars
+The Smashing Pumpkins , Franz Ferdinand
+My Chemical Romance , The Beatles
+My Chemical Romance , Radiohead
+My Chemical Romance , System of a Down
+My Chemical Romance , Michael Jackson
+My Chemical Romance , The Clash
+My Chemical Romance , Yeah Yeah Yeahs
+My Chemical Romance , Oasis
+My Chemical Romance , 30 Seconds to Mars
+My Chemical Romance , Franz Ferdinand
+My Chemical Romance , The Killers
+My Chemical Romance , Arctic Monkeys
+My Chemical Romance , Korn
+My Chemical Romance , Ramones
+My Chemical Romance , David Bowie
+The Used , The Beatles
+The Used , Radiohead
+The Used , Nirvana
+The Used , Michael Jackson
+The Used , The Clash
+The Used , Yeah Yeah Yeahs
+The Used , Muse
+The Used , Oasis
+The Used , MGMT
+The Used , 30 Seconds to Mars
+The Used , Kings of Leon
+The Used , Franz Ferdinand
+The Used , The Killers
+The Used , AC/DC
+The Used , Placebo
+The Used , Ramones
+The Used , David Bowie
+The Beatles , 30 Seconds to Mars
+The Beatles , Panic! At the Disco
+The Beatles , Korn
+Radiohead , Yeah Yeah Yeahs
+Radiohead , Panic! At the Disco
+Radiohead , Korn
+Nirvana , System of a Down
+Nirvana , Michael Jackson
+Nirvana , Korn
+Nirvana , David Bowie
+Fall Out Boy , Michael Jackson
+Fall Out Boy , The Clash
+Fall Out Boy , Yeah Yeah Yeahs
+Fall Out Boy , 30 Seconds to Mars
+Fall Out Boy , Franz Ferdinand
+Fall Out Boy , Ramones
+Fall Out Boy , David Bowie
+Fall Out Boy , The White Stripes
+System of a Down , Michael Jackson
+System of a Down , The Clash
+System of a Down , Yeah Yeah Yeahs
+System of a Down , Oasis
+System of a Down , 30 Seconds to Mars
+System of a Down , Kings of Leon
+System of a Down , Franz Ferdinand
+System of a Down , AC/DC
+System of a Down , Placebo
+System of a Down , Ramones
+System of a Down , David Bowie
+System of a Down , The White Stripes
+Michael Jackson , The Clash
+Michael Jackson , Yeah Yeah Yeahs
+Michael Jackson , Oasis
+Michael Jackson , MGMT
+Michael Jackson , 30 Seconds to Mars
+Michael Jackson , Kings of Leon
+Michael Jackson , Franz Ferdinand
+Michael Jackson , Panic! At the Disco
+Michael Jackson , The Killers
+Michael Jackson , Arctic Monkeys
+Michael Jackson , AC/DC
+Michael Jackson , Korn
+Michael Jackson , Placebo
+Michael Jackson , Ramones
+Michael Jackson , The White Stripes
+The Clash , MGMT
+The Clash , 30 Seconds to Mars
+The Clash , Franz Ferdinand
+The Clash , Panic! At the Disco
+The Clash , Korn
+Yeah Yeah Yeahs , Oasis
+Yeah Yeah Yeahs , MGMT
+Yeah Yeah Yeahs , 30 Seconds to Mars
+Yeah Yeah Yeahs , Panic! At the Disco
+Yeah Yeah Yeahs , AC/DC
+Yeah Yeah Yeahs , Korn
+Yeah Yeah Yeahs , Ramones
+Yeah Yeah Yeahs , David Bowie
+Oasis , MGMT
+Oasis , 30 Seconds to Mars
+Oasis , Panic! At the Disco
+Oasis , Korn
+Oasis , David Bowie
+MGMT , Franz Ferdinand
+MGMT , Korn
+MGMT , Ramones
+MGMT , David Bowie
+30 Seconds to Mars , Kings of Leon
+30 Seconds to Mars , Franz Ferdinand
+30 Seconds to Mars , Panic! At the Disco
+30 Seconds to Mars , The Killers
+30 Seconds to Mars , AC/DC
+30 Seconds to Mars , Korn
+30 Seconds to Mars , Placebo
+30 Seconds to Mars , Ramones
+30 Seconds to Mars , David Bowie
+30 Seconds to Mars , The White Stripes
+Kings of Leon , Franz Ferdinand
+Kings of Leon , Korn
+Kings of Leon , David Bowie
+Franz Ferdinand , Panic! At the Disco
+Franz Ferdinand , AC/DC
+Franz Ferdinand , Korn
+Franz Ferdinand , Placebo
+Franz Ferdinand , Ramones
+Franz Ferdinand , David Bowie
+Panic! At the Disco , The Killers
+Panic! At the Disco , Ramones
+Panic! At the Disco , David Bowie
+Panic! At the Disco , The White Stripes
+The Killers , Korn
+The Killers , David Bowie
+Arctic Monkeys , David Bowie
+AC/DC , Korn
+Korn , Placebo
+Korn , Ramones
+Korn , David Bowie
+Korn , The White Stripes
+Placebo , David Bowie
+Ramones , David Bowie
+David Bowie , The White Stripes
+Linkin Park , Avril Lavigne
+Linkin Park , The Strokes
+Linkin Park , blink-182
+Linkin Park , The Killers
+Linkin Park , My Chemical Romance
+Linkin Park , The Used
+Linkin Park , Bloc Party
+Linkin Park , Yeah Yeah Yeahs
+Linkin Park , Kings of Leon
+Linkin Park , Lily Allen
+Linkin Park , Ramones
+Linkin Park , Papa Roach
+Avril Lavigne , The Strokes
+Avril Lavigne , Incubus
+Avril Lavigne , 30 Seconds to Mars
+Avril Lavigne , My Chemical Romance
+Avril Lavigne , Snow Patrol
+Avril Lavigne , The Used
+Avril Lavigne , Lily Allen
+Avril Lavigne , Ramones
+Avril Lavigne , Papa Roach
+Paramore , The Strokes
+Paramore , The Kooks
+Paramore , Yeah Yeah Yeahs
+Paramore , Lily Allen
+Paramore , Ramones
+The Strokes , 30 Seconds to Mars
+The Strokes , The Kooks
+The Strokes , My Chemical Romance
+The Strokes , Snow Patrol
+The Strokes , The Used
+The Strokes , Bloc Party
+The Strokes , Yeah Yeah Yeahs
+The Strokes , Lily Allen
+The Strokes , Papa Roach
+Incubus , Bloc Party
+Incubus , Yeah Yeah Yeahs
+Incubus , Lily Allen
+Incubus , Papa Roach
+blink-182 , 30 Seconds to Mars
+blink-182 , My Chemical Romance
+blink-182 , Snow Patrol
+blink-182 , The Used
+blink-182 , Yeah Yeah Yeahs
+blink-182 , Lily Allen
+blink-182 , Papa Roach
+30 Seconds to Mars , The Kooks
+30 Seconds to Mars , Bloc Party
+30 Seconds to Mars , Lily Allen
+30 Seconds to Mars , Papa Roach
+The Killers , Snow Patrol
+The Killers , Lily Allen
+The Killers , Papa Roach
+The Kooks , My Chemical Romance
+The Kooks , Snow Patrol
+The Kooks , The Used
+The Kooks , Lily Allen
+The Kooks , Ramones
+The Kooks , Papa Roach
+My Chemical Romance , Snow Patrol
+My Chemical Romance , Death Cab for Cutie
+My Chemical Romance , Bloc Party
+My Chemical Romance , Lily Allen
+Snow Patrol , The Used
+Snow Patrol , Placebo
+Snow Patrol , Bloc Party
+Snow Patrol , Yeah Yeah Yeahs
+Snow Patrol , Kings of Leon
+Snow Patrol , Lily Allen
+Snow Patrol , Ramones
+Snow Patrol , Papa Roach
+The Used , Death Cab for Cutie
+The Used , Bloc Party
+The Used , Lily Allen
+The Used , Papa Roach
+Death Cab for Cutie , Lily Allen
+Death Cab for Cutie , Ramones
+Death Cab for Cutie , Papa Roach
+Placebo , Lily Allen
+Bloc Party , Lily Allen
+Bloc Party , Ramones
+Bloc Party , Papa Roach
+Yeah Yeah Yeahs , Lily Allen
+Yeah Yeah Yeahs , Papa Roach
+Kings of Leon , Lily Allen
+Arctic Monkeys , Lily Allen
+Arctic Monkeys , Papa Roach
+Lily Allen , Ramones
+Lily Allen , Papa Roach
+Ramones , Papa Roach
+Coldplay , Snow Patrol
+Coldplay , 30 Seconds to Mars
+Coldplay , Massive Attack
+Coldplay , Lily Allen
+Coldplay , Kanye West
+Coldplay , Black Eyed Peas
+Coldplay , Rammstein
+Kings of Leon , Massive Attack
+Kings of Leon , Kanye West
+Kings of Leon , Black Eyed Peas
+Kings of Leon , Gorillaz
+Kings of Leon , Rammstein
+The Killers , Florence + the Machine
+The Killers , Massive Attack
+The Killers , Kanye West
+The Killers , Black Eyed Peas
+The Killers , Rammstein
+Kasabian , Snow Patrol
+Kasabian , Green Day
+Kasabian , 30 Seconds to Mars
+Kasabian , Massive Attack
+Kasabian , Red Hot Chili Peppers
+Kasabian , Lily Allen
+Kasabian , Kanye West
+Kasabian , Black Eyed Peas
+Kasabian , Rammstein
+Placebo , Massive Attack
+Placebo , Kanye West
+Placebo , Black Eyed Peas
+Placebo , Gorillaz
+Placebo , Rammstein
+Muse , Massive Attack
+Muse , Kanye West
+Muse , Black Eyed Peas
+Muse , Rammstein
+Oasis , Paramore
+Oasis , Snow Patrol
+Oasis , Florence + the Machine
+Oasis , Massive Attack
+Oasis , Lily Allen
+Oasis , Kanye West
+Oasis , Black Eyed Peas
+Oasis , Rammstein
+The White Stripes , Paramore
+The White Stripes , Snow Patrol
+The White Stripes , Florence + the Machine
+The White Stripes , Lily Allen
+The White Stripes , Black Eyed Peas
+The White Stripes , Rammstein
+Arctic Monkeys , Florence + the Machine
+Arctic Monkeys , Massive Attack
+Arctic Monkeys , Kanye West
+Arctic Monkeys , Black Eyed Peas
+Radiohead , Florence + the Machine
+Radiohead , Massive Attack
+Radiohead , Lily Allen
+Radiohead , Kanye West
+Radiohead , Black Eyed Peas
+Paramore , Interpol
+Paramore , Green Day
+Paramore , Massive Attack
+Paramore , Kanye West
+Paramore , Black Eyed Peas
+Paramore , Pearl Jam
+Interpol , Snow Patrol
+Interpol , Florence + the Machine
+Interpol , 30 Seconds to Mars
+Interpol , Lily Allen
+Interpol , Kanye West
+Interpol , Black Eyed Peas
+Interpol , Rammstein
+Snow Patrol , Florence + the Machine
+Snow Patrol , Green Day
+Snow Patrol , Massive Attack
+Snow Patrol , Vampire Weekend
+Snow Patrol , Red Hot Chili Peppers
+Snow Patrol , Kanye West
+Snow Patrol , Black Eyed Peas
+Snow Patrol , Pearl Jam
+Snow Patrol , Gorillaz
+Snow Patrol , Rammstein
+Florence + the Machine , Green Day
+Florence + the Machine , 30 Seconds to Mars
+Florence + the Machine , Massive Attack
+Florence + the Machine , Vampire Weekend
+Florence + the Machine , Red Hot Chili Peppers
+Florence + the Machine , Lily Allen
+Florence + the Machine , Kanye West
+Florence + the Machine , Black Eyed Peas
+Florence + the Machine , Pearl Jam
+Florence + the Machine , Gorillaz
+Florence + the Machine , Rammstein
+Green Day , 30 Seconds to Mars
+Green Day , Massive Attack
+Green Day , Vampire Weekend
+Green Day , Lily Allen
+Green Day , Kanye West
+Green Day , Black Eyed Peas
+Green Day , Gorillaz
+Green Day , Rammstein
+30 Seconds to Mars , Massive Attack
+30 Seconds to Mars , Vampire Weekend
+30 Seconds to Mars , Red Hot Chili Peppers
+30 Seconds to Mars , Kanye West
+30 Seconds to Mars , Black Eyed Peas
+30 Seconds to Mars , Pearl Jam
+30 Seconds to Mars , Gorillaz
+30 Seconds to Mars , Rammstein
+Massive Attack , Vampire Weekend
+Massive Attack , Red Hot Chili Peppers
+Massive Attack , Lily Allen
+Massive Attack , Kanye West
+Massive Attack , Black Eyed Peas
+Massive Attack , Pearl Jam
+Massive Attack , Gorillaz
+Massive Attack , Rammstein
+Vampire Weekend , Lily Allen
+Vampire Weekend , Kanye West
+Vampire Weekend , Black Eyed Peas
+Vampire Weekend , Rammstein
+Red Hot Chili Peppers , Lily Allen
+Red Hot Chili Peppers , Kanye West
+Red Hot Chili Peppers , Black Eyed Peas
+Red Hot Chili Peppers , Rammstein
+Lily Allen , Kanye West
+Lily Allen , Black Eyed Peas
+Lily Allen , Pearl Jam
+Lily Allen , Gorillaz
+Lily Allen , Rammstein
+Kanye West , Black Eyed Peas
+Kanye West , Pearl Jam
+Kanye West , Gorillaz
+Kanye West , Rammstein
+Black Eyed Peas , Pearl Jam
+Black Eyed Peas , Gorillaz
+Black Eyed Peas , Rammstein
+Pearl Jam , Rammstein
+Gorillaz , Rammstein
+Queens of the Stone Age , Kasabian
+Queens of the Stone Age , Depeche Mode
+Queens of the Stone Age , Deftones
+Queens of the Stone Age , The Doors
+Queens of the Stone Age , The Kooks
+Queens of the Stone Age , The xx
+Queens of the Stone Age , Papa Roach
+Queens of the Stone Age , Portishead
+Queens of the Stone Age , Oasis
+Björk , Kasabian
+Björk , Depeche Mode
+Björk , The Doors
+Björk , The Kooks
+Björk , The xx
+Björk , Papa Roach
+Björk , Portishead
+Björk , Jimi Hendrix
+Björk , Oasis
+Kasabian , Depeche Mode
+Kasabian , Deftones
+Kasabian , Tool
+Kasabian , The Doors
+Kasabian , The Kooks
+Kasabian , The xx
+Kasabian , A Perfect Circle
+Kasabian , Nine Inch Nails
+Kasabian , Portishead
+Depeche Mode , Deftones
+Depeche Mode , Tool
+Depeche Mode , The Kooks
+Depeche Mode , The xx
+Depeche Mode , A Perfect Circle
+Depeche Mode , Nine Inch Nails
+Depeche Mode , Papa Roach
+Depeche Mode , Portishead
+Depeche Mode , Jimi Hendrix
+Led Zeppelin , The Kooks
+Led Zeppelin , The xx
+Led Zeppelin , Papa Roach
+Led Zeppelin , Portishead
+Deftones , The Doors
+Deftones , The Kooks
+Deftones , The xx
+Deftones , Papa Roach
+Deftones , Jimi Hendrix
+Deftones , Oasis
+Tool , The Doors
+Tool , The Kooks
+Tool , The xx
+Tool , Papa Roach
+Tool , Portishead
+Tool , Oasis
+The Doors , The Kooks
+The Doors , The xx
+The Doors , A Perfect Circle
+The Doors , Nine Inch Nails
+The Doors , Papa Roach
+The Doors , Portishead
+The Doors , Jimi Hendrix
+The Kooks , A Perfect Circle
+The Kooks , Nine Inch Nails
+The Kooks , Portishead
+The Kooks , Jimi Hendrix
+The xx , A Perfect Circle
+The xx , Nine Inch Nails
+The xx , Papa Roach
+The xx , Portishead
+The xx , Oasis
+A Perfect Circle , Papa Roach
+A Perfect Circle , Portishead
+A Perfect Circle , Jimi Hendrix
+A Perfect Circle , Oasis
+Nine Inch Nails , Papa Roach
+Nine Inch Nails , Portishead
+Nine Inch Nails , Jimi Hendrix
+Nine Inch Nails , Oasis
+Papa Roach , Portishead
+Papa Roach , Jimi Hendrix
+Papa Roach , Oasis
+Portishead , Jimi Hendrix
+Portishead , Oasis
+My Chemical Romance , Green Day
+My Chemical Romance , The Who
+My Chemical Romance , Foo Fighters
+My Chemical Romance , The Offspring
+Green Day , The Who
+Green Day , Death Cab for Cutie
+Green Day , The Offspring
+blink-182 , The Who
+The Who , Foo Fighters
+The Who , The Offspring
+Foo Fighters , Death Cab for Cutie
+Death Cab for Cutie , The Offspring
+Florence + the Machine , The xx
+Florence + the Machine , Phoenix
+Florence + the Machine , Bloc Party
+Florence + the Machine , Sigur Rós
+Florence + the Machine , Lady Gaga
+Florence + the Machine , Tegan and Sara
+Florence + the Machine , The Rolling Stones
+Florence + the Machine , Yeah Yeah Yeahs
+Florence + the Machine , Depeche Mode
+Radiohead , Tegan and Sara
+The xx , Phoenix
+The xx , The Rolling Stones
+The xx , 30 Seconds to Mars
+The xx , Lily Allen
+Phoenix , Bloc Party
+Phoenix , Sigur Rós
+Phoenix , Kings of Leon
+Phoenix , Lady Gaga
+Phoenix , Tegan and Sara
+Phoenix , The Rolling Stones
+Phoenix , MGMT
+Phoenix , Yeah Yeah Yeahs
+Phoenix , Depeche Mode
+Phoenix , 30 Seconds to Mars
+Phoenix , Lily Allen
+The Beatles , Tegan and Sara
+The Beatles , Lily Allen
+Bloc Party , The Rolling Stones
+Bloc Party , Depeche Mode
+Sigur Rós , The Rolling Stones
+Sigur Rós , MGMT
+Sigur Rós , Depeche Mode
+Sigur Rós , 30 Seconds to Mars
+Sigur Rós , Lily Allen
+Kings of Leon , The Rolling Stones
+Lady Gaga , The Rolling Stones
+Lady Gaga , MGMT
+Lady Gaga , Depeche Mode
+Lady Gaga , 30 Seconds to Mars
+Vampire Weekend , The Rolling Stones
+Vampire Weekend , Depeche Mode
+Tegan and Sara , The Rolling Stones
+Tegan and Sara , MGMT
+Tegan and Sara , Depeche Mode
+Tegan and Sara , 30 Seconds to Mars
+Tegan and Sara , Lily Allen
+The Rolling Stones , MGMT
+The Rolling Stones , Depeche Mode
+The Rolling Stones , Coldplay
+The Rolling Stones , 30 Seconds to Mars
+The Rolling Stones , Lily Allen
+MGMT , Depeche Mode
+MGMT , Lily Allen
+Yeah Yeah Yeahs , Depeche Mode
+Depeche Mode , 30 Seconds to Mars
+Depeche Mode , Lily Allen
+Daft Punk , Disturbed
+Daft Punk , The Prodigy
+Daft Punk , Björk
+Daft Punk , Green Day
+Daft Punk , 30 Seconds to Mars
+Daft Punk , Yeah Yeah Yeahs
+Daft Punk , Britney Spears
+Muse , Disturbed
+Muse , Britney Spears
+Disturbed , Kasabian
+Disturbed , Björk
+Disturbed , Green Day
+Disturbed , 30 Seconds to Mars
+Disturbed , Eminem
+Disturbed , Yeah Yeah Yeahs
+Disturbed , The Beatles
+Disturbed , Britney Spears
+Kasabian , The Prodigy
+Kasabian , Yeah Yeah Yeahs
+Kasabian , Britney Spears
+The Prodigy , Björk
+The Prodigy , Green Day
+The Prodigy , 30 Seconds to Mars
+The Prodigy , Yeah Yeah Yeahs
+The Prodigy , The Beatles
+The Prodigy , Britney Spears
+Björk , Green Day
+Björk , 30 Seconds to Mars
+Björk , Yeah Yeah Yeahs
+Green Day , Eminem
+Green Day , Yeah Yeah Yeahs
+Green Day , Britney Spears
+30 Seconds to Mars , Eminem
+30 Seconds to Mars , Britney Spears
+Eminem , Yeah Yeah Yeahs
+Eminem , The Beatles
+Eminem , Britney Spears
+Yeah Yeah Yeahs , Britney Spears
+The Beatles , Britney Spears
+The Rolling Stones , The Doors
+The Rolling Stones , Arctic Monkeys
+The Rolling Stones , Michael Jackson
+The Rolling Stones , Nine Inch Nails
+David Bowie , The Doors
+David Bowie , Depeche Mode
+The Doors , The Who
+The Doors , Michael Jackson
+The Doors , MGMT
+Arctic Monkeys , Nine Inch Nails
+The Who , Michael Jackson
+The Who , Depeche Mode
+The Who , Nine Inch Nails
+The Who , MGMT
+Nirvana , Nine Inch Nails
+Michael Jackson , Depeche Mode
+Nine Inch Nails , MGMT
+Coldplay , The Cure
+U2 , Beck
+U2 , The Cure
+U2 , Bob Dylan
+U2 , Massive Attack
+Blur , The Cure
+Blur , Massive Attack
+Pearl Jam , The Cure
+Beck , The Cure
+Beck , The Smashing Pumpkins
+Beck , Massive Attack
+Beck , Foo Fighters
+The Cure , Bob Dylan
+The Smashing Pumpkins , Bob Dylan
+The Smashing Pumpkins , Massive Attack
+Bob Dylan , Massive Attack
+Bob Dylan , Foo Fighters
+Massive Attack , Foo Fighters
+Madonna , Beyoncé
+Madonna , Taylor Swift
+Madonna , Gorillaz
+Christina Aguilera , Beyoncé
+Christina Aguilera , Taylor Swift
+Christina Aguilera , Gorillaz
+Lady Gaga , Beyoncé
+Lady Gaga , Gorillaz
+Beyoncé , Taylor Swift
+Beyoncé , Gorillaz
+Taylor Swift , Gorillaz
+Oasis , The Rolling Stones
+Oasis , The Prodigy
+Keane , The Rolling Stones
+Keane , The Prodigy
+Keane , The Kooks
+The Rolling Stones , The Prodigy
+The Rolling Stones , Blur
+The Rolling Stones , The Kooks
+The Rolling Stones , U2
+The Rolling Stones , The Killers
+The Rolling Stones , Red Hot Chili Peppers
+The Rolling Stones , Bob Dylan
+The Prodigy , Blur
+The Prodigy , The Kooks
+The Prodigy , U2
+The Prodigy , The Killers
+The Prodigy , Coldplay
+The Prodigy , Red Hot Chili Peppers
+The Prodigy , Bob Dylan
+The Prodigy , The Who
+Blur , The Kooks
+The Kooks , Bob Dylan
+The Kooks , The Who
+U2 , The Who
+Red Hot Chili Peppers , Bob Dylan
+Red Hot Chili Peppers , The Who
+Pearl Jam , Weezer
+Pearl Jam , Yeah Yeah Yeahs
+Nirvana , Weezer
+Weezer , Coldplay
+Weezer , Yeah Yeah Yeahs
+Weezer , Incubus
+Weezer , The Killers
+Weezer , Tool
+Weezer , Alice in Chains
+Weezer , David Bowie
+Weezer , Bob Dylan
+Weezer , Oasis
+Death Cab for Cutie , Tool
+Death Cab for Cutie , Alice in Chains
+Death Cab for Cutie , David Bowie
+Coldplay , Tool
+Coldplay , David Bowie
+Yeah Yeah Yeahs , Alice in Chains
+Yeah Yeah Yeahs , Bob Dylan
+Incubus , Bob Dylan
+The Killers , Tool
+Tool , Bob Dylan
+Alice in Chains , Bob Dylan
+David Bowie , Bob Dylan
+The Beatles , Modest Mouse
+Queen , Phoenix
+Queen , Sigur Rós
+Queen , The xx
+Queen , Tegan and Sara
+Queen , Lady Gaga
+Queen , Britney Spears
+Queen , Modest Mouse
+Phoenix , Britney Spears
+Phoenix , Modest Mouse
+Sigur Rós , Britney Spears
+Sigur Rós , Modest Mouse
+The xx , Britney Spears
+The xx , Modest Mouse
+Tegan and Sara , Britney Spears
+Tegan and Sara , Modest Mouse
+Lady Gaga , Modest Mouse
+Britney Spears , Modest Mouse
+Britney Spears , Radiohead
+Bullet for My Valentine , Children of Bodom
+Bullet for My Valentine , Nightwish
+Bullet for My Valentine , Avenged Sevenfold
+Bullet for My Valentine , A Perfect Circle
+Bullet for My Valentine , Disturbed
+Bullet for My Valentine , Marilyn Manson
+Bullet for My Valentine , System of a Down
+Bullet for My Valentine , Tool
+Bullet for My Valentine , Slipknot
+Metallica , Children of Bodom
+Metallica , Avenged Sevenfold
+Children of Bodom , Nightwish
+Children of Bodom , Avenged Sevenfold
+Children of Bodom , A Perfect Circle
+Children of Bodom , Disturbed
+Children of Bodom , Marilyn Manson
+Children of Bodom , System of a Down
+Children of Bodom , Three Days Grace
+Children of Bodom , Tool
+Children of Bodom , 30 Seconds to Mars
+Children of Bodom , Slipknot
+Children of Bodom , Breaking Benjamin
+Nightwish , Avenged Sevenfold
+Nightwish , A Perfect Circle
+Nightwish , Disturbed
+Nightwish , Marilyn Manson
+Nightwish , System of a Down
+Nightwish , Three Days Grace
+Nightwish , Tool
+Nightwish , 30 Seconds to Mars
+Nightwish , Slipknot
+Nightwish , Breaking Benjamin
+Avenged Sevenfold , A Perfect Circle
+Avenged Sevenfold , Disturbed
+Avenged Sevenfold , Marilyn Manson
+Avenged Sevenfold , System of a Down
+Avenged Sevenfold , Three Days Grace
+Avenged Sevenfold , Tool
+Avenged Sevenfold , 30 Seconds to Mars
+Avenged Sevenfold , Slipknot
+Avenged Sevenfold , Breaking Benjamin
+A Perfect Circle , Disturbed
+A Perfect Circle , Marilyn Manson
+A Perfect Circle , System of a Down
+A Perfect Circle , Three Days Grace
+A Perfect Circle , 30 Seconds to Mars
+A Perfect Circle , Slipknot
+A Perfect Circle , Breaking Benjamin
+Disturbed , Marilyn Manson
+Disturbed , Three Days Grace
+Disturbed , Slipknot
+Disturbed , Breaking Benjamin
+Marilyn Manson , System of a Down
+Marilyn Manson , Tool
+Marilyn Manson , 30 Seconds to Mars
+Marilyn Manson , Breaking Benjamin
+System of a Down , Three Days Grace
+System of a Down , Slipknot
+System of a Down , Breaking Benjamin
+Three Days Grace , Tool
+Three Days Grace , Slipknot
+Tool , 30 Seconds to Mars
+Tool , Slipknot
+Tool , Breaking Benjamin
+30 Seconds to Mars , Slipknot
+Slipknot , Breaking Benjamin
+MGMT , Kanye West
+MGMT , Britney Spears
+The Killers , Eminem
+The Killers , Britney Spears
+My Chemical Romance , Lady Gaga
+My Chemical Romance , The Rolling Stones
+My Chemical Romance , Britney Spears
+My Chemical Romance , Phoenix
+My Chemical Romance , Metallica
+My Chemical Romance , Depeche Mode
+Arctic Monkeys , Eminem
+Arctic Monkeys , Britney Spears
+Lady Gaga , The Cure
+Lady Gaga , Kanye West
+Lady Gaga , Metallica
+Lady Gaga , Michael Jackson
+The Rolling Stones , Kanye West
+The Rolling Stones , Eminem
+The Rolling Stones , Britney Spears
+The Rolling Stones , The Smashing Pumpkins
+The Cure , Kanye West
+The Cure , Britney Spears
+The Cure , Phoenix
+The Cure , Depeche Mode
+Kanye West , Britney Spears
+Kanye West , Phoenix
+Kanye West , Metallica
+Kanye West , Michael Jackson
+Kanye West , The Smashing Pumpkins
+Kanye West , Depeche Mode
+Eminem , Phoenix
+Eminem , Michael Jackson
+Eminem , The Smashing Pumpkins
+Eminem , Depeche Mode
+Coldplay , Britney Spears
+Coldplay , Michael Jackson
+Britney Spears , Metallica
+Britney Spears , Michael Jackson
+Britney Spears , The Smashing Pumpkins
+Britney Spears , Depeche Mode
+Phoenix , Metallica
+Phoenix , Michael Jackson
+Phoenix , The Smashing Pumpkins
+Lady Gaga , Interpol
+Lady Gaga , The White Stripes
+Lady Gaga , Black Eyed Peas
+Christina Aguilera , The Beatles
+Christina Aguilera , Queen
+Christina Aguilera , Interpol
+Christina Aguilera , Ke$ha
+Christina Aguilera , All Time Low
+Christina Aguilera , The White Stripes
+Christina Aguilera , Lily Allen
+Christina Aguilera , Black Eyed Peas
+The Beatles , Rihanna
+The Beatles , Black Eyed Peas
+Queen , Interpol
+Queen , Arctic Monkeys
+Queen , Ke$ha
+Queen , Vampire Weekend
+Queen , All Time Low
+Queen , Rihanna
+Queen , The White Stripes
+Queen , Lily Allen
+Queen , Coldplay
+Queen , Yeah Yeah Yeahs
+Queen , Black Eyed Peas
+Interpol , Ke$ha
+Interpol , All Time Low
+Interpol , Rihanna
+Interpol , Britney Spears
+Arctic Monkeys , Ke$ha
+Arctic Monkeys , All Time Low
+Ke$ha , Rihanna
+Ke$ha , Britney Spears
+Ke$ha , The White Stripes
+Ke$ha , Lily Allen
+Ke$ha , Yeah Yeah Yeahs
+Ke$ha , Black Eyed Peas
+Vampire Weekend , Britney Spears
+All Time Low , Rihanna
+All Time Low , Britney Spears
+All Time Low , The White Stripes
+All Time Low , Lily Allen
+All Time Low , Yeah Yeah Yeahs
+All Time Low , Black Eyed Peas
+Rihanna , The White Stripes
+Rihanna , Lily Allen
+Rihanna , Black Eyed Peas
+Britney Spears , The White Stripes
+Britney Spears , Lily Allen
+Britney Spears , Black Eyed Peas
+Yeah Yeah Yeahs , Black Eyed Peas
+Michael Jackson , Beyoncé
+Michael Jackson , Rihanna
+Michael Jackson , Nickelback
+Michael Jackson , Christina Aguilera
+Michael Jackson , Madonna
+Lady Gaga , Franz Ferdinand
+Beyoncé , Britney Spears
+Beyoncé , Rihanna
+Beyoncé , Nickelback
+Beyoncé , Franz Ferdinand
+Britney Spears , Nickelback
+Britney Spears , Franz Ferdinand
+Rihanna , Franz Ferdinand
+Nickelback , Christina Aguilera
+Nickelback , Franz Ferdinand
+Christina Aguilera , Franz Ferdinand
+Madonna , Franz Ferdinand
+Amy Winehouse , Regina Spektor
+Amy Winehouse , Yeah Yeah Yeahs
+Amy Winehouse , The xx
+Amy Winehouse , Phoenix
+Amy Winehouse , The Strokes
+Amy Winehouse , Radiohead
+Amy Winehouse , Arctic Monkeys
+Amy Winehouse , Tegan and Sara
+Amy Winehouse , Eminem
+Regina Spektor , Phoenix
+Regina Spektor , The Strokes
+Regina Spektor , Radiohead
+Regina Spektor , Incubus
+Regina Spektor , Eminem
+The xx , The Strokes
+The xx , Incubus
+The xx , Eminem
+Phoenix , Incubus
+The Strokes , Lady Gaga
+The Strokes , Tegan and Sara
+The Strokes , Eminem
+Radiohead , Eminem
+Vampire Weekend , Eminem
+Incubus , Tegan and Sara
+Tegan and Sara , Eminem
+Paramore , Beyoncé
+Paramore , Katy Perry
+Paramore , Michael Jackson
+Paramore , Taylor Swift
+Lady Gaga , Green Day
+All Time Low , Green Day
+All Time Low , Evanescence
+All Time Low , Beyoncé
+All Time Low , Katy Perry
+All Time Low , Michael Jackson
+All Time Low , Linkin Park
+Christina Aguilera , Green Day
+Christina Aguilera , blink-182
+Christina Aguilera , 3OH!3
+Christina Aguilera , Linkin Park
+Green Day , Ke$ha
+Green Day , Evanescence
+Green Day , Beyoncé
+Green Day , Rihanna
+Green Day , Katy Perry
+Green Day , 3OH!3
+Green Day , Michael Jackson
+Green Day , Avril Lavigne
+Green Day , Linkin Park
+Green Day , Taylor Swift
+Ke$ha , Evanescence
+Ke$ha , Beyoncé
+Ke$ha , Katy Perry
+Ke$ha , Michael Jackson
+Ke$ha , Linkin Park
+Britney Spears , blink-182
+Britney Spears , Katy Perry
+Britney Spears , 3OH!3
+Britney Spears , Linkin Park
+Britney Spears , Taylor Swift
+Evanescence , Beyoncé
+Evanescence , Black Eyed Peas
+Evanescence , blink-182
+Evanescence , Katy Perry
+Evanescence , 3OH!3
+Evanescence , Michael Jackson
+Evanescence , Coldplay
+Evanescence , The Beatles
+Evanescence , Lily Allen
+Evanescence , Taylor Swift
+Beyoncé , Black Eyed Peas
+Beyoncé , blink-182
+Beyoncé , Katy Perry
+Beyoncé , 3OH!3
+Beyoncé , Avril Lavigne
+Beyoncé , Coldplay
+Beyoncé , The Beatles
+Beyoncé , Linkin Park
+Beyoncé , Muse
+Beyoncé , Lily Allen
+Rihanna , blink-182
+Rihanna , 3OH!3
+Rihanna , Taylor Swift
+Black Eyed Peas , blink-182
+Black Eyed Peas , Katy Perry
+Black Eyed Peas , 3OH!3
+Black Eyed Peas , Michael Jackson
+Black Eyed Peas , Avril Lavigne
+Black Eyed Peas , Linkin Park
+Black Eyed Peas , Taylor Swift
+blink-182 , Katy Perry
+blink-182 , Michael Jackson
+Katy Perry , 3OH!3
+Katy Perry , Michael Jackson
+Katy Perry , The Beatles
+Katy Perry , Lily Allen
+Katy Perry , Taylor Swift
+3OH!3 , Michael Jackson
+3OH!3 , Linkin Park
+3OH!3 , Lily Allen
+Michael Jackson , Avril Lavigne
+Michael Jackson , Linkin Park
+Michael Jackson , Lily Allen
+Michael Jackson , Taylor Swift
+Coldplay , Linkin Park
+Coldplay , Taylor Swift
+The Beatles , Linkin Park
+Linkin Park , Taylor Swift
+Muse , Taylor Swift
+Lily Allen , Taylor Swift
+Lady Gaga , Jimi Hendrix
+Lady Gaga , Led Zeppelin
+Lady Gaga , David Bowie
+Lady Gaga , The Doors
+Jimi Hendrix , David Bowie
+The Smiths , Eminem
+The Smiths , Paramore
+The Smiths , Florence + the Machine
+Eminem , Red Hot Chili Peppers
+Eminem , Crystal Castles
+Paramore , Crystal Castles
+Crystal Castles , Florence + the Machine
+Eminem , U2
+Eminem , Snow Patrol
+Nickelback , Red Hot Chili Peppers
+U2 , Snow Patrol
+U2 , Three Days Grace
+Snow Patrol , Foo Fighters
+Red Hot Chili Peppers , Three Days Grace
+Foo Fighters , Three Days Grace
+Taylor Swift , Foo Fighters
+Taylor Swift , Nirvana
+Taylor Swift , Pearl Jam
+Taylor Swift , Modest Mouse
+Lady Gaga , Nirvana
+Lady Gaga , Pearl Jam
+Coldplay , Modest Mouse
+Foo Fighters , Modest Mouse
+Nirvana , Modest Mouse
+Pearl Jam , Modest Mouse
+Avril Lavigne , Amy Winehouse
+Avril Lavigne , Kanye West
+Rihanna , Kanye West
+Amy Winehouse , Lily Allen
+Amy Winehouse , Christina Aguilera
+Amy Winehouse , Taylor Swift
+Amy Winehouse , Kanye West
+Amy Winehouse , Beyoncé
+Christina Aguilera , Kanye West
+The Kooks , Kanye West
+The Kooks , Beyoncé
+Taylor Swift , Kanye West
+Kanye West , Beyoncé
+The Kooks , MGMT
+The Kooks , Green Day
+The Kooks , The Offspring
+Kings of Leon , The Offspring
+Kings of Leon , The All-American Rejects
+MGMT , Green Day
+MGMT , The Offspring
+MGMT , The All-American Rejects
+MGMT , The Strokes
+MGMT , Foo Fighters
+Oasis , The Offspring
+Oasis , Bloc Party
+Green Day , The All-American Rejects
+Green Day , Bloc Party
+Green Day , Fall Out Boy
+The Killers , The Offspring
+The Killers , The All-American Rejects
+The Offspring , The All-American Rejects
+The Offspring , Bloc Party
+The Offspring , The Strokes
+The Offspring , Kasabian
+The All-American Rejects , Bloc Party
+The All-American Rejects , The Strokes
+The All-American Rejects , Kasabian
+Bloc Party , Kasabian
+Bloc Party , Foo Fighters
+The Strokes , Fall Out Boy
+Kasabian , Foo Fighters
+blink-182 , Rammstein
+blink-182 , Three Days Grace
+blink-182 , Disturbed
+blink-182 , The All-American Rejects
+blink-182 , Weezer
+System of a Down , Linkin Park
+System of a Down , All Time Low
+System of a Down , Lady Gaga
+System of a Down , The All-American Rejects
+System of a Down , Weezer
+Rammstein , Ramones
+Rammstein , Three Days Grace
+Rammstein , Linkin Park
+Rammstein , MGMT
+Rammstein , All Time Low
+Rammstein , Lady Gaga
+Rammstein , The All-American Rejects
+Rammstein , Weezer
+Paramore , The All-American Rejects
+Paramore , Weezer
+Muse , Weezer
+Ramones , Three Days Grace
+Ramones , Disturbed
+Ramones , All Time Low
+Ramones , Lady Gaga
+Ramones , The All-American Rejects
+Ramones , Weezer
+Three Days Grace , Vampire Weekend
+Three Days Grace , Lady Gaga
+Three Days Grace , The All-American Rejects
+Three Days Grace , Weezer
+Linkin Park , Disturbed
+Linkin Park , Weezer
+Vampire Weekend , Disturbed
+Vampire Weekend , Weezer
+MGMT , Disturbed
+MGMT , Weezer
+Disturbed , All Time Low
+Disturbed , Lady Gaga
+Disturbed , The All-American Rejects
+Disturbed , Weezer
+All Time Low , The All-American Rejects
+All Time Low , Weezer
+Lady Gaga , Weezer
+The All-American Rejects , Weezer
+Paramore , Opeth
+Linkin Park , Opeth
+Evanescence , Opeth
+All Time Low , The Used
+The Used , Coldplay
+The Used , The All-American Rejects
+Coldplay , The All-American Rejects
+The All-American Rejects , Arctic Monkeys
+The All-American Rejects , My Chemical Romance
+The All-American Rejects , Eminem
+The xx , Keane
+The xx , Weezer
+The xx , Children of Bodom
+The xx , Foo Fighters
+Keane , Weezer
+Keane , Crystal Castles
+Keane , Children of Bodom
+Keane , Modest Mouse
+Weezer , Pink Floyd
+Weezer , Crystal Castles
+Weezer , Children of Bodom
+Weezer , Foo Fighters
+Gorillaz , Incubus
+Gorillaz , Crystal Castles
+Gorillaz , Children of Bodom
+Gorillaz , Foo Fighters
+Pink Floyd , Crystal Castles
+Pink Floyd , Children of Bodom
+Pink Floyd , Modest Mouse
+Incubus , Crystal Castles
+Incubus , Children of Bodom
+Incubus , Modest Mouse
+Crystal Castles , Children of Bodom
+Crystal Castles , Foo Fighters
+Crystal Castles , Modest Mouse
+Crystal Castles , Radiohead
+Children of Bodom , Foo Fighters
+Children of Bodom , Modest Mouse
+Children of Bodom , Radiohead
+Linkin Park , Marilyn Manson
+Marilyn Manson , Evanescence
+Coldplay , System of a Down
+Rammstein , Franz Ferdinand
+Rammstein , U2
+Black Eyed Peas , System of a Down
+Black Eyed Peas , Franz Ferdinand
+Black Eyed Peas , U2
+System of a Down , U2
+Franz Ferdinand , U2
+Red Hot Chili Peppers , Panic! At the Disco
+Panic! At the Disco , Green Day
+Panic! At the Disco , Keane
+Muse , The Rolling Stones
+Pink Floyd , The Prodigy
+Pink Floyd , 30 Seconds to Mars
+Pink Floyd , Marilyn Manson
+System of a Down , The Rolling Stones
+System of a Down , Queen
+System of a Down , Guns N' Roses
+System of a Down , Nine Inch Nails
+The Killers , Queen
+The Killers , Guns N' Roses
+The Killers , Nine Inch Nails
+The Killers , Marilyn Manson
+The Prodigy , Radiohead
+The Prodigy , Nirvana
+The Prodigy , Queen
+The Prodigy , Guns N' Roses
+The Prodigy , Nine Inch Nails
+The Beatles , Marilyn Manson
+The Rolling Stones , Queen
+The Rolling Stones , Marilyn Manson
+Radiohead , Marilyn Manson
+Nirvana , Queen
+Queen , 30 Seconds to Mars
+Queen , Guns N' Roses
+Queen , Marilyn Manson
+30 Seconds to Mars , Guns N' Roses
+30 Seconds to Mars , Nine Inch Nails
+Guns N' Roses , Nine Inch Nails
+Guns N' Roses , Marilyn Manson
+Nine Inch Nails , Marilyn Manson
+Florence + the Machine , The Kooks
+Florence + the Machine , Keane
+Florence + the Machine , Foo Fighters
+Florence + the Machine , System of a Down
+The Kooks , Nirvana
+The Kooks , System of a Down
+The Kooks , Three Days Grace
+Nirvana , Kanye West
+Nirvana , The xx
+Nirvana , Lily Allen
+Nirvana , Bloc Party
+Kanye West , Keane
+Kanye West , The xx
+Kanye West , Foo Fighters
+Kanye West , System of a Down
+Kanye West , Three Days Grace
+Kanye West , Bloc Party
+Keane , 30 Seconds to Mars
+Keane , Lily Allen
+Keane , My Chemical Romance
+Keane , System of a Down
+Keane , Three Days Grace
+Keane , Bloc Party
+30 Seconds to Mars , Foo Fighters
+The xx , My Chemical Romance
+The xx , Three Days Grace
+Lily Allen , Foo Fighters
+Lily Allen , System of a Down
+Lily Allen , Three Days Grace
+The Killers , Three Days Grace
+Oasis , Three Days Grace
+My Chemical Romance , Red Hot Chili Peppers
+Foo Fighters , System of a Down
+Three Days Grace , Bloc Party
+Beyoncé , Eminem
+Rihanna , Eminem
+Bullet for My Valentine , Rise Against
+Bullet for My Valentine , Opeth
+Bullet for My Valentine , The Prodigy
+Bullet for My Valentine , Megadeth
+Bullet for My Valentine , Kasabian
+Muse , Avenged Sevenfold
+Avenged Sevenfold , Pink Floyd
+Avenged Sevenfold , Nirvana
+Avenged Sevenfold , Rise Against
+Avenged Sevenfold , Opeth
+Avenged Sevenfold , Paramore
+Avenged Sevenfold , Arctic Monkeys
+Avenged Sevenfold , Deftones
+Avenged Sevenfold , The Prodigy
+Avenged Sevenfold , The White Stripes
+Avenged Sevenfold , Placebo
+Avenged Sevenfold , Megadeth
+Avenged Sevenfold , Kasabian
+Metallica , Kasabian
+Pink Floyd , Slipknot
+Pink Floyd , Rise Against
+Pink Floyd , Breaking Benjamin
+Slipknot , Nirvana
+Slipknot , Rise Against
+Slipknot , Opeth
+Slipknot , Paramore
+Slipknot , Arctic Monkeys
+Slipknot , The White Stripes
+Slipknot , Placebo
+Slipknot , Kasabian
+Tool , Placebo
+Rise Against , Opeth
+Rise Against , Deftones
+Rise Against , 30 Seconds to Mars
+Rise Against , The White Stripes
+Rise Against , Breaking Benjamin
+Rise Against , Megadeth
+Opeth , Arctic Monkeys
+Opeth , The Prodigy
+Opeth , 30 Seconds to Mars
+Opeth , Breaking Benjamin
+Opeth , Placebo
+Opeth , Kasabian
+Paramore , Megadeth
+Arctic Monkeys , Megadeth
+Deftones , Placebo
+The Prodigy , The White Stripes
+The Prodigy , Breaking Benjamin
+The Prodigy , Placebo
+The White Stripes , Breaking Benjamin
+Breaking Benjamin , Placebo
+Breaking Benjamin , Kasabian
+Placebo , Megadeth
+Megadeth , Kasabian
+Arctic Monkeys , 3OH!3
+Radiohead , The Kooks
+Radiohead , 3OH!3
+Radiohead , Disturbed
+The Strokes , 3OH!3
+The Strokes , System of a Down
+The Strokes , Disturbed
+The Strokes , Three Days Grace
+Franz Ferdinand , blink-182
+Franz Ferdinand , Foo Fighters
+Franz Ferdinand , The Kooks
+Franz Ferdinand , 3OH!3
+Franz Ferdinand , Metallica
+Franz Ferdinand , Disturbed
+Franz Ferdinand , Three Days Grace
+The Beatles , Three Days Grace
+Coldplay , Disturbed
+blink-182 , Kasabian
+The Killers , 3OH!3
+The Killers , Disturbed
+Kasabian , System of a Down
+Kasabian , Ramones
+Oasis , Disturbed
+Foo Fighters , 3OH!3
+Foo Fighters , Disturbed
+The Kooks , Metallica
+The Kooks , The White Stripes
+The Kooks , Pink Floyd
+The Kooks , Disturbed
+3OH!3 , Metallica
+3OH!3 , Blur
+3OH!3 , System of a Down
+3OH!3 , The White Stripes
+3OH!3 , Pink Floyd
+3OH!3 , Disturbed
+3OH!3 , Ramones
+Blur , System of a Down
+Blur , Disturbed
+Blur , Three Days Grace
+The White Stripes , Disturbed
+The White Stripes , Three Days Grace
+Pink Floyd , Disturbed
+Pink Floyd , Three Days Grace
+The Smashing Pumpkins , Weezer
+The Smashing Pumpkins , Lily Allen
+Phoenix , Weezer
+Phoenix , The Smiths
+Weezer , Lily Allen
+Weezer , The Smiths
+Lily Allen , The Smiths
+Lily Allen , Franz Ferdinand
+The Smiths , Franz Ferdinand
+Green Day , Korn
+Green Day , System of a Down
+Green Day , Franz Ferdinand
+Placebo , The Offspring
+Placebo , Evanescence
+Placebo , Disturbed
+Rammstein , Depeche Mode
+Rammstein , Foo Fighters
+Rammstein , Keane
+Rammstein , Nirvana
+Red Hot Chili Peppers , Korn
+Red Hot Chili Peppers , The Offspring
+Red Hot Chili Peppers , Linkin Park
+Red Hot Chili Peppers , Evanescence
+Red Hot Chili Peppers , Disturbed
+Red Hot Chili Peppers , Franz Ferdinand
+Korn , Coldplay
+Korn , Depeche Mode
+Korn , Linkin Park
+Korn , Pearl Jam
+Korn , Florence + the Machine
+Korn , Keane
+The Offspring , Coldplay
+The Offspring , Depeche Mode
+The Offspring , Linkin Park
+The Offspring , Pearl Jam
+The Offspring , Florence + the Machine
+The Offspring , Keane
+The Offspring , Nirvana
+The Offspring , Franz Ferdinand
+Depeche Mode , Linkin Park
+Depeche Mode , Evanescence
+Depeche Mode , System of a Down
+Depeche Mode , Disturbed
+Depeche Mode , Franz Ferdinand
+Foo Fighters , Evanescence
+Linkin Park , Pearl Jam
+Linkin Park , Florence + the Machine
+Linkin Park , Keane
+Linkin Park , Franz Ferdinand
+Evanescence , Pearl Jam
+Evanescence , Florence + the Machine
+Evanescence , Keane
+Evanescence , Franz Ferdinand
+System of a Down , Pearl Jam
+Pearl Jam , Disturbed
+Disturbed , Florence + the Machine
+Disturbed , Keane
+Disturbed , Nirvana
+Florence + the Machine , Incubus
+Florence + the Machine , Franz Ferdinand
+Incubus , Franz Ferdinand
+AC/DC , The Offspring
+AC/DC , Cobra Starship
+AC/DC , Disturbed
+All Time Low , Aerosmith
+All Time Low , Alice in Chains
+All Time Low , The Offspring
+Aerosmith , Alice in Chains
+Aerosmith , The Offspring
+Aerosmith , Eminem
+Aerosmith , Fall Out Boy
+Aerosmith , 3OH!3
+Aerosmith , Cobra Starship
+Aerosmith , Disturbed
+Green Day , Cobra Starship
+Alice in Chains , The Offspring
+Alice in Chains , Eminem
+Alice in Chains , Fall Out Boy
+Alice in Chains , 3OH!3
+Alice in Chains , Cobra Starship
+Alice in Chains , Disturbed
+Arctic Monkeys , Cobra Starship
+The Offspring , 3OH!3
+The Offspring , Cobra Starship
+Eminem , Cobra Starship
+Fall Out Boy , Cobra Starship
+Cobra Starship , Disturbed
+The Smiths , Bob Dylan
+The Smiths , MGMT
+Oasis , Joy Division
+Arctic Monkeys , Joy Division
+Blur , Joy Division
+Blur , Yeah Yeah Yeahs
+Blur , MGMT
+Joy Division , Radiohead
+Joy Division , Bob Dylan
+Joy Division , MGMT
+Joy Division , Black Sabbath
+Bob Dylan , MGMT
+Bob Dylan , Black Sabbath
+Yeah Yeah Yeahs , Black Sabbath
+MGMT , Black Sabbath
+Pink Floyd , Eminem
+Pink Floyd , The Offspring
+Pink Floyd , Linkin Park
+Led Zeppelin , Eminem
+Led Zeppelin , Avenged Sevenfold
+Led Zeppelin , Linkin Park
+Red Hot Chili Peppers , Avenged Sevenfold
+Red Hot Chili Peppers , Queens of the Stone Age
+The Beatles , Avenged Sevenfold
+The Beatles , The Offspring
+The Doors , Eminem
+The Doors , Bob Dylan
+The Doors , Avenged Sevenfold
+The Doors , The Offspring
+The Doors , Linkin Park
+The Doors , System of a Down
+Jimi Hendrix , Eminem
+Jimi Hendrix , Metallica
+Jimi Hendrix , Foo Fighters
+Jimi Hendrix , Avenged Sevenfold
+Jimi Hendrix , The Offspring
+Jimi Hendrix , Linkin Park
+Jimi Hendrix , AC/DC
+Black Sabbath , Eminem
+Black Sabbath , The Rolling Stones
+Black Sabbath , Avenged Sevenfold
+Black Sabbath , The Offspring
+Black Sabbath , Linkin Park
+Black Sabbath , System of a Down
+Eminem , The Who
+Eminem , Bob Dylan
+Eminem , Avenged Sevenfold
+Eminem , Queens of the Stone Age
+Eminem , Linkin Park
+Eminem , System of a Down
+Eminem , Pearl Jam
+The Who , Avenged Sevenfold
+The Who , Queens of the Stone Age
+The Who , Linkin Park
+The Who , System of a Down
+Metallica , Bob Dylan
+The Rolling Stones , Foo Fighters
+The Rolling Stones , Avenged Sevenfold
+The Rolling Stones , The Offspring
+The Rolling Stones , Linkin Park
+The Rolling Stones , Pearl Jam
+Bob Dylan , Avenged Sevenfold
+Bob Dylan , The Offspring
+Bob Dylan , Queens of the Stone Age
+Bob Dylan , Linkin Park
+Bob Dylan , System of a Down
+Foo Fighters , Avenged Sevenfold
+Avenged Sevenfold , The Offspring
+Avenged Sevenfold , Queens of the Stone Age
+Avenged Sevenfold , Linkin Park
+Avenged Sevenfold , AC/DC
+Avenged Sevenfold , The Killers
+Avenged Sevenfold , Pearl Jam
+The Offspring , Queens of the Stone Age
+Queens of the Stone Age , Linkin Park
+Queens of the Stone Age , System of a Down
+Queens of the Stone Age , AC/DC
+Queens of the Stone Age , The Killers
+Linkin Park , AC/DC
+Pink Floyd , Korn
+A Perfect Circle , The Prodigy
+A Perfect Circle , Korn
+System of a Down , Deftones
+Red Hot Chili Peppers , Nine Inch Nails
+Incubus , Avenged Sevenfold
+Avenged Sevenfold , Nine Inch Nails
+Avenged Sevenfold , Korn
+Nine Inch Nails , Korn
+Björk , Tegan and Sara
+Björk , Florence + the Machine
+Björk , Lily Allen
+Björk , Sigur Rós
+Nightwish , Tegan and Sara
+Nightwish , Florence + the Machine
+Nightwish , Lily Allen
+Nightwish , Yeah Yeah Yeahs
+Nightwish , Sigur Rós
+Tegan and Sara , Breaking Benjamin
+Tegan and Sara , Oasis
+Tegan and Sara , Franz Ferdinand
+Tegan and Sara , Rammstein
+Tegan and Sara , Keane
+Tegan and Sara , The Cure
+Tegan and Sara , blink-182
+Tegan and Sara , Bullet for My Valentine
+Tegan and Sara , Paramore
+The Strokes , Breaking Benjamin
+The Strokes , Rammstein
+The Strokes , The Cure
+The Strokes , Britney Spears
+Breaking Benjamin , The Kooks
+Breaking Benjamin , Avril Lavigne
+Breaking Benjamin , Lady Gaga
+Breaking Benjamin , Yeah Yeah Yeahs
+Breaking Benjamin , Oasis
+Breaking Benjamin , Franz Ferdinand
+Breaking Benjamin , Rammstein
+Breaking Benjamin , Keane
+Breaking Benjamin , The Cure
+Breaking Benjamin , Britney Spears
+Breaking Benjamin , blink-182
+Breaking Benjamin , Regina Spektor
+Breaking Benjamin , The Killers
+The Kooks , Rammstein
+The Kooks , The Cure
+The Kooks , Britney Spears
+The Kooks , Bullet for My Valentine
+Avril Lavigne , Franz Ferdinand
+Avril Lavigne , Rammstein
+Avril Lavigne , Keane
+Avril Lavigne , The Cure
+Avril Lavigne , MGMT
+Avril Lavigne , Radiohead
+Avril Lavigne , Bullet for My Valentine
+Lady Gaga , Keane
+Lady Gaga , Bullet for My Valentine
+Yeah Yeah Yeahs , Rammstein
+Yeah Yeah Yeahs , Keane
+Yeah Yeah Yeahs , Bullet for My Valentine
+Oasis , Britney Spears
+Oasis , Regina Spektor
+Franz Ferdinand , Bullet for My Valentine
+Franz Ferdinand , Regina Spektor
+Franz Ferdinand , Paramore
+Rammstein , The Cure
+Rammstein , Britney Spears
+Rammstein , Bullet for My Valentine
+Rammstein , Regina Spektor
+Keane , The Cure
+Keane , Britney Spears
+Keane , MGMT
+Keane , Regina Spektor
+Keane , Paramore
+The Cure , Bullet for My Valentine
+The Cure , Regina Spektor
+The Cure , Paramore
+Britney Spears , Bullet for My Valentine
+Britney Spears , Regina Spektor
+blink-182 , Regina Spektor
+MGMT , Regina Spektor
+Bullet for My Valentine , Regina Spektor
+Regina Spektor , Paramore
+Björk , Bloc Party
+Regina Spektor , Pink Floyd
+Regina Spektor , David Bowie
+Regina Spektor , System of a Down
+Regina Spektor , The Beatles
+Regina Spektor , Nickelback
+Pink Floyd , Nickelback
+The Smiths , System of a Down
+The Smiths , Nickelback
+David Bowie , Nickelback
+System of a Down , Nickelback
+The Beatles , Nickelback
+Black Sabbath , Slayer
+Black Sabbath , Megadeth
+The Strokes , Florence + the Machine
+The Strokes , The Rolling Stones
+Florence + the Machine , Death Cab for Cutie
+Florence + the Machine , The Clash
+Florence + the Machine , U2
+The Beatles , Snow Patrol
+Death Cab for Cutie , U2
+Death Cab for Cutie , The Rolling Stones
+The Kooks , Phoenix
+The Kooks , Pearl Jam
+The Smiths , Snow Patrol
+Snow Patrol , The Clash
+Snow Patrol , Keane
+Snow Patrol , Phoenix
+Snow Patrol , The Rolling Stones
+The Clash , Phoenix
+Phoenix , U2
+Radiohead , Belle and Sebastian
+Regina Spektor , Belle and Sebastian
+Regina Spektor , Interpol
+Regina Spektor , Florence + the Machine
+Belle and Sebastian , Death Cab for Cutie
+Belle and Sebastian , Yeah Yeah Yeahs
+Belle and Sebastian , Tegan and Sara
+Belle and Sebastian , Interpol
+Belle and Sebastian , Florence + the Machine
+Belle and Sebastian , Franz Ferdinand
+Belle and Sebastian , Phoenix
+Tegan and Sara , Interpol
+Avenged Sevenfold , Lily Allen
+Avenged Sevenfold , Ke$ha
+Avenged Sevenfold , Green Day
+Bullet for My Valentine , Lily Allen
+Bullet for My Valentine , Ke$ha
+Slipknot , Lily Allen
+Slipknot , Ke$ha
+Slipknot , Green Day
+Lily Allen , Marilyn Manson
+Marilyn Manson , Green Day
+Blur , Björk
+Blur , Sigur Rós
+Blur , Crystal Castles
+Blur , David Bowie
+Phoenix , Björk
+Phoenix , Crystal Castles
+Phoenix , Joy Division
+Phoenix , David Bowie
+Beck , Björk
+Beck , Crystal Castles
+Beck , Depeche Mode
+Beck , Joy Division
+Beck , Kings of Leon
+Beck , David Bowie
+Muse , Joy Division
+Kasabian , Sigur Rós
+Kasabian , Crystal Castles
+Kasabian , Joy Division
+Kasabian , The Smashing Pumpkins
+Kasabian , David Bowie
+Gorillaz , Björk
+Gorillaz , Sigur Rós
+Gorillaz , Depeche Mode
+Gorillaz , Joy Division
+Gorillaz , The Smashing Pumpkins
+Gorillaz , David Bowie
+Interpol , Björk
+Interpol , Sigur Rós
+Interpol , Crystal Castles
+Interpol , David Bowie
+Björk , Crystal Castles
+Björk , Joy Division
+Björk , Kings of Leon
+Sigur Rós , Joy Division
+Sigur Rós , The Smashing Pumpkins
+Sigur Rós , David Bowie
+Crystal Castles , Depeche Mode
+Crystal Castles , The Smashing Pumpkins
+Crystal Castles , David Bowie
+Depeche Mode , Joy Division
+Joy Division , Kings of Leon
+Joy Division , The Smashing Pumpkins
+Joy Division , David Bowie
+Korn , Opeth
+Korn , Weezer
+Korn , Alice in Chains
+Korn , Queens of the Stone Age
+Deftones , Weezer
+Deftones , Alice in Chains
+Opeth , Marilyn Manson
+Opeth , Slayer
+Opeth , Weezer
+Opeth , System of a Down
+Nine Inch Nails , Slayer
+Nine Inch Nails , Weezer
+Nine Inch Nails , Iron Maiden
+Nine Inch Nails , Megadeth
+Marilyn Manson , Weezer
+Marilyn Manson , Pearl Jam
+Marilyn Manson , Red Hot Chili Peppers
+Marilyn Manson , Alice in Chains
+Marilyn Manson , Queens of the Stone Age
+Slayer , Tool
+Slayer , Weezer
+Slayer , Pearl Jam
+Slayer , Red Hot Chili Peppers
+Slayer , Alice in Chains
+Slayer , System of a Down
+Slayer , A Perfect Circle
+Slayer , Queens of the Stone Age
+Tool , Iron Maiden
+Weezer , Iron Maiden
+Weezer , Metallica
+Weezer , Red Hot Chili Peppers
+Weezer , A Perfect Circle
+Weezer , Megadeth
+Weezer , Queens of the Stone Age
+Iron Maiden , Pearl Jam
+Iron Maiden , Red Hot Chili Peppers
+Iron Maiden , Alice in Chains
+Iron Maiden , System of a Down
+Iron Maiden , A Perfect Circle
+Iron Maiden , Queens of the Stone Age
+Alice in Chains , System of a Down
+Alice in Chains , Megadeth
+System of a Down , Megadeth
+Megadeth , Queens of the Stone Age
+The Offspring , Phoenix
+The Offspring , Belle and Sebastian
+Rise Against , Phoenix
+Rise Against , Belle and Sebastian
+Rise Against , blink-182
+Rise Against , The Kooks
+Phoenix , blink-182
+Belle and Sebastian , blink-182
+Belle and Sebastian , The Kooks
+Avenged Sevenfold , The Used
+Avenged Sevenfold , Papa Roach
+Avenged Sevenfold , Coldplay
+The Used , Breaking Benjamin
+Papa Roach , Breaking Benjamin
+Coldplay , Breaking Benjamin
+Black Eyed Peas , Black Sabbath
+Linkin Park , Slipknot
+Linkin Park , Rise Against
+Linkin Park , The White Stripes
+Linkin Park , The Prodigy
+Linkin Park , Blur
+Three Days Grace , Green Day
+Three Days Grace , The Used
+Three Days Grace , The Prodigy
+Three Days Grace , Korn
+Slipknot , The Used
+Slipknot , Nickelback
+Slipknot , Papa Roach
+Slipknot , Fall Out Boy
+Slipknot , Blur
+Bullet for My Valentine , The Used
+Bullet for My Valentine , Papa Roach
+Bullet for My Valentine , Fall Out Boy
+Bullet for My Valentine , Korn
+Marilyn Manson , The Used
+Marilyn Manson , The White Stripes
+Marilyn Manson , Blur
+Green Day , Breaking Benjamin
+Green Day , Rise Against
+Green Day , The Used
+Green Day , Nickelback
+Green Day , Papa Roach
+Green Day , Deftones
+Breaking Benjamin , Fall Out Boy
+Breaking Benjamin , Blur
+Breaking Benjamin , Korn
+Rise Against , Blur
+The Used , Nickelback
+The Used , Blur
+Nickelback , Disturbed
+Nickelback , The White Stripes
+Nickelback , The Prodigy
+Nickelback , Blur
+Nickelback , Korn
+Papa Roach , Disturbed
+Papa Roach , The White Stripes
+Papa Roach , The Prodigy
+Papa Roach , Blur
+Papa Roach , Korn
+Papa Roach , Metallica
+Disturbed , Deftones
+Fall Out Boy , Blur
+Fall Out Boy , Deftones
+Blur , Korn
+Blur , Deftones
+Linkin Park , Guns N' Roses
+Linkin Park , Iron Maiden
+Linkin Park , Nightwish
+Guns N' Roses , Bob Dylan
+Guns N' Roses , Avril Lavigne
+Guns N' Roses , Slipknot
+Guns N' Roses , Iron Maiden
+Guns N' Roses , Paramore
+Guns N' Roses , Nightwish
+Guns N' Roses , Bullet for My Valentine
+Guns N' Roses , Three Days Grace
+Guns N' Roses , Black Sabbath
+Opeth , Bob Dylan
+Opeth , Avril Lavigne
+Opeth , Nightwish
+Opeth , Three Days Grace
+Bob Dylan , Avril Lavigne
+Bob Dylan , Slipknot
+Bob Dylan , Marilyn Manson
+Bob Dylan , Iron Maiden
+Bob Dylan , Paramore
+Bob Dylan , Nightwish
+Bob Dylan , Bullet for My Valentine
+Bob Dylan , Three Days Grace
+Bob Dylan , 30 Seconds to Mars
+Avril Lavigne , Slipknot
+Avril Lavigne , U2
+Avril Lavigne , Marilyn Manson
+Avril Lavigne , Iron Maiden
+Avril Lavigne , Three Days Grace
+Avril Lavigne , Black Sabbath
+Slipknot , U2
+Slipknot , Black Sabbath
+U2 , Marilyn Manson
+U2 , Iron Maiden
+U2 , Paramore
+U2 , Nightwish
+U2 , 30 Seconds to Mars
+Marilyn Manson , Black Sabbath
+Iron Maiden , Paramore
+Iron Maiden , Nightwish
+Iron Maiden , Bullet for My Valentine
+Iron Maiden , Three Days Grace
+Iron Maiden , 30 Seconds to Mars
+Paramore , Black Sabbath
+Nightwish , Black Sabbath
+Three Days Grace , Black Sabbath
+30 Seconds to Mars , Black Sabbath
+Belle and Sebastian , Kings of Leon
+Belle and Sebastian , Bloc Party
+Belle and Sebastian , The xx
+Belle and Sebastian , MGMT
+Belle and Sebastian , Björk
+The Smiths , Björk
+Crystal Castles , MGMT
+MGMT , Björk
+Lady Gaga , Marilyn Manson
+Madonna , MGMT
+Madonna , Radiohead
+Madonna , Coldplay
+Madonna , Arctic Monkeys
+Madonna , The xx
+Madonna , Marilyn Manson
+Madonna , The Beatles
+Madonna , Florence + the Machine
+Madonna , Ke$ha
+Madonna , Lily Allen
+Madonna , Kings of Leon
+Madonna , Black Eyed Peas
+Madonna , Weezer
+MGMT , Beyoncé
+MGMT , Rihanna
+MGMT , Amy Winehouse
+MGMT , Black Eyed Peas
+Radiohead , Beyoncé
+Radiohead , Rihanna
+Radiohead , Ke$ha
+Coldplay , Amy Winehouse
+Arctic Monkeys , Beyoncé
+Arctic Monkeys , Marilyn Manson
+Arctic Monkeys , Weezer
+The xx , Beyoncé
+The xx , Marilyn Manson
+The xx , Ke$ha
+The xx , Black Eyed Peas
+Beyoncé , Marilyn Manson
+Beyoncé , Florence + the Machine
+Beyoncé , Kings of Leon
+Beyoncé , Weezer
+Rihanna , Marilyn Manson
+Rihanna , Florence + the Machine
+Rihanna , Weezer
+Paramore , Amy Winehouse
+Marilyn Manson , The Kooks
+Marilyn Manson , Amy Winehouse
+Marilyn Manson , Britney Spears
+Marilyn Manson , Black Eyed Peas
+The Beatles , Amy Winehouse
+The Beatles , Weezer
+The Kooks , Black Eyed Peas
+The Kooks , Weezer
+Florence + the Machine , Amy Winehouse
+Florence + the Machine , Britney Spears
+Florence + the Machine , Weezer
+Ke$ha , Amy Winehouse
+Ke$ha , Weezer
+Amy Winehouse , Britney Spears
+Amy Winehouse , Kings of Leon
+Amy Winehouse , Black Eyed Peas
+Amy Winehouse , Weezer
+Britney Spears , Kings of Leon
+Britney Spears , Weezer
+Kings of Leon , Weezer
+Black Eyed Peas , Weezer
+U2 , Kanye West
+Kings of Leon , Bob Dylan
+MGMT , Massive Attack
+The Kooks , Massive Attack
+The Kooks , Michael Jackson
+Kanye West , Bob Dylan
+Placebo , Bob Dylan
+Florence + the Machine , Bob Dylan
+Florence + the Machine , Michael Jackson
+Bob Dylan , Michael Jackson
+Massive Attack , Michael Jackson
+Lily Allen , Cobra Starship
+Lily Allen , Alice in Chains
+Nirvana , Madonna
+Nirvana , Cobra Starship
+Michael Jackson , Marilyn Manson
+Michael Jackson , Cobra Starship
+Evanescence , Yeah Yeah Yeahs
+Evanescence , Cobra Starship
+Evanescence , Alice in Chains
+Madonna , Yeah Yeah Yeahs
+Madonna , Cobra Starship
+Madonna , Alice in Chains
+Marilyn Manson , Yeah Yeah Yeahs
+Marilyn Manson , Cobra Starship
+Yeah Yeah Yeahs , Cobra Starship
+Cobra Starship , Coldplay
+Cobra Starship , Muse
+Arctic Monkeys , Björk
+Arctic Monkeys , Modest Mouse
+Björk , Coldplay
+Björk , Modest Mouse
+Björk , Bob Dylan
+Beck , MGMT
+Beck , Portishead
+Coldplay , Portishead
+Muse , Modest Mouse
+Sigur Rós , Portishead
+MGMT , Modest Mouse
+Modest Mouse , Portishead
+Modest Mouse , Bob Dylan
+Portishead , Gorillaz
+Portishead , Bob Dylan
+Marilyn Manson , The All-American Rejects
+Marilyn Manson , Christina Aguilera
+Nickelback , Avenged Sevenfold
+Bullet for My Valentine , The All-American Rejects
+Bullet for My Valentine , Amy Winehouse
+Bullet for My Valentine , Christina Aguilera
+Avenged Sevenfold , Britney Spears
+Avenged Sevenfold , The All-American Rejects
+Avenged Sevenfold , Evanescence
+Avenged Sevenfold , Amy Winehouse
+Avenged Sevenfold , Christina Aguilera
+Britney Spears , The All-American Rejects
+The All-American Rejects , Evanescence
+The All-American Rejects , Christina Aguilera
+Evanescence , Amy Winehouse
+Amy Winehouse , Disturbed
+Disturbed , Christina Aguilera
+Nirvana , Slayer
+Bullet for My Valentine , My Chemical Romance
+Katy Perry , The Rolling Stones
+Katy Perry , Led Zeppelin
+Christina Aguilera , The Rolling Stones
+Christina Aguilera , Led Zeppelin
+Madonna , The Rolling Stones
+Madonna , Led Zeppelin
+Sigur Rós , Paramore
+Sigur Rós , Kanye West
+Sigur Rós , Evanescence
+Sigur Rós , System of a Down
+Sigur Rós , The Strokes
+Kanye West , Evanescence
+Kanye West , The Strokes
+Evanescence , Kasabian
+Evanescence , The Killers
+Evanescence , The Strokes
+Lady Gaga , Snow Patrol
+Lady Gaga , Guns N' Roses
+Nickelback , Black Eyed Peas
+Nickelback , Taylor Swift
+Nickelback , Guns N' Roses
+Nickelback , Avril Lavigne
+Coldplay , Guns N' Roses
+30 Seconds to Mars , Christina Aguilera
+30 Seconds to Mars , Taylor Swift
+30 Seconds to Mars , Katy Perry
+30 Seconds to Mars , 3OH!3
+30 Seconds to Mars , Beyoncé
+Christina Aguilera , Snow Patrol
+Christina Aguilera , Guns N' Roses
+Black Eyed Peas , Guns N' Roses
+Taylor Swift , Snow Patrol
+Taylor Swift , Guns N' Roses
+Snow Patrol , Katy Perry
+Snow Patrol , 3OH!3
+Snow Patrol , Guns N' Roses
+Snow Patrol , Beyoncé
+Katy Perry , Guns N' Roses
+3OH!3 , Guns N' Roses
+Guns N' Roses , Green Day
+Guns N' Roses , Beyoncé
+Phoenix , Red Hot Chili Peppers
+Phoenix , Green Day
+Portishead , Disturbed
+Portishead , Nightwish
+Portishead , Tegan and Sara
+Portishead , Amy Winehouse
+Tool , Tegan and Sara
+Tool , Amy Winehouse
+Disturbed , Tegan and Sara
+Nightwish , Amy Winehouse
+Muse , Pixies
+AC/DC , Weezer
+AC/DC , Joy Division
+AC/DC , Bloc Party
+AC/DC , The Prodigy
+AC/DC , Queen
+AC/DC , Iron Maiden
+Arctic Monkeys , Pixies
+Arctic Monkeys , Iron Maiden
+Weezer , Placebo
+Weezer , Joy Division
+Weezer , Bloc Party
+Weezer , The Prodigy
+Weezer , Kasabian
+Weezer , Led Zeppelin
+Weezer , Michael Jackson
+Weezer , Queen
+Weezer , Fall Out Boy
+Nirvana , Pixies
+Nirvana , Iron Maiden
+Oasis , Pixies
+Oasis , Queen
+Oasis , Iron Maiden
+Placebo , Pixies
+Placebo , Joy Division
+Placebo , Queen
+Placebo , Iron Maiden
+blink-182 , Pixies
+blink-182 , Joy Division
+blink-182 , Queen
+Pixies , Joy Division
+Pixies , Bloc Party
+Pixies , The Killers
+Pixies , The Prodigy
+Pixies , The Beatles
+Pixies , Kasabian
+Pixies , Foo Fighters
+Pixies , Pink Floyd
+Pixies , Michael Jackson
+Pixies , Queen
+Pixies , Paramore
+Pixies , Fall Out Boy
+Pixies , Iron Maiden
+Franz Ferdinand , Bloc Party
+Franz Ferdinand , The Prodigy
+Franz Ferdinand , Queen
+Franz Ferdinand , Iron Maiden
+Joy Division , Bloc Party
+Joy Division , The Killers
+Joy Division , The Prodigy
+Joy Division , Metallica
+Joy Division , Foo Fighters
+Joy Division , The Strokes
+Joy Division , Michael Jackson
+Joy Division , Queen
+Joy Division , Paramore
+Joy Division , Fall Out Boy
+Joy Division , Iron Maiden
+Radiohead , Iron Maiden
+The Smiths , The Prodigy
+The Smiths , Kasabian
+The Smiths , Michael Jackson
+The Smiths , Queen
+The Smiths , Fall Out Boy
+The Smiths , Iron Maiden
+Bloc Party , The Prodigy
+Bloc Party , Metallica
+Bloc Party , Led Zeppelin
+Bloc Party , Blur
+Bloc Party , Michael Jackson
+Bloc Party , Queen
+Bloc Party , Iron Maiden
+The Killers , Iron Maiden
+The Prodigy , The Strokes
+The Prodigy , Michael Jackson
+The Beatles , Iron Maiden
+Kasabian , Michael Jackson
+Kasabian , Queen
+Kasabian , Iron Maiden
+Led Zeppelin , Iron Maiden
+Foo Fighters , Paramore
+Blur , Michael Jackson
+Blur , Queen
+Blur , Paramore
+Blur , Iron Maiden
+The Strokes , Michael Jackson
+The Strokes , Queen
+The Strokes , Iron Maiden
+Pink Floyd , Iron Maiden
+Michael Jackson , Iron Maiden
+Queen , Paramore
+Queen , Fall Out Boy
+Queen , Iron Maiden
+Fall Out Boy , Iron Maiden
+Sigur Rós , Megadeth
+Sigur Rós , A Perfect Circle
+Sigur Rós , U2
+Radiohead , Megadeth
+The Beatles , Rammstein
+Oasis , Aerosmith
+Oasis , Guns N' Roses
+Keane , Queen
+Keane , David Bowie
+Keane , Amy Winehouse
+Keane , Aerosmith
+Keane , Guns N' Roses
+U2 , Lily Allen
+U2 , Kasabian
+U2 , Aerosmith
+U2 , Gorillaz
+Queen , Red Hot Chili Peppers
+Queen , Amy Winehouse
+Queen , Rammstein
+Queen , Aerosmith
+Queen , Depeche Mode
+Queen , The Cure
+Queen , Gorillaz
+Red Hot Chili Peppers , David Bowie
+Red Hot Chili Peppers , Amy Winehouse
+Red Hot Chili Peppers , The Cure
+System of a Down , Amy Winehouse
+System of a Down , Aerosmith
+Franz Ferdinand , Amy Winehouse
+Franz Ferdinand , Aerosmith
+Franz Ferdinand , Guns N' Roses
+Lily Allen , David Bowie
+Lily Allen , Aerosmith
+Lily Allen , Guns N' Roses
+Lily Allen , The Cure
+David Bowie , Amy Winehouse
+David Bowie , Aerosmith
+David Bowie , Paramore
+Kasabian , Amy Winehouse
+Kasabian , Aerosmith
+Kasabian , Guns N' Roses
+Kasabian , Incubus
+Kasabian , The Cure
+Amy Winehouse , Rammstein
+Amy Winehouse , Aerosmith
+Amy Winehouse , Pearl Jam
+Amy Winehouse , Guns N' Roses
+Amy Winehouse , Depeche Mode
+Amy Winehouse , The Cure
+Amy Winehouse , The Killers
+Amy Winehouse , Gorillaz
+Rammstein , Aerosmith
+Aerosmith , Guns N' Roses
+Aerosmith , Depeche Mode
+Aerosmith , Incubus
+Aerosmith , Paramore
+Aerosmith , The Cure
+Aerosmith , Gorillaz
+Guns N' Roses , Depeche Mode
+Guns N' Roses , Incubus
+Guns N' Roses , The Cure
+Guns N' Roses , Gorillaz
+Depeche Mode , Paramore
+The Cure , Gorillaz
+Deftones , The Smashing Pumpkins
+The Cure , Papa Roach
+The Smashing Pumpkins , Papa Roach
+Foo Fighters , Papa Roach
+Fall Out Boy , Depeche Mode
+Avenged Sevenfold , Rammstein
+Queen , Megadeth
+Queen , Slayer
+Queen , The Who
+Megadeth , AC/DC
+Megadeth , The Who
+Led Zeppelin , Slayer
+Iron Maiden , The Who
+Pink Floyd , Slayer
+Slayer , AC/DC
+Slayer , The Who
+U2 , Joy Division
+Opeth , Disturbed
+Opeth , Jimi Hendrix
+Opeth , Daft Punk
+Nine Inch Nails , Disturbed
+Nine Inch Nails , Slipknot
+Nine Inch Nails , Daft Punk
+A Perfect Circle , Daft Punk
+Disturbed , Jimi Hendrix
+Disturbed , Iron Maiden
+Jimi Hendrix , Slipknot
+Jimi Hendrix , Iron Maiden
+Slipknot , Daft Punk
+The Rolling Stones , Aerosmith
+Arctic Monkeys , Guns N' Roses
+Guns N' Roses , The Strokes
+Guns N' Roses , Foo Fighters
+Guns N' Roses , Jimi Hendrix
+Guns N' Roses , Blur
+Aerosmith , The Strokes
+Aerosmith , Foo Fighters
+Aerosmith , Jimi Hendrix
+Aerosmith , Blur
+U2 , Jimi Hendrix
+The Smiths , Jimi Hendrix
+Queen , Jimi Hendrix
+Placebo , Björk
+Placebo , Daft Punk
+Placebo , Phoenix
+Björk , Nirvana
+Björk , Ramones
+Björk , Pixies
+Björk , Massive Attack
+Madonna , Ramones
+Madonna , Daft Punk
+Madonna , Blur
+Madonna , Queen
+Madonna , Pixies
+Madonna , Massive Attack
+Madonna , Phoenix
+Madonna , The Smiths
+Gorillaz , Ramones
+Gorillaz , The Kooks
+Gorillaz , The Smiths
+Ramones , Daft Punk
+Ramones , Queen
+Ramones , Pixies
+Ramones , Massive Attack
+Ramones , Phoenix
+Daft Punk , Queen
+Daft Punk , Massive Attack
+Daft Punk , The Kooks
+Queen , Massive Attack
+Queen , The Kooks
+Pixies , Massive Attack
+Pixies , The Kooks
+Pixies , Phoenix
+Massive Attack , Phoenix
+Massive Attack , The Smiths
+Daft Punk , Papa Roach
+Daft Punk , Beyoncé
+Daft Punk , Rihanna
+Daft Punk , The Cure
+Daft Punk , Kings of Leon
+Daft Punk , Queens of the Stone Age
+Papa Roach , Beyoncé
+Papa Roach , Rihanna
+Papa Roach , Madonna
+Papa Roach , Lady Gaga
+Papa Roach , Interpol
+Beyoncé , The Cure
+Beyoncé , Interpol
+Beyoncé , Oasis
+Beyoncé , Queens of the Stone Age
+Rihanna , The Cure
+Rihanna , Queens of the Stone Age
+Madonna , The Cure
+Madonna , Interpol
+Madonna , Green Day
+Madonna , Queens of the Stone Age
+The Cure , Green Day
+Lady Gaga , Queens of the Stone Age
+Green Day , Queens of the Stone Age
+Kings of Leon , Queens of the Stone Age
+Three Days Grace , Queen
+Three Days Grace , The Clash
+Queen , Green Day
+Queen , The Clash
+David Bowie , The Strokes
+David Bowie , Vampire Weekend
+David Bowie , Slipknot
+David Bowie , Snow Patrol
+David Bowie , The Kooks
+The Smiths , Beck
+The Smiths , Slipknot
+Franz Ferdinand , The Doors
+Franz Ferdinand , Slipknot
+Franz Ferdinand , Snow Patrol
+The Doors , Beck
+The Doors , The Cure
+The Doors , Weezer
+The Doors , Vampire Weekend
+The Doors , Daft Punk
+The Doors , Slipknot
+The Doors , Snow Patrol
+Beck , The Rolling Stones
+Beck , Incubus
+Beck , Ramones
+Beck , Slipknot
+Beck , Snow Patrol
+Beck , The Kooks
+The Rolling Stones , Incubus
+The Rolling Stones , Ramones
+The Rolling Stones , Weezer
+The Rolling Stones , Slipknot
+Incubus , Daft Punk
+Incubus , The Who
+Ramones , Bob Dylan
+Ramones , Slipknot
+Ramones , The Who
+The Cure , Weezer
+The Cure , Snow Patrol
+The Cure , The Who
+Radiohead , Slipknot
+Oasis , Slipknot
+The Beatles , Slipknot
+Weezer , Interpol
+Weezer , Daft Punk
+Weezer , The White Stripes
+Weezer , Slipknot
+Weezer , Snow Patrol
+Weezer , The Who
+The Strokes , Slipknot
+Interpol , Slipknot
+Interpol , The Kooks
+The Killers , Slipknot
+Vampire Weekend , Slipknot
+Daft Punk , Snow Patrol
+Bob Dylan , Snow Patrol
+Slipknot , Snow Patrol
+Slipknot , The Who
+Slipknot , The Kooks
+Snow Patrol , The Who
+The Cure , Alice in Chains
+The Cure , Björk
+The Beatles , Portishead
+Alice in Chains , Portishead
+Alice in Chains , The Rolling Stones
+Alice in Chains , Joy Division
+Portishead , The White Stripes
+Portishead , The Rolling Stones
+Portishead , David Bowie
+Portishead , Placebo
+The Rolling Stones , Björk
+The Rolling Stones , Placebo
+Joy Division , The Doors
+All Time Low , Phoenix
+All Time Low , 30 Seconds to Mars
+Cobra Starship , Three Days Grace
+Cobra Starship , Phoenix
+Cobra Starship , 30 Seconds to Mars
+Cobra Starship , The Used
+Cobra Starship , Paramore
+Cobra Starship , Papa Roach
+3OH!3 , Phoenix
+3OH!3 , The Used
+Three Days Grace , Phoenix
+Phoenix , The Used
+Phoenix , Fall Out Boy
+Phoenix , Paramore
+Phoenix , Papa Roach
+Lady Gaga , The Used
+Muse , Nightwish
+Sigur Rós , Incubus
+Sigur Rós , Massive Attack
+Sigur Rós , The White Stripes
+Sigur Rós , Nine Inch Nails
+Placebo , Nine Inch Nails
+Radiohead , Nightwish
+Incubus , Massive Attack
+Incubus , Nightwish
+Florence + the Machine , Nine Inch Nails
+Interpol , System of a Down
+Interpol , Nightwish
+Interpol , Nine Inch Nails
+Massive Attack , System of a Down
+Massive Attack , Nightwish
+Massive Attack , Nine Inch Nails
+Björk , System of a Down
+The White Stripes , Nightwish
+Nightwish , Nine Inch Nails
+Pixies , Black Sabbath
+Pixies , The Doors
+Pixies , Queens of the Stone Age
+Placebo , Children of Bodom
+Children of Bodom , Massive Attack
+Children of Bodom , Björk
+Children of Bodom , Deftones
+Children of Bodom , U2
+Massive Attack , Deftones
+Massive Attack , Marilyn Manson
+Björk , Marilyn Manson
+Deftones , Gorillaz
+Gorillaz , Marilyn Manson
+The Smiths , Nine Inch Nails
+Pixies , Pearl Jam
+Pixies , Nine Inch Nails
+Pixies , Depeche Mode
+Pearl Jam , Joy Division
+Joy Division , Nine Inch Nails
+Joy Division , The Clash
+Nine Inch Nails , The Clash
+Nine Inch Nails , Lady Gaga
+Nine Inch Nails , Paramore
+Nine Inch Nails , 3OH!3
+Nine Inch Nails , Cobra Starship
+Nine Inch Nails , Linkin Park
+Nine Inch Nails , Bullet for My Valentine
+3OH!3 , Bullet for My Valentine
+Cobra Starship , Linkin Park
+Cobra Starship , Bullet for My Valentine
+Cobra Starship , My Chemical Romance
+Regina Spektor , Taylor Swift
+Regina Spektor , Beyoncé
+Regina Spektor , My Chemical Romance
+Regina Spektor , 30 Seconds to Mars
+Regina Spektor , Green Day
+Regina Spektor , Slipknot
+Regina Spektor , Bob Dylan
+Regina Spektor , Fall Out Boy
+Regina Spektor , Marilyn Manson
+Taylor Swift , The Killers
+Taylor Swift , My Chemical Romance
+Taylor Swift , Eminem
+Taylor Swift , Slipknot
+Taylor Swift , Florence + the Machine
+Taylor Swift , Bob Dylan
+Taylor Swift , Fall Out Boy
+Taylor Swift , Marilyn Manson
+The Killers , Beyoncé
+Rihanna , My Chemical Romance
+Rihanna , 30 Seconds to Mars
+Rihanna , Slipknot
+Rihanna , Bob Dylan
+Beyoncé , My Chemical Romance
+Beyoncé , Slipknot
+Beyoncé , Bob Dylan
+Beyoncé , Fall Out Boy
+My Chemical Romance , Slipknot
+My Chemical Romance , Bob Dylan
+My Chemical Romance , Katy Perry
+Lady Gaga , Slipknot
+Lady Gaga , Bob Dylan
+Eminem , Katy Perry
+Slipknot , Florence + the Machine
+Slipknot , Katy Perry
+Florence + the Machine , Katy Perry
+Bob Dylan , Fall Out Boy
+Bob Dylan , Katy Perry
+Katy Perry , Marilyn Manson
+Pink Floyd , Lady Gaga
+A Perfect Circle , Lady Gaga
+A Perfect Circle , Aerosmith
+Tool , Lady Gaga
+Tool , Aerosmith
+Lady Gaga , Korn
+Korn , U2
+Korn , Aerosmith
+Michael Jackson , Aerosmith
+Placebo , Britney Spears
+Placebo , Beyoncé
+Lady Gaga , AC/DC
+Britney Spears , AC/DC
+Britney Spears , Pink Floyd
+Britney Spears , Fall Out Boy
+Britney Spears , Bloc Party
+Beyoncé , AC/DC
+Beyoncé , Pink Floyd
+Beyoncé , Bloc Party
+30 Seconds to Mars , Ke$ha
+AC/DC , The Kooks
+All Time Low , Pink Floyd
+All Time Low , Bloc Party
+Pink Floyd , Ke$ha
+Ke$ha , Bloc Party
+Alice in Chains , Pixies
+Alice in Chains , The Who
+Alice in Chains , Kanye West
+The Beatles , Kanye West
+Pink Floyd , Kanye West
+Led Zeppelin , Kanye West
+The Doors , Queen
+The Doors , Kanye West
+Pixies , The Smashing Pumpkins
+Pixies , The White Stripes
+Pixies , Red Hot Chili Peppers
+Pixies , Kanye West
+Queen , Kanye West
+The Clash , Weezer
+The Clash , Kanye West
+The Smashing Pumpkins , The Who
+Black Sabbath , Weezer
+Black Sabbath , Kanye West
+The Smiths , Kanye West
+Weezer , Kanye West
+Joy Division , Red Hot Chili Peppers
+Joy Division , The Who
+Joy Division , Kanye West
+The Who , Kanye West
+David Bowie , Kanye West
+Kings of Leon , Modest Mouse
+Kings of Leon , Jimi Hendrix
+Kings of Leon , Queen
+Kings of Leon , Tool
+Modest Mouse , Joy Division
+Modest Mouse , Jimi Hendrix
+Modest Mouse , Yeah Yeah Yeahs
+Modest Mouse , Bloc Party
+Modest Mouse , Ramones
+Modest Mouse , The Doors
+Modest Mouse , Interpol
+Modest Mouse , Vampire Weekend
+Modest Mouse , The Clash
+Modest Mouse , The Smiths
+Modest Mouse , The Rolling Stones
+Modest Mouse , Tool
+Joy Division , Incubus
+Jimi Hendrix , Ramones
+Jimi Hendrix , The Clash
+Jimi Hendrix , Incubus
+Yeah Yeah Yeahs , The Doors
+Yeah Yeah Yeahs , Beck
+Bloc Party , The Doors
+Bloc Party , Interpol
+Bloc Party , Beck
+Bloc Party , Tool
+Ramones , Tool
+MGMT , Interpol
+MGMT , Queen
+Beck , Queen
+Beck , The Clash
+Beck , Tool
+Vampire Weekend , Tool
+Bob Dylan , The Clash
+Bob Dylan , Depeche Mode
+Placebo , A Perfect Circle
+Death Cab for Cutie , Björk
+Death Cab for Cutie , Marilyn Manson
+Death Cab for Cutie , A Perfect Circle
+Death Cab for Cutie , Panic! At the Disco
+Björk , Panic! At the Disco
+A Perfect Circle , Panic! At the Disco
+The Prodigy , The Doors
+The Prodigy , Gorillaz
+The Prodigy , Black Eyed Peas
+The Prodigy , Lady Gaga
+The Prodigy , Christina Aguilera
+The Prodigy , Ke$ha
+The Prodigy , Beyoncé
+The Prodigy , Rihanna
+The Prodigy , Queens of the Stone Age
+The Prodigy , Massive Attack
+The Prodigy , Black Sabbath
+The Prodigy , Kanye West
+Linkin Park , Daft Punk
+Linkin Park , Gorillaz
+Linkin Park , Massive Attack
+Linkin Park , Kanye West
+Linkin Park , The Cure
+The Doors , Britney Spears
+The Doors , Gorillaz
+The Doors , Black Eyed Peas
+The Doors , Christina Aguilera
+The Doors , Ke$ha
+The Doors , Beyoncé
+The Doors , Rihanna
+The Doors , Massive Attack
+The Doors , Fall Out Boy
+Britney Spears , Gorillaz
+Britney Spears , Nirvana
+Britney Spears , Queens of the Stone Age
+Britney Spears , Massive Attack
+Britney Spears , Black Sabbath
+Daft Punk , Black Eyed Peas
+Daft Punk , Christina Aguilera
+Daft Punk , Ke$ha
+Daft Punk , Black Sabbath
+Daft Punk , Fall Out Boy
+Daft Punk , Kanye West
+Gorillaz , Ke$ha
+Gorillaz , Rihanna
+Gorillaz , Queens of the Stone Age
+Gorillaz , Black Sabbath
+Black Eyed Peas , Nirvana
+Black Eyed Peas , Queens of the Stone Age
+Black Eyed Peas , Fall Out Boy
+Black Eyed Peas , The Cure
+Lady Gaga , Massive Attack
+Lady Gaga , Black Sabbath
+Nirvana , Christina Aguilera
+Nirvana , Beyoncé
+Nirvana , Rihanna
+Christina Aguilera , Queens of the Stone Age
+Christina Aguilera , Massive Attack
+Christina Aguilera , Black Sabbath
+Christina Aguilera , Fall Out Boy
+Christina Aguilera , The Cure
+Ke$ha , Queens of the Stone Age
+Ke$ha , Massive Attack
+Ke$ha , Black Sabbath
+Ke$ha , Kanye West
+Ke$ha , The Cure
+Beyoncé , Massive Attack
+Beyoncé , Black Sabbath
+Rihanna , Massive Attack
+Rihanna , Black Sabbath
+Queens of the Stone Age , Fall Out Boy
+Queens of the Stone Age , Kanye West
+Massive Attack , Black Sabbath
+Massive Attack , Fall Out Boy
+Black Sabbath , Fall Out Boy
+Fall Out Boy , Kanye West
+The Beatles , The All-American Rejects
+Guns N' Roses , Vampire Weekend
+Guns N' Roses , Death Cab for Cutie
+Guns N' Roses , Cobra Starship
+Guns N' Roses , Rihanna
+Guns N' Roses , The All-American Rejects
+Pink Floyd , Snow Patrol
+Pink Floyd , Lily Allen
+Pink Floyd , Cobra Starship
+Pink Floyd , Rihanna
+Pink Floyd , Christina Aguilera
+Pink Floyd , Amy Winehouse
+Pink Floyd , The All-American Rejects
+Pink Floyd , Katy Perry
+Snow Patrol , Cobra Starship
+Snow Patrol , Rihanna
+Snow Patrol , Amy Winehouse
+Snow Patrol , The All-American Rejects
+Vampire Weekend , Metallica
+Death Cab for Cutie , Cobra Starship
+Death Cab for Cutie , 3OH!3
+Death Cab for Cutie , Amy Winehouse
+Death Cab for Cutie , The All-American Rejects
+Green Day , David Bowie
+Green Day , Amy Winehouse
+Metallica , Lily Allen
+Metallica , Cobra Starship
+Metallica , Rihanna
+Metallica , Christina Aguilera
+Metallica , Amy Winehouse
+Metallica , The All-American Rejects
+Metallica , Katy Perry
+Lily Allen , The All-American Rejects
+Cobra Starship , Radiohead
+Cobra Starship , Rihanna
+Cobra Starship , David Bowie
+Cobra Starship , Incubus
+Cobra Starship , Christina Aguilera
+Cobra Starship , Amy Winehouse
+Cobra Starship , The All-American Rejects
+Cobra Starship , Katy Perry
+Radiohead , Christina Aguilera
+Radiohead , The All-American Rejects
+Radiohead , Katy Perry
+Oasis , Christina Aguilera
+Rihanna , David Bowie
+David Bowie , 3OH!3
+David Bowie , Christina Aguilera
+David Bowie , The All-American Rejects
+David Bowie , Katy Perry
+3OH!3 , Incubus
+3OH!3 , Amy Winehouse
+3OH!3 , The All-American Rejects
+Incubus , Christina Aguilera
+Oasis , Belle and Sebastian
+Arctic Monkeys , Belle and Sebastian
+The xx , Franz Ferdinand
+The xx , The Cure
+The xx , Green Day
+The xx , Snow Patrol
+The Beatles , Belle and Sebastian
+Coldplay , Belle and Sebastian
+The Strokes , Belle and Sebastian
+The Killers , Belle and Sebastian
+Green Day , Belle and Sebastian
+Belle and Sebastian , Snow Patrol
+Belle and Sebastian , Muse
+Avril Lavigne , Eminem
+Avril Lavigne , Nirvana
+Avril Lavigne , The All-American Rejects
+Nickelback , Nightwish
+Evanescence , Eminem
+Three Days Grace , Taylor Swift
+Three Days Grace , Christina Aguilera
+Three Days Grace , Black Eyed Peas
+Taylor Swift , Nightwish
+Taylor Swift , The All-American Rejects
+Eminem , Christina Aguilera
+Eminem , Nightwish
+Eminem , Black Eyed Peas
+Ke$ha , Nightwish
+Ke$ha , The All-American Rejects
+Nightwish , Nirvana
+Nightwish , 3OH!3
+Nightwish , Black Eyed Peas
+Nightwish , The Beatles
+Nightwish , The All-American Rejects
+Nirvana , The All-American Rejects
+30 Seconds to Mars , The All-American Rejects
+Black Eyed Peas , The All-American Rejects
+Interpol , Portishead
+Franz Ferdinand , Portishead
+Rammstein , Blur
+Rammstein , Modest Mouse
+Rammstein , Portishead
+Rammstein , Phoenix
+Rammstein , Bloc Party
+The Cure , Modest Mouse
+The Cure , Bloc Party
+The Strokes , Portishead
+The Strokes , Tool
+Blur , Tool
+Keane , Portishead
+Keane , Tool
+Depeche Mode , Modest Mouse
+Modest Mouse , System of a Down
+Modest Mouse , Placebo
+Modest Mouse , Metallica
+Modest Mouse , The Killers
+Pearl Jam , Portishead
+Pearl Jam , Bloc Party
+Portishead , System of a Down
+Portishead , Phoenix
+Portishead , Bloc Party
+Portishead , The Killers
+Portishead , Yeah Yeah Yeahs
+System of a Down , Phoenix
+Phoenix , Tool
+Metallica , Yeah Yeah Yeahs
+Oasis , Crystal Castles
+Oasis , Eminem
+Crystal Castles , Massive Attack
+Crystal Castles , U2
+Crystal Castles , Michael Jackson
+Gorillaz , Eminem
+Gorillaz , Yeah Yeah Yeahs
+Gorillaz , Michael Jackson
+Beck , Eminem
+Beck , Michael Jackson
+Eminem , Massive Attack
+Yeah Yeah Yeahs , U2
+Children of Bodom , AC/DC
+Children of Bodom , Megadeth
+Children of Bodom , Guns N' Roses
+Children of Bodom , Led Zeppelin
+Franz Ferdinand , Sigur Rós
+Franz Ferdinand , Marilyn Manson
+Joy Division , Daft Punk
+Joy Division , Marilyn Manson
+Daft Punk , Portishead
+Daft Punk , Sigur Rós
+Daft Punk , Marilyn Manson
+Daft Punk , MGMT
+Portishead , Marilyn Manson
+Sigur Rós , Marilyn Manson
+Crystal Castles , Led Zeppelin
+Crystal Castles , The Beatles
+Crystal Castles , Slayer
+Crystal Castles , Tool
+Crystal Castles , Kanye West
+Crystal Castles , Nine Inch Nails
+The Beatles , Slayer
+Massive Attack , David Bowie
+Massive Attack , Slayer
+Massive Attack , Portishead
+David Bowie , Slayer
+Radiohead , Slayer
+Slayer , Joy Division
+Slayer , Kanye West
+Slayer , Portishead
+Tool , Kanye West
+Kanye West , Portishead
+Led Zeppelin , Belle and Sebastian
+Pink Floyd , Belle and Sebastian
+Sigur Rós , Jimi Hendrix
+Sigur Rós , Belle and Sebastian
+Jimi Hendrix , Belle and Sebastian
+Gorillaz , Katy Perry
+Green Day , Tegan and Sara
+Green Day , Joy Division
+Bob Dylan , Tegan and Sara
+Nirvana , Tegan and Sara
+David Bowie , Tegan and Sara
+David Bowie , Avril Lavigne
+Ramones , Tegan and Sara
+Tegan and Sara , Joy Division
+Tegan and Sara , The Who
+Joy Division , Avril Lavigne
+The Who , Avril Lavigne
+Nine Inch Nails , Modest Mouse
+Nine Inch Nails , Rammstein
+Nine Inch Nails , blink-182
+Nine Inch Nails , Coldplay
+30 Seconds to Mars , Modest Mouse
+30 Seconds to Mars , Queens of the Stone Age
+30 Seconds to Mars , Led Zeppelin
+30 Seconds to Mars , Alice in Chains
+Opeth , Modest Mouse
+Opeth , Rammstein
+Opeth , Eminem
+Opeth , The Killers
+Opeth , blink-182
+Opeth , Coldplay
+Pink Floyd , Rammstein
+Deftones , Modest Mouse
+Deftones , Rammstein
+Deftones , The Killers
+Deftones , Coldplay
+Modest Mouse , Queens of the Stone Age
+Modest Mouse , Eminem
+Modest Mouse , Led Zeppelin
+Modest Mouse , Megadeth
+Modest Mouse , blink-182
+Modest Mouse , Alice in Chains
+Modest Mouse , Red Hot Chili Peppers
+Queens of the Stone Age , Rammstein
+Queens of the Stone Age , blink-182
+Queens of the Stone Age , Coldplay
+Rammstein , Eminem
+Rammstein , Megadeth
+Rammstein , Alice in Chains
+Eminem , Tool
+The Killers , Megadeth
+Megadeth , Coldplay
+blink-182 , Tool
+Metallica , Ke$ha
+Red Hot Chili Peppers , Ke$ha
+Red Hot Chili Peppers , Daft Punk
+Rihanna , Pearl Jam
+Ke$ha , Pearl Jam
+Ke$ha , Foo Fighters
+Daft Punk , Foo Fighters
+The Smashing Pumpkins , Belle and Sebastian
+The Smashing Pumpkins , Portishead
+Beck , Nine Inch Nails
+Beck , Belle and Sebastian
+The Cure , Pixies
+Blur , Nine Inch Nails
+Blur , Belle and Sebastian
+Nine Inch Nails , Belle and Sebastian
+Nine Inch Nails , Ramones
+Belle and Sebastian , Pixies
+Belle and Sebastian , Nirvana
+Belle and Sebastian , Depeche Mode
+Belle and Sebastian , David Bowie
+Portishead , Pixies
+Pixies , Interpol
+Slipknot , Rammstein
+Slipknot , Led Zeppelin
+Slipknot , Evanescence
+Slipknot , Red Hot Chili Peppers
+Rammstein , Iron Maiden
+Rammstein , Nightwish
+Rammstein , Papa Roach
+Rammstein , Children of Bodom
+Iron Maiden , Papa Roach
+Iron Maiden , Evanescence
+Nightwish , Papa Roach
+Nightwish , Led Zeppelin
+Nightwish , Red Hot Chili Peppers
+Papa Roach , Opeth
+Papa Roach , Children of Bodom
+Papa Roach , Evanescence
+Papa Roach , Red Hot Chili Peppers
+Children of Bodom , Evanescence
+Children of Bodom , Red Hot Chili Peppers
+Panic! At the Disco , Cobra Starship
+Panic! At the Disco , Lady Gaga
+Panic! At the Disco , Avril Lavigne
+Panic! At the Disco , blink-182
+Panic! At the Disco , Crystal Castles
+Panic! At the Disco , Vampire Weekend
+Cobra Starship , MGMT
+Cobra Starship , Crystal Castles
+Green Day , Crystal Castles
+Avril Lavigne , Fall Out Boy
+All Time Low , Crystal Castles
+Fall Out Boy , Crystal Castles
+blink-182 , Crystal Castles
+3OH!3 , Crystal Castles
+Crystal Castles , 30 Seconds to Mars
+Crystal Castles , Ke$ha
+Radiohead , The Offspring
+Coldplay , Iron Maiden
+Gorillaz , The Offspring
+Gorillaz , Iron Maiden
+The Offspring , Daft Punk
+The Offspring , Blur
+Christina Aguilera , My Chemical Romance
+Beyoncé , The All-American Rejects
+Beyoncé , Queen
+The Killers , Ke$ha
+My Chemical Romance , Amy Winehouse
+My Chemical Romance , Queen
+The All-American Rejects , Queen
+The Smiths , Panic! At the Disco
+Regina Spektor , Panic! At the Disco
+Regina Spektor , The Doors
+Florence + the Machine , David Bowie
+Florence + the Machine , The Doors
+Panic! At the Disco , The Kooks
+Panic! At the Disco , Sigur Rós
+Panic! At the Disco , Belle and Sebastian
+Panic! At the Disco , The Doors
+Sigur Rós , The Doors
+Sigur Rós , Keane
+Belle and Sebastian , The Doors
+Belle and Sebastian , Keane
+Opeth , Nickelback
+Opeth , The Who
+Opeth , The Rolling Stones
+Queen , Nickelback
+Queen , Avenged Sevenfold
+Nickelback , The Who
+Nickelback , Iron Maiden
+Nickelback , The Rolling Stones
+Nickelback , Rammstein
+Megadeth , The Rolling Stones
+Iron Maiden , The Rolling Stones
+Iron Maiden , Avenged Sevenfold
+Slayer , The Rolling Stones
+Slayer , Avenged Sevenfold
+Slayer , Rammstein
+Nine Inch Nails , Bob Dylan
+Nine Inch Nails , Snow Patrol
+David Bowie , Marilyn Manson
+The Clash , Marilyn Manson
+Snow Patrol , Marilyn Manson
+Eminem , Death Cab for Cutie
+Eminem , Sigur Rós
+blink-182 , Sigur Rós
+Deftones , Sigur Rós
+Modest Mouse , Fall Out Boy
+Modest Mouse , Snow Patrol
+Modest Mouse , Paramore
+Fall Out Boy , Snow Patrol
+Fall Out Boy , Sigur Rós
+Snow Patrol , Sigur Rós
+Panic! At the Disco , Foo Fighters
+Panic! At the Disco , Avenged Sevenfold
+Panic! At the Disco , The All-American Rejects
+Panic! At the Disco , Children of Bodom
+Paramore , Children of Bodom
+The Kooks , Avenged Sevenfold
+The Kooks , Evanescence
+The Kooks , Children of Bodom
+System of a Down , Avril Lavigne
+Muse , Children of Bodom
+Oasis , Avenged Sevenfold
+Oasis , Evanescence
+Oasis , Marilyn Manson
+Oasis , Children of Bodom
+My Chemical Romance , Avenged Sevenfold
+My Chemical Romance , Evanescence
+My Chemical Romance , Children of Bodom
+Foo Fighters , Avril Lavigne
+Foo Fighters , All Time Low
+Avenged Sevenfold , Fall Out Boy
+Avenged Sevenfold , Avril Lavigne
+Avenged Sevenfold , All Time Low
+Fall Out Boy , Children of Bodom
+The All-American Rejects , Children of Bodom
+Avril Lavigne , Children of Bodom
+Incubus , All Time Low
+Nickelback , The Killers
+Nickelback , Children of Bodom
+The Killers , Children of Bodom
+The Killers , All Time Low
+Nirvana , Children of Bodom
+Children of Bodom , All Time Low
+The Smashing Pumpkins , Modest Mouse
+The Smashing Pumpkins , Death Cab for Cutie
+Nightwish , My Chemical Romance
+Nightwish , Keane
+Nightwish , Green Day
+Linkin Park , Children of Bodom
+Children of Bodom , Green Day
+Keane , The All-American Rejects
+Madonna , David Bowie
+Madonna , Guns N' Roses
+Madonna , 30 Seconds to Mars
+Madonna , Depeche Mode
+Madonna , The Killers
+Madonna , Regina Spektor
+David Bowie , Ke$ha
+David Bowie , Britney Spears
+Amy Winehouse , 30 Seconds to Mars
+Amy Winehouse , Michael Jackson
+Amy Winehouse , Björk
+The Cure , Katy Perry
+Guns N' Roses , Ke$ha
+Guns N' Roses , Michael Jackson
+Guns N' Roses , Britney Spears
+Guns N' Roses , Björk
+Guns N' Roses , Regina Spektor
+Depeche Mode , Ke$ha
+Depeche Mode , Rihanna
+Depeche Mode , Christina Aguilera
+Depeche Mode , Katy Perry
+Depeche Mode , Regina Spektor
+The Killers , Björk
+Ke$ha , Björk
+Ke$ha , Regina Spektor
+Michael Jackson , Regina Spektor
+Björk , Katy Perry
+Björk , Regina Spektor
+Lily Allen , Regina Spektor
+The Beatles , Papa Roach
+Guns N' Roses , The Smashing Pumpkins
+Guns N' Roses , Papa Roach
+Guns N' Roses , Kings of Leon
+Guns N' Roses , Ramones
+Guns N' Roses , Placebo
+Led Zeppelin , Snow Patrol
+Queen , Papa Roach
+Queen , Bob Dylan
+Queen , Snow Patrol
+The Rolling Stones , Papa Roach
+Aerosmith , The Smashing Pumpkins
+Aerosmith , Papa Roach
+Aerosmith , The Who
+Aerosmith , 30 Seconds to Mars
+Aerosmith , Ramones
+Aerosmith , Snow Patrol
+The Smashing Pumpkins , Snow Patrol
+U2 , Papa Roach
+Papa Roach , Keane
+Papa Roach , The Who
+Papa Roach , Bob Dylan
+Papa Roach , Franz Ferdinand
+Papa Roach , Radiohead
+Papa Roach , Pink Floyd
+Kings of Leon , The Who
+AC/DC , Snow Patrol
+The Who , 30 Seconds to Mars
+The Who , Placebo
+Blur , 30 Seconds to Mars
+Blur , Snow Patrol
+Tool , Regina Spektor
+A Perfect Circle , Regina Spektor
+A Perfect Circle , Massive Attack
+A Perfect Circle , The Cure
+Foo Fighters , Regina Spektor
+Queens of the Stone Age , Regina Spektor
+Queens of the Stone Age , Placebo
+Queens of the Stone Age , Death Cab for Cutie
+Nine Inch Nails , Regina Spektor
+Nine Inch Nails , Death Cab for Cutie
+Regina Spektor , Deftones
+Regina Spektor , Alice in Chains
+Regina Spektor , Opeth
+Regina Spektor , Massive Attack
+Björk , Red Hot Chili Peppers
+Alice in Chains , Massive Attack
+Opeth , Massive Attack
+Opeth , Death Cab for Cutie
+Massive Attack , Death Cab for Cutie
+The Cure , Death Cab for Cutie
+Foo Fighters , Rise Against
+Foo Fighters , Breaking Benjamin
+Weezer , Rise Against
+Weezer , Evanescence
+Weezer , Breaking Benjamin
+Weezer , The Offspring
+Weezer , Papa Roach
+Rise Against , Pearl Jam
+Breaking Benjamin , The Offspring
+Breaking Benjamin , Pearl Jam
+The Offspring , Papa Roach
+Pearl Jam , Papa Roach
+Led Zeppelin , Amy Winehouse
+Led Zeppelin , Marilyn Manson
+Pearl Jam , Belle and Sebastian
+Pixies , Lady Gaga
+Pixies , Amy Winehouse
+Pixies , Aerosmith
+Pixies , Marilyn Manson
+Belle and Sebastian , The Rolling Stones
+Belle and Sebastian , Lady Gaga
+Belle and Sebastian , Amy Winehouse
+Belle and Sebastian , Michael Jackson
+Belle and Sebastian , Aerosmith
+Belle and Sebastian , AC/DC
+Belle and Sebastian , Metallica
+Belle and Sebastian , Marilyn Manson
+Belle and Sebastian , Weezer
+Belle and Sebastian , Guns N' Roses
+The Rolling Stones , Amy Winehouse
+Amy Winehouse , AC/DC
+Amy Winehouse , The Doors
+Amy Winehouse , Nirvana
+Amy Winehouse , Ramones
+Aerosmith , Metallica
+Aerosmith , Marilyn Manson
+Aerosmith , Phoenix
+Aerosmith , The Doors
+Aerosmith , Weezer
+AC/DC , Phoenix
+The Strokes , Marilyn Manson
+Marilyn Manson , Phoenix
+Marilyn Manson , The Doors
+Marilyn Manson , Ramones
+Phoenix , The Doors
+Phoenix , Guns N' Roses
+The Doors , Guns N' Roses
+Weezer , Guns N' Roses
+Led Zeppelin , Tegan and Sara
+Pink Floyd , Tegan and Sara
+System of a Down , Tegan and Sara
+Guns N' Roses , Tegan and Sara
+Tegan and Sara , AC/DC
+Crystal Castles , A Perfect Circle
+Portishead , Lady Gaga
+Bloc Party , A Perfect Circle
+Bloc Party , Nine Inch Nails
+Tegan and Sara , A Perfect Circle
+Tegan and Sara , Nine Inch Nails
+A Perfect Circle , Yeah Yeah Yeahs
+Yeah Yeah Yeahs , Nine Inch Nails
+Slipknot , All Time Low
+Avril Lavigne , Metallica
+All Time Low , Metallica
+All Time Low , Breaking Benjamin
+All Time Low , Bullet for My Valentine
+System of a Down , Crystal Castles
+Rammstein , Crystal Castles
+Slipknot , AC/DC
+Slipknot , Massive Attack
+Slipknot , Gorillaz
+Slipknot , Crystal Castles
+Korn , Children of Bodom
+Korn , Massive Attack
+Korn , Gorillaz
+Korn , Crystal Castles
+Metallica , Massive Attack
+Metallica , Gorillaz
+Metallica , Crystal Castles
+Slayer , Children of Bodom
+Slayer , Linkin Park
+Slayer , Gorillaz
+Linkin Park , Crystal Castles
+AC/DC , Massive Attack
+AC/DC , Gorillaz
+AC/DC , Crystal Castles
+Radiohead , Taylor Swift
+Death Cab for Cutie , Taylor Swift
+Death Cab for Cutie , Kanye West
+Death Cab for Cutie , Queen
+Regina Spektor , Kanye West
+Regina Spektor , Queen
+Tool , Taylor Swift
+Tool , Sigur Rós
+The Strokes , Taylor Swift
+The Strokes , A Perfect Circle
+Taylor Swift , A Perfect Circle
+Taylor Swift , Sigur Rós
+Taylor Swift , Queen
+A Perfect Circle , Eminem
+A Perfect Circle , Kanye West
+Eminem , Queen
+Tegan and Sara , Kasabian
+Tegan and Sara , Nickelback
+Tegan and Sara , Michael Jackson
+Avril Lavigne , Kasabian
+Kasabian , Lady Gaga
+The xx , Nickelback
+The xx , Michael Jackson
+Britney Spears , Death Cab for Cutie
+Britney Spears , Crystal Castles
+Nirvana , Crystal Castles
+Nickelback , Crystal Castles
+Nickelback , blink-182
+Nickelback , Lily Allen
+Death Cab for Cutie , Michael Jackson
+Crystal Castles , Lily Allen
+Katy Perry , Queen
+Katy Perry , Weezer
+The Rolling Stones , Rihanna
+Regina Spektor , Snow Patrol
+Regina Spektor , Kasabian
+Regina Spektor , Blur
+The Strokes , Panic! At the Disco
+Snow Patrol , Panic! At the Disco
+Panic! At the Disco , Lily Allen
+Panic! At the Disco , Blur
+Lily Allen , Blur
+Guns N' Roses , Fall Out Boy
+Guns N' Roses , blink-182
+Guns N' Roses , The Used
+Guns N' Roses , Panic! At the Disco
+Led Zeppelin , Cobra Starship
+The Clash , Cobra Starship
+Florence + the Machine , The All-American Rejects
+Florence + the Machine , blink-182
+Franz Ferdinand , The All-American Rejects
+Nirvana , Regina Spektor
+The All-American Rejects , Regina Spektor
+The Cure , Sigur Rós
+The Strokes , Crystal Castles
+Regina Spektor , The Who
+Regina Spektor , Daft Punk
+Britney Spears , U2
+Beyoncé , U2
+Katy Perry , MGMT
+Katy Perry , Daft Punk
+Ke$ha , U2
+MGMT , Christina Aguilera
+Christina Aguilera , U2
+Daft Punk , Michael Jackson
+Daft Punk , U2
+The Smiths , Evanescence
+The Cure , Evanescence
+Nine Inch Nails , Evanescence
+Belle and Sebastian , Placebo
+Belle and Sebastian , Evanescence
+Regina Spektor , Evanescence
+Taylor Swift , Panic! At the Disco
+Taylor Swift , Keane
+Opeth , The Offspring
+A Perfect Circle , The Offspring
+Florence + the Machine , Queens of the Stone Age
+Florence + the Machine , Jimi Hendrix
+Florence + the Machine , Alice in Chains
+Florence + the Machine , Beck
+Red Hot Chili Peppers , Beck
+Queens of the Stone Age , Beck
+Jimi Hendrix , Alice in Chains
+Alice in Chains , Beck
+Avril Lavigne , Queen
+Avril Lavigne , Korn
+Guns N' Roses , Korn
+Queen , Korn
+Queen , Nightwish
+Korn , Nightwish
+Bullet for My Valentine , The Offspring
+Bullet for My Valentine , Panic! At the Disco
+Bullet for My Valentine , Slayer
+The Offspring , Avril Lavigne
+The Offspring , 30 Seconds to Mars
+Rammstein , Marilyn Manson
+Rammstein , My Chemical Romance
+Rise Against , Slayer
+Rise Against , Avril Lavigne
+Slipknot , Panic! At the Disco
+Evanescence , Slayer
+Linkin Park , Panic! At the Disco
+Panic! At the Disco , Slayer
+Paramore , Slayer
+Slayer , Green Day
+Slayer , Placebo
+Slayer , Avril Lavigne
+Slayer , The Used
+Slayer , My Chemical Romance
+Avril Lavigne , The Prodigy
+My Chemical Romance , The Prodigy
+Korn , Kasabian
+Korn , Björk
+Korn , Bob Dylan
+Korn , Pixies
+Tool , Gorillaz
+A Perfect Circle , Gorillaz
+A Perfect Circle , Bob Dylan
+A Perfect Circle , Pixies
+Slipknot , Björk
+Slipknot , Pixies
+System of a Down , Pixies
+U2 , Pixies
+The Prodigy , David Bowie
+Deftones , David Bowie
+Deftones , Bob Dylan
+Deftones , Pixies
+Bob Dylan , Pixies
+Bob Dylan , Madonna
+Bob Dylan , Nickelback
+The Doors , Paramore
+The Doors , Taylor Swift
+The Doors , Madonna
+The Doors , Katy Perry
+The Doors , Nickelback
+Paramore , The Rolling Stones
+Led Zeppelin , Taylor Swift
+Led Zeppelin , Nickelback
+Taylor Swift , System of a Down
+Taylor Swift , Jimi Hendrix
+Taylor Swift , The Rolling Stones
+Taylor Swift , Ramones
+Taylor Swift , Aerosmith
+Madonna , System of a Down
+Madonna , Jimi Hendrix
+Madonna , Aerosmith
+System of a Down , Katy Perry
+Nirvana , Katy Perry
+Jimi Hendrix , Katy Perry
+Jimi Hendrix , Nickelback
+Fall Out Boy , The Rolling Stones
+Ramones , Katy Perry
+Ramones , Nickelback
+Nickelback , Aerosmith
+Joy Division , Rammstein
+Joy Division , Slipknot
+blink-182 , Björk
+blink-182 , Daft Punk
+Björk , Rammstein
+The Doors , Rammstein
+The White Stripes , The Offspring
+Nightwish , AC/DC
+Nightwish , The Doors
+Nightwish , Snow Patrol
+Nightwish , The Offspring
+Nine Inch Nails , AC/DC
+Nine Inch Nails , The Offspring
+Opeth , AC/DC
+Opeth , The Doors
+Opeth , Snow Patrol
+Opeth , Portishead
+AC/DC , Portishead
+Queen , The Offspring
+Queen , Portishead
+Red Hot Chili Peppers , Portishead
+Snow Patrol , The Offspring
+The Offspring , Portishead
+The Beatles , Rise Against
+Green Day , Modest Mouse
+Green Day , The Rolling Stones
+Green Day , Jimi Hendrix
+The Who , Modest Mouse
+The Who , Rise Against
+The Offspring , Modest Mouse
+The Offspring , The Clash
+The Offspring , Beck
+Modest Mouse , AC/DC
+Modest Mouse , Rise Against
+Modest Mouse , Oasis
+The Clash , Rise Against
+The Killers , Rise Against
+The Rolling Stones , Rise Against
+The Rolling Stones , blink-182
+Rise Against , Beck
+Rise Against , Bob Dylan
+Rise Against , Jimi Hendrix
+Rise Against , Oasis
+Beck , blink-182
+Bob Dylan , blink-182
+The Smashing Pumpkins , Jimi Hendrix
+The Who , Björk
+Björk , Franz Ferdinand
+Björk , The Clash
+Red Hot Chili Peppers , The All-American Rejects
+Iron Maiden , The All-American Rejects
+Iron Maiden , Vampire Weekend
+Iron Maiden , David Bowie
+Iron Maiden , Death Cab for Cutie
+Iron Maiden , MGMT
+Iron Maiden , The White Stripes
+Iron Maiden , Ramones
+The All-American Rejects , The White Stripes
+The All-American Rejects , AC/DC
+Vampire Weekend , AC/DC
+Vampire Weekend , Avenged Sevenfold
+David Bowie , Avenged Sevenfold
+Death Cab for Cutie , AC/DC
+Death Cab for Cutie , Avenged Sevenfold
+MGMT , Avenged Sevenfold
+Ramones , Avenged Sevenfold
+Avenged Sevenfold , Florence + the Machine
+Avenged Sevenfold , Alice in Chains
+Avenged Sevenfold , Guns N' Roses
+Christina Aguilera , Florence + the Machine
+Christina Aguilera , Slipknot
+Christina Aguilera , Alice in Chains
+Christina Aguilera , AC/DC
+Christina Aguilera , Rammstein
+Christina Aguilera , System of a Down
+Christina Aguilera , Iron Maiden
+Christina Aguilera , Ramones
+Florence + the Machine , Metallica
+Florence + the Machine , Guns N' Roses
+Florence + the Machine , Iron Maiden
+Florence + the Machine , Ramones
+Slipknot , Alice in Chains
+Alice in Chains , Ke$ha
+Alice in Chains , Guns N' Roses
+Evanescence , AC/DC
+Evanescence , Guns N' Roses
+Evanescence , David Bowie
+Evanescence , Ramones
+Ke$ha , Rammstein
+Ke$ha , System of a Down
+Ke$ha , Iron Maiden
+Ke$ha , Ramones
+Modest Mouse , The White Stripes
+Deftones , Beck
+blink-182 , David Bowie
+The Smashing Pumpkins , Ke$ha
+Paramore , Alice in Chains
+Alice in Chains , Lady Gaga
+Evanescence , Blur
+Lady Gaga , Blur
+Ke$ha , Blur
+Coldplay , Pixies
+Keane , Pixies
+Kings of Leon , Pixies
+Pixies , Lily Allen
+MGMT , Queens of the Stone Age
+MGMT , Pixies
+Queens of the Stone Age , Arctic Monkeys
+Queens of the Stone Age , The Strokes
+Queens of the Stone Age , Ramones
+Modest Mouse , Kasabian
+The Beatles , Breaking Benjamin
+Phoenix , Breaking Benjamin
+Keane , Fall Out Boy
+Fall Out Boy , Interpol
+Fall Out Boy , Lily Allen
+Interpol , Breaking Benjamin
+Interpol , Three Days Grace
+Interpol , The Offspring
+Kanye West , Breaking Benjamin
+Kanye West , The Offspring
+Breaking Benjamin , Kings of Leon
+Breaking Benjamin , Lily Allen
+Breaking Benjamin , Bloc Party
+Breaking Benjamin , The Smiths
+Three Days Grace , The Offspring
+Three Days Grace , The Smiths
+Lily Allen , The Offspring
+The Offspring , The Smiths
+Florence + the Machine , The Smashing Pumpkins
+Franz Ferdinand , Crystal Castles
+Madonna , Snow Patrol
+Madonna , Crystal Castles
+Madonna , Rammstein
+Snow Patrol , Crystal Castles
+Lily Allen , The Who
+Lily Allen , The Doors
+The All-American Rejects , Tegan and Sara
+The All-American Rejects , The Who
+The All-American Rejects , The Doors
+The Strokes , Katy Perry
+Paramore , The Who
+Keane , Katy Perry
+Keane , 3OH!3
+Tegan and Sara , The White Stripes
+Tegan and Sara , Foo Fighters
+Tegan and Sara , 3OH!3
+Tegan and Sara , The Doors
+The White Stripes , Katy Perry
+Death Cab for Cutie , The Doors
+Katy Perry , The Who
+The Who , 3OH!3
+3OH!3 , The Doors
+Slayer , Nightwish
+Slayer , The Killers
+Nightwish , Foo Fighters
+Nightwish , The Killers
+Nightwish , Megadeth
+Evanescence , Megadeth
+U2 , Regina Spektor
+Michael Jackson , Keane
+The Strokes , Madonna
+The Rolling Stones , Regina Spektor
+Madonna , Pearl Jam
+Madonna , Keane
+Pearl Jam , Katy Perry
+Pearl Jam , Regina Spektor
+Florence + the Machine , Blur
+Florence + the Machine , Joy Division
+Blur , The xx
+Joy Division , The xx
+Joy Division , The Kooks
+Joy Division , Regina Spektor
+Joy Division , Coldplay
+Michael Jackson , Vampire Weekend
+The xx , Pearl Jam
+Pearl Jam , Crystal Castles
+Iron Maiden , Rise Against
+The Offspring , Children of Bodom
+Children of Bodom , Rise Against
+Children of Bodom , Queens of the Stone Age
+Children of Bodom , The Rolling Stones
+Rise Against , Queens of the Stone Age
+Pearl Jam , Britney Spears
+Bob Dylan , Britney Spears
+Bob Dylan , Megadeth
+Oasis , Megadeth
+Oasis , Opeth
+Britney Spears , Beck
+Britney Spears , Megadeth
+Britney Spears , Nine Inch Nails
+Britney Spears , Opeth
+Britney Spears , Red Hot Chili Peppers
+Lady Gaga , Beck
+Lady Gaga , Megadeth
+Lady Gaga , Opeth
+Beck , Megadeth
+Beck , Metallica
+Beck , Opeth
+Megadeth , The Doors
+Arctic Monkeys , Taylor Swift
+Ke$ha , The Strokes
+Taylor Swift , Kings of Leon
+Taylor Swift , Kasabian
+Taylor Swift , Yeah Yeah Yeahs
+Florence + the Machine , Avril Lavigne
+Katy Perry , Kasabian
+Kasabian , Christina Aguilera
+All Time Low , The Strokes
+The Strokes , Christina Aguilera
+Metallica , The xx
+Queen , Deftones
+Queen , Slipknot
+Aerosmith , Deftones
+Aerosmith , Queens of the Stone Age
+Aerosmith , Slipknot
+Aerosmith , The Prodigy
+Deftones , Michael Jackson
+Deftones , Kings of Leon
+Pearl Jam , Nickelback
+Pearl Jam , Slipknot
+Pearl Jam , The Prodigy
+The Offspring , Nickelback
+The Offspring , The xx
+The Offspring , Guns N' Roses
+The Offspring , U2
+The Offspring , Michael Jackson
+Queens of the Stone Age , Nickelback
+Queens of the Stone Age , Guns N' Roses
+Queens of the Stone Age , Slipknot
+Nickelback , Alice in Chains
+Nickelback , The Cure
+The xx , Guns N' Roses
+The xx , U2
+The xx , Alice in Chains
+The xx , Slipknot
+The xx , The Prodigy
+Alice in Chains , The Prodigy
+Slipknot , Coldplay
+Slipknot , Michael Jackson
+Slipknot , Kings of Leon
+The Prodigy , Kings of Leon
+Belle and Sebastian , Lily Allen
+Lily Allen , Joy Division
+Depeche Mode , Marilyn Manson
+Depeche Mode , Massive Attack
+Amy Winehouse , Massive Attack
+Daft Punk , Bloc Party
+The Who , Bloc Party
+Bloc Party , Bob Dylan
+Aerosmith , Black Sabbath
+Aerosmith , Daft Punk
+Death Cab for Cutie , Black Sabbath
+The Rolling Stones , Gorillaz
+Papa Roach , The All-American Rejects
+The All-American Rejects , Breaking Benjamin
+Breaking Benjamin , My Chemical Romance
+Guns N' Roses , The Kooks
+Aerosmith , Avenged Sevenfold
+Breaking Benjamin , U2
+Breaking Benjamin , Red Hot Chili Peppers
+Breaking Benjamin , Vampire Weekend
+Breaking Benjamin , Beck
+Breaking Benjamin , Gorillaz
+Breaking Benjamin , The xx
+Bloc Party , U2
+Rammstein , Death Cab for Cutie
+Rammstein , Beck
+Rammstein , The xx
+System of a Down , Snow Patrol
+System of a Down , Beck
+Beck , The xx
+Foo Fighters , Portishead
+U2 , Portishead
+Portishead , The Prodigy
+Depeche Mode , The Prodigy
+Linkin Park , Björk
+Nightwish , Blur
+Blur , Avril Lavigne
+Snow Patrol , Björk
+Children of Bodom , The Beatles
+Children of Bodom , Bob Dylan
+Children of Bodom , Queen
+Green Day , Iron Maiden
+Green Day , Megadeth
+Megadeth , Three Days Grace
+Megadeth , Linkin Park
+Megadeth , Disturbed
+Megadeth , Papa Roach
+Pink Floyd , Evanescence
+Linkin Park , Queen
+Disturbed , Bob Dylan
+Disturbed , Black Sabbath
+Disturbed , Queen
+Bob Dylan , Evanescence
+Black Sabbath , Papa Roach
+Black Sabbath , Evanescence
+Queen , Evanescence
+Papa Roach , Gorillaz
+Papa Roach , Beck
+Gorillaz , Panic! At the Disco
+Panic! At the Disco , Beck
+Snow Patrol , Korn
+Placebo , Beck
+Fall Out Boy , Beck
+Kasabian , Linkin Park
+Beck , Korn
+Beck , Linkin Park
+Beck , 30 Seconds to Mars
+Massive Attack , Modest Mouse
+Massive Attack , The All-American Rejects
+Massive Attack , Evanescence
+Massive Attack , Three Days Grace
+Modest Mouse , The All-American Rejects
+Modest Mouse , Evanescence
+Modest Mouse , Three Days Grace
+Eminem , Blur
+The All-American Rejects , Gorillaz
+The All-American Rejects , Blur
+The All-American Rejects , The Rolling Stones
+Evanescence , Gorillaz
+Evanescence , The Rolling Stones
+Gorillaz , Three Days Grace
+Three Days Grace , The Rolling Stones
+Korn , Modest Mouse
+Modest Mouse , Slipknot
+Modest Mouse , Disturbed
+Massive Attack , Disturbed
+Megadeth , All Time Low
+Megadeth , Daft Punk
+Megadeth , 3OH!3
+All Time Low , The Cure
+All Time Low , Daft Punk
+The Cure , 3OH!3
+Daft Punk , 3OH!3
+Disturbed , Gorillaz
+Disturbed , Avril Lavigne
+Disturbed , Guns N' Roses
+Nightwish , Gorillaz
+Nightwish , Pearl Jam
+Avenged Sevenfold , Gorillaz
+Bullet for My Valentine , Gorillaz
+Gorillaz , Avril Lavigne
+Avril Lavigne , Pearl Jam
+A Perfect Circle , Amy Winehouse
+A Perfect Circle , Linkin Park
+Deftones , Amy Winehouse
+Deftones , Lady Gaga
+Queens of the Stone Age , Amy Winehouse
+Amy Winehouse , Nine Inch Nails
+Amy Winehouse , Slipknot
+Linkin Park , Tool
+Belle and Sebastian , The White Stripes
+Beck , Regina Spektor
+Beck , Tegan and Sara
+Pixies , Sigur Rós
+Pixies , Regina Spektor
+Pixies , Tegan and Sara
+Pixies , Vampire Weekend
+Pixies , The xx
+Regina Spektor , The White Stripes
+David Bowie , The xx
+The White Stripes , The xx
+Nightwish , Pink Floyd
+The Cure , Avenged Sevenfold
+The Cure , Nightwish
+Avenged Sevenfold , Joy Division
+Bullet for My Valentine , Joy Division
+Joy Division , A Perfect Circle
+Joy Division , Nightwish
+Joy Division , Evanescence
+A Perfect Circle , Evanescence
+Madonna , The Prodigy
+Lily Allen , The Prodigy
+Katy Perry , The Prodigy
+Madonna , The White Stripes
+Crystal Castles , The White Stripes
+Crystal Castles , Queen
+Bloc Party , The White Stripes
+Bloc Party , Amy Winehouse
+Daft Punk , Amy Winehouse
+Gorillaz , The Clash
+The Offspring , Vampire Weekend
+The Offspring , Amy Winehouse
+The Clash , Amy Winehouse
+The White Stripes , Amy Winehouse
+Modest Mouse , Regina Spektor
+Modest Mouse , The Used
+Crystal Castles , The Used
+Regina Spektor , The Used
+Tegan and Sara , The Used
+The Used , Vampire Weekend
+Rise Against , The All-American Rejects
+Rise Against , Nightwish
+Papa Roach , System of a Down
+Modest Mouse , Marilyn Manson
+Modest Mouse , Linkin Park
+The Smashing Pumpkins , Tegan and Sara
+The Smashing Pumpkins , Marilyn Manson
+Korn , Tegan and Sara
+Tegan and Sara , Marilyn Manson
+Tegan and Sara , Linkin Park
+Radiohead , Avenged Sevenfold
+Britney Spears , The Smiths
+Britney Spears , The Clash
+Britney Spears , Blur
+Lady Gaga , Avenged Sevenfold
+Lily Allen , The Clash
+Franz Ferdinand , Kanye West
+Franz Ferdinand , Taylor Swift
+Franz Ferdinand , Avenged Sevenfold
+Kanye West , Blur
+Kanye West , Avenged Sevenfold
+Daft Punk , Taylor Swift
+Daft Punk , Avenged Sevenfold
+Daft Punk , The Smashing Pumpkins
+The Smiths , Taylor Swift
+The Smiths , Avenged Sevenfold
+Pink Floyd , Taylor Swift
+The Clash , Taylor Swift
+The Clash , Avenged Sevenfold
+Regina Spektor , Avenged Sevenfold
+Regina Spektor , The Smashing Pumpkins
+Taylor Swift , Blur
+Taylor Swift , Avenged Sevenfold
+Taylor Swift , The Smashing Pumpkins
+Taylor Swift , Björk
+Blur , Avenged Sevenfold
+Blur , Rihanna
+Avenged Sevenfold , Rihanna
+Avenged Sevenfold , The Smashing Pumpkins
+Avenged Sevenfold , Björk
+Avenged Sevenfold , The Strokes
+Rihanna , The Strokes
+Björk , The Strokes
+The All-American Rejects , The Prodigy
+Nightwish , The Prodigy
+Nightwish , Fall Out Boy
+The Prodigy , MGMT
+Nine Inch Nails , Rise Against
+The Clash , The Prodigy
+The Clash , Linkin Park
+Bloc Party , Rise Against
+Bloc Party , The Smashing Pumpkins
+Rise Against , The Cure
+Gorillaz , Belle and Sebastian
+David Bowie , Bullet for My Valentine
+Queen , Bullet for My Valentine
+The All-American Rejects , Phoenix
+The Strokes , Black Eyed Peas
+Phoenix , Ke$ha
+Phoenix , Black Eyed Peas
+Ke$ha , Modest Mouse
+The Kooks , Modest Mouse
+Black Eyed Peas , Modest Mouse
+The xx , Taylor Swift
+Florence + the Machine , Queen
+The Cure , Taylor Swift
+Breaking Benjamin , Queen
+Gorillaz , Rise Against
+Rise Against , Queen
+Portishead , 3OH!3
+Portishead , Florence + the Machine
+Depeche Mode , Daft Punk
+Depeche Mode , 3OH!3
+Bloc Party , 3OH!3
+Daft Punk , Florence + the Machine
+3OH!3 , Yeah Yeah Yeahs
+Belle and Sebastian , Modest Mouse
+Modest Mouse , Lily Allen
+Depeche Mode , Death Cab for Cutie
+Depeche Mode , Nickelback
+Depeche Mode , Breaking Benjamin
+Depeche Mode , Cobra Starship
+Depeche Mode , Panic! At the Disco
+Gorillaz , Nickelback
+Gorillaz , Cobra Starship
+Placebo , Cobra Starship
+Nickelback , Cobra Starship
+The Killers , Cobra Starship
+Breaking Benjamin , Cobra Starship
+Breaking Benjamin , Panic! At the Disco
+Breaking Benjamin , Rihanna
+Panic! At the Disco , Rihanna
+Korn , Joy Division
+Korn , Portishead
+Joy Division , System of a Down
+Joy Division , Deftones
+The Smiths , Amy Winehouse
+Amy Winehouse , Blur
+Sigur Rós , Linkin Park
+The Kooks , Eminem
+Avril Lavigne , The Smashing Pumpkins
+Eminem , Franz Ferdinand
+Interpol , Linkin Park
+Yeah Yeah Yeahs , Kanye West
+Beck , My Chemical Romance
+Bloc Party , Queens of the Stone Age
+Queens of the Stone Age , My Chemical Romance
+Queens of the Stone Age , Keane
+Modest Mouse , My Chemical Romance
+Keane , Opeth
+Black Sabbath , Rammstein
+The Rolling Stones , Nightwish
+Britney Spears , Cobra Starship
+Beyoncé , Cobra Starship
+Madonna , 3OH!3
+3OH!3 , Regina Spektor
+Cobra Starship , Black Eyed Peas
+Cobra Starship , Regina Spektor
+Black Eyed Peas , Regina Spektor
+Panic! At the Disco , Black Eyed Peas
+Panic! At the Disco , Beyoncé
+Ke$ha , Snow Patrol
+Black Eyed Peas , My Chemical Romance
+Beyoncé , System of a Down
+Children of Bodom , blink-182
+Children of Bodom , Aerosmith
+Bullet for My Valentine , Weezer
+Bullet for My Valentine , Aerosmith
+Three Days Grace , Aerosmith
+Three Days Grace , Led Zeppelin
+Avenged Sevenfold , blink-182
+Avenged Sevenfold , Weezer
+Iron Maiden , Aerosmith
+Linkin Park , Aerosmith
+blink-182 , Aerosmith
+Green Day , Weezer
+Guns N' Roses , Rise Against
+Megadeth , Aerosmith
+Rise Against , Aerosmith
+Tool , Nickelback
+Rammstein , Michael Jackson
+Red Hot Chili Peppers , Michael Jackson
+Iron Maiden , Breaking Benjamin
+The Cure , Three Days Grace
+Michael Jackson , Breaking Benjamin
+Michael Jackson , Three Days Grace
+Michael Jackson , Slayer
+Three Days Grace , Pearl Jam
+Three Days Grace , Slayer
+Vampire Weekend , Beyoncé
+Beyoncé , Yeah Yeah Yeahs
+Beyoncé , Death Cab for Cutie
+Beyoncé , The Used
+Rihanna , The Used
+Three Days Grace , Daft Punk
+Daft Punk , Breaking Benjamin
+Madonna , Korn
+Queen , Panic! At the Disco
+Queen , 3OH!3
+Keane , Ke$ha
+Keane , Beyoncé
+The White Stripes , Beyoncé
+The White Stripes , Aerosmith
+Florence + the Machine , Aerosmith
+Madonna , blink-182
+Madonna , Kasabian
+Madonna , Panic! At the Disco
+Madonna , The Offspring
+Lady Gaga , The Offspring
+Britney Spears , Panic! At the Disco
+Britney Spears , Aerosmith
+Britney Spears , The Offspring
+Gorillaz , 3OH!3
+Kasabian , Beyoncé
+Ke$ha , Aerosmith
+Ke$ha , The Offspring
+Beyoncé , Aerosmith
+Beyoncé , The Offspring
+Beyoncé , The Strokes
+Panic! At the Disco , Aerosmith
+MGMT , Aerosmith
+Deftones , The Smiths
+Deftones , Interpol
+The Smiths , A Perfect Circle
+Interpol , A Perfect Circle
+Foo Fighters , Phoenix
+Franz Ferdinand , Alice in Chains
+Alice in Chains , Gorillaz
+Alice in Chains , Phoenix
+Alice in Chains , Kasabian
+Alice in Chains , Bloc Party
+Queens of the Stone Age , Phoenix
+Kasabian , The Rolling Stones
+Guns N' Roses , Bloc Party
+Black Eyed Peas , The Rolling Stones
+Black Eyed Peas , Incubus
+Black Eyed Peas , AC/DC
+Black Eyed Peas , Foo Fighters
+The Rolling Stones , Ke$ha
+Incubus , Ke$ha
+Christina Aguilera , Foo Fighters
+Nightwish , Death Cab for Cutie
+Nightwish , The Used
+Ke$ha , Death Cab for Cutie
+Ke$ha , The Used
+Rihanna , Modest Mouse
+Beyoncé , Modest Mouse
+Michael Jackson , Modest Mouse
+3OH!3 , Modest Mouse
+Katy Perry , Modest Mouse
+Avril Lavigne , Modest Mouse
+Beyoncé , Foo Fighters
+Beyoncé , Red Hot Chili Peppers
+Linkin Park , Phoenix
+Gorillaz , My Chemical Romance
+Avril Lavigne , Phoenix
+Kanye West , Marilyn Manson
+Evanescence , Vampire Weekend
+Evanescence , Phoenix
+Evanescence , Bloc Party
+Evanescence , U2
+My Chemical Romance , Vampire Weekend
+My Chemical Romance , U2
+The Prodigy , Vampire Weekend
+The Prodigy , Phoenix
+Vampire Weekend , Marilyn Manson
+Marilyn Manson , Bloc Party
+The Offspring , Regina Spektor
+Rise Against , Regina Spektor
+Rise Against , Interpol
+Regina Spektor , Weezer
+Three Days Grace , Britney Spears
+Breaking Benjamin , Taylor Swift
+Gorillaz , Nine Inch Nails
+Gorillaz , Opeth
+A Perfect Circle , Rammstein
+Nickelback , The Clash
+Bullet for My Valentine , The xx
+Bullet for My Valentine , Phoenix
+All Time Low , The xx
+All Time Low , The Doors
+All Time Low , Death Cab for Cutie
+The xx , Avenged Sevenfold
+The xx , Cobra Starship
+The Cure , Cobra Starship
+Avenged Sevenfold , Cobra Starship
+Avenged Sevenfold , Phoenix
+Cobra Starship , The Doors
+The Doors , Avril Lavigne
+The Doors , Breaking Benjamin
+Beyoncé , Phoenix
+Eminem , Breaking Benjamin
+Breaking Benjamin , 3OH!3
+Avril Lavigne , AC/DC
+Cobra Starship , System of a Down
+Rihanna , System of a Down
+System of a Down , Britney Spears
+Jimi Hendrix , Snow Patrol
+Sigur Rós , Foo Fighters
+Sigur Rós , The Who
+Snow Patrol , Tool
+Rihanna , Keane
+Snow Patrol , Michael Jackson
+Nickelback , Bloc Party
+Björk , Keane
+Death Cab for Cutie , Joy Division
+Belle and Sebastian , Queens of the Stone Age
+Tegan and Sara , Queens of the Stone Age
+Lily Allen , Queens of the Stone Age
+Queens of the Stone Age , The Smiths
+Queens of the Stone Age , Sigur Rós
+Lady Gaga , Joy Division
+Keane , Joy Division
+Nine Inch Nails , Green Day
+Tool , Green Day
+Slayer , Ramones
+Megadeth , Ramones
+Black Sabbath , Korn
+Bob Dylan , The All-American Rejects
+System of a Down , Daft Punk
+Daft Punk , Paramore
+The Doors , Iron Maiden
+Megadeth , Jimi Hendrix
+Regina Spektor , Iron Maiden
+Marilyn Manson , Beck
+Beck , Iron Maiden
+Megadeth , Blur
+Bob Dylan , Amy Winehouse
+David Bowie , Rise Against
+Lady Gaga , The Who
+The Who , Yeah Yeah Yeahs
+The Who , Rihanna
+Yeah Yeah Yeahs , Guns N' Roses
+Yeah Yeah Yeahs , Rise Against
+Yeah Yeah Yeahs , Pixies
+Pearl Jam , Tegan and Sara
+Gorillaz , Tegan and Sara
+Tegan and Sara , Rise Against
+Rihanna , Nine Inch Nails
+Rihanna , Rise Against
+Rihanna , Rammstein
+Rihanna , Pixies
+Rise Against , Pixies
+The Rolling Stones , Korn
+The Rolling Stones , Disturbed
+Phoenix , Iron Maiden
+Phoenix , Nightwish
+Phoenix , Korn
+Phoenix , Disturbed
+Phoenix , Opeth
+Green Day , Opeth
+U2 , Disturbed
+Massive Attack , Tegan and Sara
+Massive Attack , Avril Lavigne
+Green Day , Pixies
+Depeche Mode , Avril Lavigne
+U2 , Tegan and Sara
+Pixies , Avril Lavigne
+Madonna , Tegan and Sara
+Madonna , Death Cab for Cutie
+Nightwish , The Smashing Pumpkins
+Nightwish , The Strokes
+Sigur Rós , Michael Jackson
+The Clash , Portishead
+Portishead , Michael Jackson
+Florence + the Machine , Black Sabbath
+Crystal Castles , Daft Punk
+Daft Punk , Belle and Sebastian
+Massive Attack , Belle and Sebastian
+Eminem , Joy Division
+Eminem , Interpol
+Eminem , Madonna
+Eminem , Portishead
+Modest Mouse , Madonna
+Joy Division , Madonna
+Queens of the Stone Age , Blur
+Madonna , Portishead
+Eminem , Bullet for My Valentine
+The xx , The Smashing Pumpkins
+Phoenix , Nine Inch Nails
+Kings of Leon , Nine Inch Nails
+Beck , The All-American Rejects
+Beck , Kanye West
+Beck , Paramore
+Modest Mouse , Papa Roach
+Modest Mouse , Panic! At the Disco
+Modest Mouse , Kanye West
+Weezer , Panic! At the Disco
+Papa Roach , Kanye West
+Papa Roach , The Smiths
+Yeah Yeah Yeahs , The All-American Rejects
+Yeah Yeah Yeahs , Foo Fighters
+Bloc Party , Panic! At the Disco
+Panic! At the Disco , Kanye West
+Panic! At the Disco , Phoenix
+Panic! At the Disco , Interpol
+The All-American Rejects , Kanye West
+The All-American Rejects , The Smiths
+The All-American Rejects , Interpol
+Interpol , The xx
+Interpol , The Prodigy
+Interpol , Marilyn Manson
+The Prodigy , Snow Patrol
+Bloc Party , David Bowie
+Snow Patrol , Depeche Mode
+Snow Patrol , Britney Spears
+Marilyn Manson , Keane
+Marilyn Manson , The Smiths
+Tool , Florence + the Machine
+Florence + the Machine , A Perfect Circle
+A Perfect Circle , Rise Against
+The Smiths , Rise Against
+Rise Against , Joy Division
+Alice in Chains , Linkin Park
+Slipknot , The Smashing Pumpkins
+Slipknot , Tegan and Sara
+Slipknot , Black Eyed Peas
+Slipknot , MGMT
+The Cure , Children of Bodom
+Bullet for My Valentine , Black Eyed Peas
+The Smashing Pumpkins , Children of Bodom
+The Smashing Pumpkins , Slayer
+The Smashing Pumpkins , Black Eyed Peas
+Children of Bodom , Regina Spektor
+Children of Bodom , Tegan and Sara
+Children of Bodom , Black Eyed Peas
+Children of Bodom , MGMT
+Slayer , The xx
+Slayer , Regina Spektor
+Slayer , Tegan and Sara
+Slayer , Black Eyed Peas
+Slayer , MGMT
+Linkin Park , The xx
+Linkin Park , Regina Spektor
+The xx , Nightwish
+The xx , Opeth
+Regina Spektor , Nightwish
+Tegan and Sara , Opeth
+Tegan and Sara , Black Eyed Peas
+Nightwish , MGMT
+Opeth , Black Eyed Peas
+Crystal Castles , The Prodigy
+Crystal Castles , Pixies
+Crystal Castles , The Offspring
+Yeah Yeah Yeahs , The Offspring
+Pixies , The Offspring
+The Strokes , Rise Against
+The Strokes , Cobra Starship
+Rise Against , Black Sabbath
+Rise Against , Vampire Weekend
+Rise Against , Cobra Starship
+Rise Against , Taylor Swift
+Rise Against , Alice in Chains
+Black Sabbath , Vampire Weekend
+Black Sabbath , Cobra Starship
+Black Sabbath , Taylor Swift
+Vampire Weekend , Alice in Chains
+The Offspring , Taylor Swift
+Weezer , Cobra Starship
+Weezer , Taylor Swift
+Cobra Starship , The Rolling Stones
+Cobra Starship , Tool
+Taylor Swift , Alice in Chains
+Ke$ha , Tool
+Bob Dylan , Belle and Sebastian
+The xx , Daft Punk
+Tegan and Sara , Daft Punk
+Portishead , Regina Spektor
+3OH!3 , Red Hot Chili Peppers
+Opeth , Blur
+The White Stripes , Slayer
+Slayer , Blur
+Blur , A Perfect Circle
+U2 , Belle and Sebastian
+U2 , Modest Mouse
+Foo Fighters , Belle and Sebastian
+Belle and Sebastian , The All-American Rejects
+The All-American Rejects , Daft Punk
+The All-American Rejects , Pixies
+Modest Mouse , Daft Punk
+The Kooks , Iron Maiden
+The Kooks , Megadeth
+Iron Maiden , The Smashing Pumpkins
+Death Cab for Cutie , Megadeth
+Megadeth , The Smashing Pumpkins
+Crystal Castles , Marilyn Manson
+Crystal Castles , Evanescence
+Crystal Castles , Nightwish
+Panic! At the Disco , Nightwish
+Daft Punk , Alice in Chains
+Queen , Belle and Sebastian
+Black Eyed Peas , David Bowie
+Black Eyed Peas , The Who
+Black Eyed Peas , Belle and Sebastian
+Black Eyed Peas , Blur
+Black Eyed Peas , Bob Dylan
+Black Eyed Peas , The Clash
+Britney Spears , The Who
+Britney Spears , Belle and Sebastian
+Weezer , U2
+Rihanna , AC/DC
+Rihanna , Belle and Sebastian
+The Who , Belle and Sebastian
+Belle and Sebastian , The Clash
+Beyoncé , The Smiths
+The Smiths , Ke$ha
+Massive Attack , Katy Perry
+Franz Ferdinand , Nine Inch Nails
+Keane , Nine Inch Nails
+Bullet for My Valentine , Kanye West
+The Smiths , Disturbed
+The Clash , Disturbed
+The Cure , Disturbed
+Pixies , Disturbed
+Disturbed , Joy Division
+Disturbed , David Bowie
+Disturbed , The Doors
+Joy Division , The Offspring
+The Offspring , Ramones
+The Offspring , David Bowie
+Regina Spektor , All Time Low
+Kanye West , Madonna
+Slayer , Pixies
+The Used , Red Hot Chili Peppers
+My Chemical Romance , Disturbed
+My Chemical Romance , Guns N' Roses
+Cobra Starship , Red Hot Chili Peppers
+All Time Low , Guns N' Roses
+All Time Low , Red Hot Chili Peppers
+U2 , Panic! At the Disco
+Slipknot , Depeche Mode
+Queens of the Stone Age , Panic! At the Disco
+The Strokes , Korn
+The Strokes , Nine Inch Nails
+Pink Floyd , Panic! At the Disco
+Pink Floyd , My Chemical Romance
+Panic! At the Disco , Nine Inch Nails
+My Chemical Romance , Led Zeppelin
+My Chemical Romance , The Smiths
+My Chemical Romance , Weezer
+The Smiths , The Used
+The Who , The Used
+The Cure , The All-American Rejects
+Queen , The Used
+Weezer , The Used
+Foo Fighters , The Used
+Metallica , Madonna
+Metallica , Taylor Swift
+Megadeth , Madonna
+Megadeth , Taylor Swift
+Megadeth , The Smiths
+Megadeth , Katy Perry
+Megadeth , Bloc Party
+Megadeth , The Clash
+Black Sabbath , Madonna
+Black Sabbath , Katy Perry
+Black Sabbath , Bloc Party
+Opeth , Madonna
+Opeth , Taylor Swift
+Opeth , The Smiths
+Opeth , Katy Perry
+Opeth , Bloc Party
+Opeth , The Clash
+Madonna , Iron Maiden
+Madonna , Rise Against
+Madonna , Bloc Party
+Madonna , The Clash
+Madonna , Slipknot
+Madonna , Slayer
+Madonna , Red Hot Chili Peppers
+Madonna , Children of Bodom
+Iron Maiden , Taylor Swift
+Iron Maiden , Katy Perry
+Iron Maiden , The Clash
+Taylor Swift , Rammstein
+Taylor Swift , Bloc Party
+Taylor Swift , Slayer
+Taylor Swift , Red Hot Chili Peppers
+Taylor Swift , Children of Bodom
+Rise Against , Katy Perry
+The Smiths , Slayer
+The Smiths , Children of Bodom
+Lady Gaga , Slayer
+Lady Gaga , Children of Bodom
+Katy Perry , Rammstein
+Katy Perry , Slayer
+Katy Perry , Children of Bodom
+Bloc Party , Slipknot
+Bloc Party , Slayer
+Bloc Party , Children of Bodom
+The Clash , Slipknot
+The Clash , Slayer
+The Clash , Children of Bodom
+Nightwish , blink-182
+Nightwish , Kings of Leon
+Nightwish , Alice in Chains
+Disturbed , Kings of Leon
+Iron Maiden , Kings of Leon
+Björk , Fall Out Boy
+Fall Out Boy , Tegan and Sara
+A Perfect Circle , Coldplay
+Bloc Party , Massive Attack
+The xx , Massive Attack
+Vampire Weekend , Björk
+Modest Mouse , David Bowie
+Modest Mouse , Black Sabbath
+Belle and Sebastian , Black Sabbath
+Black Sabbath , The xx
+Black Sabbath , Phoenix
+Sigur Rós , The Prodigy
+All Time Low , Radiohead
+Evanescence , Jimi Hendrix
+Ke$ha , Deftones
+Ke$ha , Jimi Hendrix
+Ramones , Deftones
+Ramones , Nightwish
+Ramones , Beyoncé
+Ramones , Rihanna
+Ramones , The Prodigy
+Deftones , Madonna
+Deftones , Nightwish
+Deftones , Phoenix
+Deftones , Keane
+Deftones , Beyoncé
+Deftones , Rihanna
+Deftones , Katy Perry
+Deftones , Florence + the Machine
+Depeche Mode , Nightwish
+Depeche Mode , Beyoncé
+Nightwish , Beyoncé
+Nightwish , Katy Perry
+Nightwish , The Smiths
+Nightwish , Jimi Hendrix
+Nightwish , Michael Jackson
+Phoenix , Rihanna
+Phoenix , Katy Perry
+Beyoncé , Jimi Hendrix
+Rihanna , Jimi Hendrix
+Florence + the Machine , The Prodigy
+Jimi Hendrix , The Prodigy
+Jimi Hendrix , Michael Jackson
+The Prodigy , Children of Bodom
+Nine Inch Nails , Vampire Weekend
+Incubus , Pixies
+Slipknot , Death Cab for Cutie
+Slipknot , Yeah Yeah Yeahs
+Queens of the Stone Age , Vampire Weekend
+Led Zeppelin , Breaking Benjamin
+A Perfect Circle , The Rolling Stones
+Guns N' Roses , Breaking Benjamin
+The Rolling Stones , Breaking Benjamin
+David Bowie , Breaking Benjamin
+Breaking Benjamin , Black Sabbath
+My Chemical Romance , Daft Punk
+The Rolling Stones , 3OH!3
+The Rolling Stones , All Time Low
+Kanye West , Katy Perry
+Kanye West , 3OH!3
+Kanye West , Cobra Starship
+Kanye West , All Time Low
+The Smashing Pumpkins , 3OH!3
+The Smashing Pumpkins , Cobra Starship
+The Smashing Pumpkins , All Time Low
+Daft Punk , Cobra Starship
+Children of Bodom , Snow Patrol
+Children of Bodom , Yeah Yeah Yeahs
+Avenged Sevenfold , Snow Patrol
+Avenged Sevenfold , Yeah Yeah Yeahs
+Iron Maiden , Snow Patrol
+Iron Maiden , My Chemical Romance
+Iron Maiden , Yeah Yeah Yeahs
+Oasis , Slayer
+Guns N' Roses , Slayer
+Aerosmith , Slayer
+Jimi Hendrix , Slayer
+Jimi Hendrix , Children of Bodom
+Interpol , My Chemical Romance
+My Chemical Romance , Pearl Jam
+My Chemical Romance , Blur
+Regina Spektor , Led Zeppelin
+Regina Spektor , Jimi Hendrix
+Regina Spektor , AC/DC
+Beck , Guns N' Roses
+Red Hot Chili Peppers , Belle and Sebastian
+3OH!3 , Korn
+3OH!3 , Rammstein
+Nine Inch Nails , Aerosmith
+Pink Floyd , Florence + the Machine
+Sigur Rós , Alice in Chains
+Sigur Rós , Breaking Benjamin
+Modest Mouse , Florence + the Machine
+Modest Mouse , A Perfect Circle
+Modest Mouse , Breaking Benjamin
+Massive Attack , Breaking Benjamin
+Queens of the Stone Age , Breaking Benjamin
+Alice in Chains , Breaking Benjamin
+Florence + the Machine , Breaking Benjamin
+Snow Patrol , Tegan and Sara
+Tegan and Sara , The Prodigy
+The Clash , Massive Attack
+Modest Mouse , Amy Winehouse
+Sigur Rós , Amy Winehouse
+Daft Punk , Korn
+Rammstein , Jimi Hendrix
+Korn , Jimi Hendrix
+Jimi Hendrix , Marilyn Manson
+Modest Mouse , All Time Low
+Modest Mouse , Bullet for My Valentine
+The Smiths , All Time Low
+All Time Low , Blur
+All Time Low , Nine Inch Nails
+Eminem , David Bowie
+Rise Against , Keane
+Avenged Sevenfold , Keane
+Keane , Slipknot
+Regina Spektor , Three Days Grace
+Three Days Grace , Depeche Mode
+Three Days Grace , Yeah Yeah Yeahs
+Evanescence , The White Stripes
+Papa Roach , Sigur Rós
+Rammstein , Cobra Starship
+Rammstein , Sigur Rós
+Cobra Starship , Nightwish
+Cobra Starship , Sigur Rós
+Cobra Starship , Kings of Leon
+Sigur Rós , Ke$ha
+Breaking Benjamin , Ke$ha
+Eminem , Belle and Sebastian
+Florence + the Machine , Pixies
+Ke$ha , Pixies
+Crystal Castles , Deftones
+Crystal Castles , Opeth
+Crystal Castles , Bob Dylan
+Nightwish , Aerosmith
+Slayer , The Doors
+Children of Bodom , The Doors
+Amy Winehouse , Beck
+Rammstein , Belle and Sebastian
+Queens of the Stone Age , Crystal Castles
+Crystal Castles , Amy Winehouse
+Joy Division , Amy Winehouse
+The Smiths , Linkin Park
+Panic! At the Disco , Joy Division
+Joy Division , Linkin Park
+Ramones , Rise Against
+Queens of the Stone Age , The Clash
+Kanye West , Belle and Sebastian
+Disturbed , Slayer
+Paramore , The Clash
+Bloc Party , Black Eyed Peas
+Beyoncé , The Clash
+Megadeth , Gorillaz
+Megadeth , Crystal Castles
+Jimi Hendrix , Crystal Castles
+Daft Punk , Slayer
+Iron Maiden , Crystal Castles
+The Who , Crystal Castles
+The Doors , Crystal Castles
+Black Sabbath , Crystal Castles
+Crystal Castles , Guns N' Roses
+Michael Jackson , The All-American Rejects
+The All-American Rejects , Pearl Jam
+Pearl Jam , Fall Out Boy
+Arctic Monkeys , Nightwish
+Cobra Starship , Franz Ferdinand
+The Offspring , Black Eyed Peas
+Ke$ha , Franz Ferdinand
+Franz Ferdinand , Nightwish
+Breaking Benjamin , AC/DC
+Bullet for My Valentine , Queens of the Stone Age
+Bullet for My Valentine , The Rolling Stones
+Bullet for My Valentine , Daft Punk
+AC/DC , The xx
+All Time Low , Led Zeppelin
+All Time Low , Snow Patrol
+All Time Low , Gorillaz
+The Used , Gorillaz
+The Used , Christina Aguilera
+Papa Roach , Christina Aguilera
+Rise Against , Snow Patrol
+Rise Against , Christina Aguilera
+Cobra Starship , Queen
+Avenged Sevenfold , Depeche Mode
+AC/DC , Deftones
+Megadeth , Depeche Mode
+Megadeth , Joy Division
+Black Sabbath , Deftones
+Iron Maiden , Depeche Mode
+Queens of the Stone Age , Disturbed
+Deftones , The Who
+Disturbed , The Who
+Kings of Leon , Evanescence
+Joy Division , Snow Patrol
+Nine Inch Nails , Nickelback
+Rammstein , Beyoncé
+Rise Against , Beyoncé
+Rise Against , Franz Ferdinand
+Rihanna , Led Zeppelin
+Beyoncé , Led Zeppelin
+Vampire Weekend , Deftones
+The Strokes , Deftones
+The xx , Panic! At the Disco
+Bloc Party , Deftones
+Deftones , Panic! At the Disco
+Guns N' Roses , Eminem
+Avenged Sevenfold , 3OH!3
+Nightwish , Daft Punk
+Nightwish , Oasis
+Nightwish , The Clash
+Eminem , Ramones
+Eminem , The Clash
+The Rolling Stones , Panic! At the Disco
+Daft Punk , Evanescence
+Daft Punk , Panic! At the Disco
+Evanescence , The Clash
+3OH!3 , The Clash
+3OH!3 , Slipknot
+Ramones , Britney Spears
+The Clash , Ke$ha
+Slipknot , Britney Spears
+Black Eyed Peas , Papa Roach
+Beyoncé , Three Days Grace
+Michael Jackson , Papa Roach
+Three Days Grace , Rihanna
+Panic! At the Disco , Christina Aguilera
+Britney Spears , Papa Roach
+A Perfect Circle , Arctic Monkeys
+A Perfect Circle , The Killers
+Arctic Monkeys , Children of Bodom
+Alice in Chains , Children of Bodom
+Children of Bodom , Kasabian
+Children of Bodom , Coldplay
+Children of Bodom , Depeche Mode
+Bullet for My Valentine , Taylor Swift
+Kasabian , Nightwish
+Florence + the Machine , Led Zeppelin
+Nightwish , David Bowie
+Guns N' Roses , Sigur Rós
+Sigur Rós , Oasis
+Aerosmith , Evanescence
+Evanescence , The Doors
+Massive Attack , Keane
+Regina Spektor , The Prodigy
+Portishead , Kings of Leon
+Three Days Grace , Katy Perry
+Iron Maiden , Kanye West
+Eminem , Children of Bodom
+Eminem , Weezer
+Led Zeppelin , Ke$ha
+AC/DC , Kanye West
+David Bowie , Megadeth
+David Bowie , Children of Bodom
+Megadeth , Kanye West
+Megadeth , Ke$ha
+Megadeth , Yeah Yeah Yeahs
+Megadeth , Michael Jackson
+Children of Bodom , Kanye West
+Children of Bodom , Ke$ha
+Children of Bodom , Ramones
+Children of Bodom , Daft Punk
+Children of Bodom , Michael Jackson
+Kanye West , Disturbed
+Kanye West , Ramones
+Ke$ha , Disturbed
+Disturbed , Michael Jackson
+Sigur Rós , Ramones
+The Prodigy , Amy Winehouse
+Massive Attack , blink-182
+blink-182 , Portishead
+blink-182 , Amy Winehouse
+Katy Perry , Portishead
+Slayer , Amy Winehouse
+Pixies , Snow Patrol
+Snow Patrol , Alice in Chains
+MGMT , Alice in Chains
+Iron Maiden , The Used
+The Used , Children of Bodom
+Depeche Mode , Opeth
+Björk , Beyoncé
+Keane , A Perfect Circle
+Amy Winehouse , Opeth
+Lily Allen , A Perfect Circle
+Lily Allen , Opeth
+A Perfect Circle , Beyoncé
+Opeth , Beyoncé
+My Chemical Romance , Madonna
+The Used , Madonna
+Three Days Grace , Madonna
+All Time Low , Sigur Rós
+Paramore , A Perfect Circle
+Breaking Benjamin , Nine Inch Nails
+Green Day , A Perfect Circle
+The All-American Rejects , A Perfect Circle
+The All-American Rejects , Nine Inch Nails
+Snow Patrol , A Perfect Circle
+Paramore , Queens of the Stone Age
+Deftones , The Clash
+Korn , Cobra Starship
+Korn , Lily Allen
+Korn , The Kooks
+Cobra Starship , Foo Fighters
+Cobra Starship , Ramones
+Cobra Starship , Slipknot
+The Clash , Kasabian
+AC/DC , Björk
+U2 , Taylor Swift
+Black Eyed Peas , Aerosmith
+My Chemical Romance , Aerosmith
+Aerosmith , The All-American Rejects
+Black Eyed Peas , Keane
+Joy Division , Katy Perry
+Joy Division , Guns N' Roses
+Metallica , Sigur Rós
+Tool , Belle and Sebastian
+The Offspring , Sigur Rós
+The Offspring , Massive Attack
+System of a Down , Belle and Sebastian
+A Perfect Circle , Belle and Sebastian
+A Perfect Circle , The Who
+Belle and Sebastian , Incubus
+The Who , Massive Attack
+The xx , 3OH!3
+Cobra Starship , Björk
+Cobra Starship , Belle and Sebastian
+3OH!3 , Björk
+3OH!3 , Belle and Sebastian
+3OH!3 , Sigur Rós
+blink-182 , Kanye West
+Death Cab for Cutie , Rise Against
+Modest Mouse , Cobra Starship
+Kanye West , Rise Against
+3OH!3 , Weezer
+Three Days Grace , The Smashing Pumpkins
+Crystal Castles , Rise Against
+Crystal Castles , The All-American Rejects
+All Time Low , Bob Dylan
+Britney Spears , Rise Against
+Britney Spears , The Used
+Ke$ha , Bob Dylan
+Panic! At the Disco , Bob Dylan
+Panic! At the Disco , Katy Perry
+The Used , Bob Dylan
+The Used , Katy Perry
+Bob Dylan , 3OH!3
+Bob Dylan , Cobra Starship
+Joy Division , Britney Spears
+Bullet for My Valentine , Jimi Hendrix
+Alice in Chains , Three Days Grace
+Jimi Hendrix , 30 Seconds to Mars
+Jimi Hendrix , Three Days Grace
+Lily Allen , Jimi Hendrix
+David Bowie , Papa Roach
+The Clash , Papa Roach
+Linkin Park , Pixies
+Massive Attack , The Strokes
+Pixies , Eminem
+Crystal Castles , Black Eyed Peas
+Crystal Castles , My Chemical Romance
+The Used , Black Eyed Peas
+Korn , All Time Low
+Korn , The All-American Rejects
+Slipknot , The All-American Rejects
+The Rolling Stones , Deftones
+Opeth , Pixies
+Breaking Benjamin , Pixies
+Three Days Grace , Pixies
+Led Zeppelin , Britney Spears
+Opeth , Aerosmith
+Breaking Benjamin , Aerosmith
+Three Days Grace , David Bowie
+Tegan and Sara , Weezer
+Tegan and Sara , Panic! At the Disco
+AC/DC , A Perfect Circle
+Eminem , Keane
+Arctic Monkeys , Slayer
+The Strokes , Slayer
+Slayer , The Kooks
+Rihanna , The Offspring
+Weezer , Sigur Rós
+The All-American Rejects , The Clash
+A Perfect Circle , Black Eyed Peas
+Portishead , Black Eyed Peas
+Black Eyed Peas , Depeche Mode
+Taylor Swift , Placebo
+Joy Division , The Used
+Sigur Rós , The Used
+The Used , Depeche Mode
+Black Sabbath , Panic! At the Disco
+Black Sabbath , Regina Spektor
+Black Sabbath , The Kooks
+Black Sabbath , Franz Ferdinand
+Regina Spektor , Ramones
+The Kooks , Nightwish
+Lily Allen , Beck
+Amy Winehouse , Jimi Hendrix
+Kanye West , Jimi Hendrix
+My Chemical Romance , Portishead
+Avril Lavigne , Portishead
+Taylor Swift , Portishead
+Rihanna , Portishead
+Fall Out Boy , Portishead
+Britney Spears , Portishead
+Lily Allen , Portishead
+Christina Aguilera , Portishead
+All Time Low , The Clash
+The Clash , Breaking Benjamin
+Britney Spears , Children of Bodom
+The Smiths , Korn
+The Who , Korn
+The Who , Marilyn Manson
+Megadeth , The All-American Rejects
+Iron Maiden , All Time Low
+Iron Maiden , 3OH!3
+3OH!3 , Children of Bodom
+Franz Ferdinand , Katy Perry
+Florence + the Machine , Cobra Starship
+Cobra Starship , Blur
+Cobra Starship , Keane
+Tegan and Sara , Evanescence
+Tegan and Sara , Beyoncé
+Panic! At the Disco , Amy Winehouse
+Cobra Starship , Tegan and Sara
+Crystal Castles , Taylor Swift
+The Kooks , Alice in Chains
+Britney Spears , Alice in Chains
+Lily Allen , AC/DC
+The All-American Rejects , Sigur Rós
+Christina Aguilera , Weezer
+Christina Aguilera , Pearl Jam
+Alice in Chains , Katy Perry
+Breaking Benjamin , Christina Aguilera
+Belle and Sebastian , Linkin Park
+The xx , Evanescence
+Alice in Chains , Black Eyed Peas
+Madonna , AC/DC
+Madonna , Disturbed
+Korn , Black Eyed Peas
+Black Eyed Peas , Deftones
+Black Eyed Peas , Disturbed
+Deftones , 3OH!3
+Deftones , Lily Allen
+Disturbed , Lily Allen
+3OH!3 , Pearl Jam
+Franz Ferdinand , Deftones
+Deftones , Yeah Yeah Yeahs
+A Perfect Circle , Kings of Leon
+Interpol , Disturbed
+Snow Patrol , Disturbed
+Interpol , Avenged Sevenfold
+Alice in Chains , Crystal Castles
+Three Days Grace , The Who
+Breaking Benjamin , The Who
+Interpol , Guns N' Roses
+Interpol , Nickelback
+Avenged Sevenfold , Crystal Castles
+Avenged Sevenfold , Kings of Leon
+The Used , Florence + the Machine
+Crystal Castles , Papa Roach
+Regina Spektor , Papa Roach
+Cobra Starship , The Smiths
+Queens of the Stone Age , Three Days Grace
+Disturbed , Death Cab for Cutie
+Michael Jackson , Rise Against
+Belle and Sebastian , Fall Out Boy
+Pixies , Panic! At the Disco
+Pearl Jam , Panic! At the Disco
+Megadeth , Phoenix
+Megadeth , Pixies
+Children of Bodom , Phoenix
+Children of Bodom , Pixies
+Pixies , Jimi Hendrix
+Michael Jackson , Bullet for My Valentine
+Bloc Party , Eminem
+Rise Against , Daft Punk
+Death Cab for Cutie , Children of Bodom
+Death Cab for Cutie , Korn
+The Strokes , Children of Bodom
+Nine Inch Nails , Madonna
+The Who , Madonna
+The Who , Amy Winehouse
+Korn , Taylor Swift
+Korn , Ke$ha
+Taylor Swift , Papa Roach
+Lily Allen , Bob Dylan
+Franz Ferdinand , Slayer
+Coldplay , Slayer
+Interpol , Slayer
+The Who , Panic! At the Disco
+Panic! At the Disco , Alice in Chains
+Depeche Mode , Slayer
+Bob Dylan , Slayer
+Daft Punk , Nickelback
+Ramones , A Perfect Circle
+The Prodigy , 3OH!3
+Pink Floyd , Madonna
+Slipknot , Portishead
+Portishead , Green Day
+Portishead , Avenged Sevenfold
+Portishead , Panic! At the Disco
+Portishead , The All-American Rejects
+30 Seconds to Mars , The Smiths
+Amy Winehouse , Alice in Chains
+Beyoncé , Alice in Chains
+Beyoncé , Portishead
+Florence + the Machine , The Who
+All Time Low , David Bowie
+Bob Dylan , Rammstein
+Avenged Sevenfold , Beyoncé
+Avenged Sevenfold , Black Eyed Peas
+Cobra Starship , Iron Maiden
+Iron Maiden , Beyoncé
+Iron Maiden , Black Eyed Peas
+The Who , Fall Out Boy
+Alice in Chains , Belle and Sebastian
+Black Eyed Peas , Pink Floyd
+Snow Patrol , Queens of the Stone Age
+Belle and Sebastian , Kasabian
+Belle and Sebastian , Paramore
+Children of Bodom , Pearl Jam
+Children of Bodom , Joy Division
+Breaking Benjamin , Joy Division
+Nickelback , Modest Mouse
+Kasabian , Rihanna
+The Offspring , Christina Aguilera
+Death Cab for Cutie , Slayer
+Korn , Amy Winehouse
+Children of Bodom , Amy Winehouse
+Nine Inch Nails , Avril Lavigne
+Daft Punk , Avril Lavigne
+The Used , Aerosmith
+Vampire Weekend , A Perfect Circle
+A Perfect Circle , My Chemical Romance
+Interpol , Amy Winehouse
+Opeth , Joy Division
+Gorillaz , Regina Spektor
+Breaking Benjamin , The Smashing Pumpkins
+Breaking Benjamin , Black Eyed Peas
+3OH!3 , Tool
+Metallica , Black Eyed Peas
+My Chemical Romance , Tool
+Tool , Black Eyed Peas
+Black Eyed Peas , Death Cab for Cutie
+Michael Jackson , Interpol
+The Used , The xx
+The Used , Taylor Swift
+The Used , Belle and Sebastian
+Christina Aguilera , Belle and Sebastian
+30 Seconds to Mars , Belle and Sebastian
+3OH!3 , The Smiths
+Ke$ha , Belle and Sebastian
+Madonna , Belle and Sebastian
+Beyoncé , Belle and Sebastian
+Taylor Swift , Belle and Sebastian
+Belle and Sebastian , Katy Perry
+Belle and Sebastian , Slipknot
+Katy Perry , Breaking Benjamin
+David Bowie , Linkin Park
+Black Eyed Peas , Nine Inch Nails
+David Bowie , Beyoncé
+Beyoncé , Nine Inch Nails
+Nine Inch Nails , Katy Perry
+The Used , The Doors
+The Used , Interpol
+The Doors , My Chemical Romance
+Led Zeppelin , The All-American Rejects
+Interpol , Aerosmith
+A Perfect Circle , Franz Ferdinand
+Black Sabbath , Kasabian
+Children of Bodom , Kings of Leon
+Katy Perry , The Offspring
+Modest Mouse , Aerosmith
+Joy Division , Aerosmith
+Tegan and Sara , Kanye West
+Avenged Sevenfold , Katy Perry
+Taylor Swift , Depeche Mode
+Crystal Castles , The Rolling Stones
+The Rolling Stones , The Used
+The Used , Pink Floyd
+30 Seconds to Mars , The Doors
+The xx , The Who
+Phoenix , Slipknot
+Massive Attack , Panic! At the Disco
+Massive Attack , The Used
+Portishead , The Used
+Daft Punk , The Used
+Joy Division , Beyoncé
+Massive Attack , My Chemical Romance
+Franz Ferdinand , Megadeth
+Tool , Lily Allen
+Lily Allen , Led Zeppelin
+Bloc Party , Disturbed
+Björk , Weezer
+Depeche Mode , Weezer
+Weezer , Massive Attack
+The Prodigy , Modest Mouse
+Kings of Leon , Megadeth
+Megadeth , Avril Lavigne
+Megadeth , Beyoncé
+Megadeth , Florence + the Machine
+Britney Spears , Foo Fighters
+Breaking Benjamin , Beyoncé
+The Strokes , Opeth
+The Strokes , Megadeth
+The Clash , A Perfect Circle
+Tegan and Sara , Iron Maiden
+The xx , Rise Against
+The xx , Iron Maiden
+Interpol , Iron Maiden
+Christina Aguilera , Keane
+Bob Dylan , The xx
+30 Seconds to Mars , Weezer
+Lily Allen , Nine Inch Nails
+Cobra Starship , U2
+Avenged Sevenfold , U2
+Avenged Sevenfold , Madonna
+Disturbed , Taylor Swift
+Disturbed , Katy Perry
+Bullet for My Valentine , Katy Perry
+Bullet for My Valentine , Madonna
+Beck , Rihanna
+Beck , Black Eyed Peas
+Tool , Rihanna
+Bullet for My Valentine , Crystal Castles
+Bullet for My Valentine , Sigur Rós
+Iron Maiden , Keane
+Franz Ferdinand , Children of Bodom
+Slayer , U2
+Jimi Hendrix , Weezer
+Placebo , Jimi Hendrix
+Avril Lavigne , Weezer

@@ -38,41 +38,40 @@ any optimizations you made and how they impact the run-time of the algorithm. */
             possible permutation of a list        
    
 */
-// Started at 6pm on saturday pause at 6:29, continuing 6:32 to 7:15, continuing at 740 - 8:15
-// Continued at 2:32 pm finished at 2:50
-// TODO: add unicode support
+// Total Time spent : 4 hours and 36 minutes
+
 public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// TODO: Perform file processing
 		File fileIn = new File("./Artist_lists_small.txt");
+		String outputFileName = "output.txt";
 		String inputAsString = "";
 		BufferedReader br;
 		
-		try {// Store the file as a string
+		// Initialize output file
+		try {
+			BufferedWriter writer = new BufferedWriter(new FileWriter(outputFileName));
+			writer.write("");
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
+		
+		try {// Store the input file as a string
 			br = new BufferedReader(new FileReader(fileIn));
 			String st; 
 			while ((st = br.readLine()) != null) {
-				inputAsString += st;}
+				inputAsString += st + "\n";
+				}
 		} catch (IOException e) {
 			e.printStackTrace();
 		} 
 		
-		  
-		
-
-		
-		String inputAsString2 = "Radiohead,Pulp,Morrissey,Delays,Stereophonics,Blur,Suede,Sleeper,The La's," + 
-				"Super Furry Animals,Iggy Pop\n" + 
-				"Band of Horses,Smashing Pumpkins,The Velvet Underground,Radiohead," + 
-				"The Decemberists,Morrissey,Television\\n ";
-		
 		// Implement algorithm on the input string
-		itemCoupleFindingAlgorithm test1 = new itemCoupleFindingAlgorithm(inputAsString);
-		
-	
-		
+		itemCoupleFindingAlgorithm test1 = new itemCoupleFindingAlgorithm(inputAsString, outputFileName);
+
+
 	}
 
 }
